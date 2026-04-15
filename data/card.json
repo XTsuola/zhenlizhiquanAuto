@@ -2583,6 +2583,252 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·生命徽记",
+        "zhenyin": 1,
+        "quality": 2,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：【洞察1】、洞察时：英雄生命+30"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·神授权柄",
+        "zhenyin": 1,
+        "quality": 2,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：若英雄生命高于敌方英雄，随机友军+16/+16，否则随机友军本回合攻击+16，获得【回命】"
+            }
+        ]
+    },
+    {
         "id": 22,
         "name": "盾甲禁卫",
         "zhenyin": 1,
@@ -3809,6 +4055,129 @@
                 "attack": 22,
                 "life": 33,
                 "effect": "【洞察1】、洞察时:自身+5/+6，英雄获得生命（等同自身攻击）"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·信念为铠",
+        "zhenyin": 1,
+        "quality": 2,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机友军生命+32，护甲+6"
             }
         ]
     },
@@ -6396,6 +6765,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·民兵集结",
+        "zhenyin": 1,
+        "quality": 3,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：召唤17/17小镇民兵-lv22"
+            }
+        ]
+    },
+    {
         "id": 53,
         "name": "圣殿骑士",
         "zhenyin": 1,
@@ -7380,6 +7872,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·圣堂护盾",
+        "zhenyin": 1,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：召唤2/45圣堂门卫-lv17（上限3次），随机护甲友军攻击+6"
+            }
+        ]
+    },
+    {
         "id": 61,
         "name": "月光祭司",
         "zhenyin": 1,
@@ -8360,6 +8975,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "横排敌军受到70点伤害，英雄生命+70"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·天使印记",
+        "zhenyin": 1,
+        "quality": 3,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：英雄生命+40、英雄恢复生命时：随机友军+18/+18，魔防+18"
             }
         ]
     },
@@ -10451,6 +11189,129 @@
                 "attack": 36,
                 "life": 75,
                 "effect": "【磐龙】、【践踏】、【护甲12】、【协战24】"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·天佑帝国",
+        "zhenyin": 1,
+        "quality": 4,
+        "cost": 5,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[6]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：全体友军+20/+20 本回合魔防+100、回合开始：随机友军+20/+20，获得【神佑】"
             }
         ]
     },
@@ -13899,6 +14760,252 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·无声蓄力",
+        "zhenyin": 2,
+        "quality": 2,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：获得沉默术-lv22、回合开始：每使用过一个法术，随机友军+12/+6，若为传记则改为+6/+12"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·逆魂谋略",
+        "zhenyin": 2,
+        "quality": 2,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机敌军攻击-10，随机友军生命+15，随机友军受到1点伤害"
+            }
+        ]
+    },
+    {
         "id": 114,
         "name": "学仆-补给型",
         "zhenyin": 2,
@@ -15125,6 +16232,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "抽2张牌、英雄生命+50"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·预兆天雷",
+        "zhenyin": 2,
+        "quality": 2,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：【洞察1】、洞察时：敌方随机区域坠落闪电（22点伤害）"
             }
         ]
     },
@@ -17220,6 +18450,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·附魔长枪",
+        "zhenyin": 2,
+        "quality": 3,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：全体先攻友军本回合免疫魔法伤害、回合开始：三个先攻友军本回合攻击+10，具有回命"
+            }
+        ]
+    },
+    {
         "id": 141,
         "name": "防护系教授",
         "zhenyin": 2,
@@ -18204,6 +19557,252 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·雷火莲花",
+        "zhenyin": 2,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "法力上限+1、登场：召唤25/45雷火工组-lv22"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·邪月之夜",
+        "zhenyin": 2,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：召唤20/7邪月蝙蝠lv-21"
+            }
+        ]
+    },
+    {
         "id": 149,
         "name": "白首魔根",
         "zhenyin": 2,
@@ -19061,6 +20660,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "召唤2个22/22发条型-lv22"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·荒野幻象",
+        "zhenyin": 2,
+        "quality": 3,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[6]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：荒敌方区域、召唤60/60幻象熊-lv22、回合结束：获得32/32幻象蛇-lv22"
             }
         ]
     },
@@ -21890,6 +23612,129 @@
                 "attack": 40,
                 "life": 40,
                 "effect": "登场:随机敌军受到40点伤害、攻击前:随机敌军受到14点伤害、死亡:召唤16/16赛文-lv22"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·No.1魔爆者",
+        "zhenyin": 2,
+        "quality": 4,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "同合开始：若本回合友方有充能，则随机友军+30/+30，护甲+10，魔防+10"
             }
         ]
     },
@@ -27552,6 +29397,252 @@
         ]
     },
     {
+        "id": 21,
+        "name": "根除魔障",
+        "zhenyin": 3,
+        "quality": 2,
+        "cost": 3,
+        "type": 2,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "目标友军+20/+40，消灭敌方随机一个符文"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·行者之道",
+        "zhenyin": 3,
+        "quality": 2,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场:英雄生命+30、回合结束:获得33/5鹿行者-lv22"
+            }
+        ]
+    },
+    {
         "id": 225,
         "name": "风铃道人",
         "zhenyin": 3,
@@ -28163,6 +30254,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "目标生物+12/+80、英雄生命+80"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "疾风图腾",
+        "zhenyin": 3,
+        "quality": 2,
+        "cost": 4,
+        "type": 2,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场:吹回随机敌军、回合开始:随机友军+15/+10"
             }
         ]
     },
@@ -29151,6 +31365,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·生生不息",
+        "zhenyin": 3,
+        "quality": 3,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "每当1个友军死去：另一友军+20/+20"
+            }
+        ]
+    },
+    {
         "id": 238,
         "name": "扫叶僧",
         "zhenyin": 3,
@@ -29885,6 +32222,129 @@
                 "attack": 33,
                 "life": 42,
                 "effect": "【传承12】、登场:获得卡牌【传家宝-lv22】"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·莲花护佑",
+        "zhenyin": 3,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[7]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：随机友军+15/+15，获得【传承15】、友军受到传承时：随机友军+15/+15，获得【神佑】2回合"
             }
         ]
     },
@@ -31242,6 +33702,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·箭竹林地",
+        "zhenyin": 3,
+        "quality": 3,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：获得25/5箭竹守卫-lv22、回合开始：召唤25/5箭竹守卫-lv22"
+            }
+        ]
+    },
+    {
         "id": 255,
         "name": "渡船隐士",
         "zhenyin": 3,
@@ -31976,6 +34559,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "召唤30/40龟族僧人lv-22，全体护甲友军+14/+14，获得【神佑】2回合"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·移花接木",
+        "zhenyin": 3,
+        "quality": 3,
+        "cost": 5,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机敌军-20/-20、回合结束：随机友军+20/+20"
             }
         ]
     },
@@ -33206,6 +35912,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "目标护甲生物获得【神佑】、【回命】、场上每有一个护甲生物，则它+14/+14，护甲+4"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·如来神掌",
+        "zhenyin": 3,
+        "quality": 4,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[7]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机友军本回合中攻击+30，并具有【护甲20】、【回命】、【践踏】"
             }
         ]
     },
@@ -37515,6 +40344,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·黑金追杀令",
+        "zhenyin": 4,
+        "quality": 2,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[0]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合结束：随机敌军生命-20"
+            }
+        ]
+    },
+    {
         "id": 306,
         "name": "热血矿工",
         "zhenyin": 4,
@@ -39360,6 +42312,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·海湾领地",
+        "zhenyin": 4,
+        "quality": 2,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[0]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：召唤2个10/10凶恶幼犬-lv18、回合开始：友军大于敌军，三个友军+5/+5"
+            }
+        ]
+    },
+    {
         "id": 321,
         "name": "南瓜大婶",
         "zhenyin": 4,
@@ -39848,6 +42923,129 @@
                 "attack": 30,
                 "life": 30,
                 "effect": "登场：敌方随机位置坠落闪电（30点伤害）、攻击前：人数高于对手，坠落闪电"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·黑海突袭",
+        "zhenyin": 4,
+        "quality": 2,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：召唤29/13黑水快剑手-lv22、回合开始：两个先攻友军+7/+5"
             }
         ]
     },
@@ -41082,6 +44280,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·绝命风暴",
+        "zhenyin": 4,
+        "quality": 3,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：吸对面35生命、回合开始：若生命高于敌军，50%概率吹走随机敌军"
+            }
+        ]
+    },
+    {
         "id": 335,
         "name": "幸福空间",
         "zhenyin": 4,
@@ -42185,6 +45506,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "若对面场上无敌军，召唤60/85迷茫巨人-lv22，否则召唤23/23沉稳主祭-lv22，抽一张牌，英雄生命+36"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·传承水晶球",
+        "zhenyin": 4,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：【洞察1】、洞察时：随机友军+10/+10、友军获得传承时：随机友军+10/+10，【洞察1】"
             }
         ]
     },
@@ -43542,6 +46986,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·掠夺杀戮",
+        "zhenyin": 4,
+        "quality": 3,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：随机敌军-90生命、每当一个敌军死亡：随机友军+6/+6"
+            }
+        ]
+    },
+    {
         "id": 355,
         "name": "贵族运输象",
         "zhenyin": 4,
@@ -44153,6 +47720,129 @@
                 "attack": 40,
                 "life": 52,
                 "effect": "回合开始：英雄生命高于对手，坠落闪电、攻击前：人数高于对手，投射火球"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·夜莺晚歌",
+        "zhenyin": 4,
+        "quality": 3,
+        "cost": 5,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "敌方法力-1、回合开始：召唤30/21夜幕魔宠-lv22"
             }
         ]
     },
@@ -45506,6 +49196,129 @@
                 "attack": 42,
                 "life": 19,
                 "effect": "【洞察2】、【连击】、【魔防140】、回合开始：若生命高于对手，获得【隐形】1回合；若人数多于对手，攻击+3"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·海王之怒",
+        "zhenyin": 4,
+        "quality": 4,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：敌方3个随机位置坠落闪电，造成15点伤害，50%概率眩晕1回合"
             }
         ]
     },
@@ -48216,6 +52029,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·流星雨",
+        "zhenyin": 5,
+        "quality": 2,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机敌方区域坠火球(24点伤害)"
+            }
+        ]
+    },
+    {
         "id": 393,
         "name": "猩红勇士",
         "zhenyin": 5,
@@ -49692,6 +53628,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·虚弱压制",
+        "zhenyin": 5,
+        "quality": 2,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：敌方玩家弃掉一张牌、回合开始：若敌方手牌为1或0，则随机友军+20/+10"
+            }
+        ]
+    },
+    {
         "id": 405,
         "name": "炼狱双头犬",
         "zhenyin": 5,
@@ -50672,6 +54731,129 @@
                 "attack": 30,
                 "life": 70,
                 "effect": "每当一个敌军死亡时:吸取敌方英雄12点生命"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "邪恶献祭",
+        "zhenyin": 5,
+        "quality": 2,
+        "cost": 4,
+        "type": 2,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "牺牲目标友军相邻一个友军+40/+40，抽两张牌"
             }
         ]
     },
@@ -52521,6 +56703,252 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·咆哮甲壳",
+        "zhenyin": 5,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[6]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场:召唤32/16腐化甲蛾-lv20、回合开始：两个护甲友军攻击+8，获得【践踏】1回合"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·熔岩喷射",
+        "zhenyin": 5,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：横排投射火球(30点伤害)，无视神佑魔免"
+            }
+        ]
+    },
+    {
         "id": 428,
         "name": "血炎鬼魅",
         "zhenyin": 5,
@@ -53382,6 +57810,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·燃烧灵魂",
+        "zhenyin": 5,
+        "quality": 3,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场:召唤36/19狂噬兽-lv22、回合开始：三个践踏友军攻击+12，持续1回合"
+            }
+        ]
+    },
+    {
         "id": 435,
         "name": "炼狱屠夫",
         "zhenyin": 5,
@@ -54239,6 +58790,129 @@
                 "attack": 25,
                 "life": 85,
                 "effect": "登场:召唤16/13红海使魔-lv19，每当一个友军死亡:吸取敌方英雄12点生命"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·猩红大军",
+        "zhenyin": 5,
+        "quality": 3,
+        "cost": 5,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场、回合开始：召唤22/22猩红仆从-lv22、敌方英雄生命-15"
             }
         ]
     },
@@ -56330,6 +61004,129 @@
                 "attack": 95,
                 "life": 50,
                 "effect": "【先攻】、回合开始:若你无手牌，消灭随机敌军，英雄生命-9"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·陨石诅咒",
+        "zhenyin": 5,
+        "quality": 4,
+        "cost": 6,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机敌方区域坠落陨石(66点伤害)，无视神佑魔免"
             }
         ]
     },
@@ -60270,6 +65067,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·原力冲击",
+        "zhenyin": 6,
+        "quality": 2,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[0]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机友军+16/+16"
+            }
+        ]
+    },
+    {
         "id": 491,
         "name": "荒野赞颂人",
         "zhenyin": 6,
@@ -61254,6 +66174,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·河马足迹",
+        "zhenyin": 6,
+        "quality": 2,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：召唤30/80厚皮河马-lv22、回合开始：随机迟缓友军+4+4，失去迟缓"
+            }
+        ]
+    },
+    {
         "id": 499,
         "name": "鼓舞图腾",
         "zhenyin": 6,
@@ -61619,6 +66662,129 @@
                 "attack": 48,
                 "life": 100,
                 "effect": "【迟缓】、回合结束:若本回合受到过伤害，向敌方横排投掷巨石"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·野性守护",
+        "zhenyin": 6,
+        "quality": 2,
+        "cost": 5,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[1]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：消灭敌方随机一个符文、回合开始：召唤24/6草原狼-lv22"
             }
         ]
     },
@@ -63218,6 +68384,375 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "召唤33/45高原守卫-lv22，随机友军+7/+17，全场生物受到1点伤害"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·噬人花田",
+        "zhenyin": 6,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[0]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：召唤0/100噬人花-lv22、回合开始：随机友军+10/-1"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·源力之石",
+        "zhenyin": 6,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "法力上限+1、回合开始：每有1点法力，随机友军+13/+13"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·穿山甲之灵",
+        "zhenyin": 6,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：召唤30/30穿山甲-lv22、雄获得生命时：随机友军攻击+8，护甲+3"
             }
         ]
     },
@@ -65190,6 +70725,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·象牙之歌",
+        "zhenyin": 6,
+        "quality": 3,
+        "cost": 6,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：召唤36/60长毛象-lv20"
+            }
+        ]
+    },
+    {
         "id": 531,
         "name": "蛮石独眼巨人",
         "zhenyin": 6,
@@ -66293,6 +71951,129 @@
                 "attack": 70,
                 "life": 70,
                 "effect": "【践踏】、【迟缓】、【魔防26】、有践踏友军在场，他失去【迟缓】；有迟缓友军在场，他获得【磐龙】"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·石破天惊",
+        "zhenyin": 6,
+        "quality": 4,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[7]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：召唤42/42原野狂战士-lv22、回合开始：随机践踏友军+5/+5，获得【磐龙】、【魂歌】，并且获得1回合【连击】"
             }
         ]
     },
@@ -69741,6 +75522,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·无尽折磨",
+        "zhenyin": 7,
+        "quality": 2,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "每当1个友军死亡：随机敌军-13/-13，无敌军则敌方英雄生命-13"
+            }
+        ]
+    },
+    {
         "id": 568,
         "name": "严冬苦行僧",
         "zhenyin": 7,
@@ -71094,6 +76998,129 @@
         ]
     },
     {
+        "id": 21,
+        "name": "符文·冰冷进击",
+        "zhenyin": 7,
+        "quality": 2,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机友军+13/+13，失去【守军】"
+            }
+        ]
+    },
+    {
         "id": 579,
         "name": "死寒猎手",
         "zhenyin": 7,
@@ -71459,6 +77486,129 @@
                 "attack": 28,
                 "life": 36,
                 "effect": "登场、英雄获得生命时：随机敌军-12/-12"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·寒灵禁锢",
+        "zhenyin": 7,
+        "quality": 2,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "敌方法力-1、登场：召唤27/27冻尸-lv22，冰封一个敌方区域"
             }
         ]
     },
@@ -72566,6 +78716,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "随机敌军-36/-36，敌方一张手牌法力+1，若敌方无手牌则你抽一张牌"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·天寒地冻",
+        "zhenyin": 7,
+        "quality": 3,
+        "cost": 2,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "冰封效果提升5倍(回合结束-6/-6或+6/+6)、回合开始：随机敌军-10/-10，冰封脚下"
             }
         ]
     },
@@ -73796,6 +80069,252 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "你手上一张牌法力+1，召唤2个35/27冬神狂信者-lv22"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·灵魂收割",
+        "zhenyin": 7,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场:召唤30/45噬魂骨妖-lv22、每当一个敌军死亡：随机友军攻击+5，魔防+5"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·武装大军",
+        "zhenyin": 7,
+        "quality": 3,
+        "cost": 3,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：召唤28/1骸骨战士-lv20，全体友军护甲+2"
             }
         ]
     },
@@ -75149,6 +81668,129 @@
                 "attack": 0,
                 "life": 0,
                 "effect": "冰封敌方区域，召唤27/45严冬苦行僧-lv22、随机敌军-24/-24"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·远古冰镜",
+        "zhenyin": 7,
+        "quality": 3,
+        "cost": 4,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：随机友军+20/+20，获得【传承10】、友军受到传承时：随机敌军-20/-20，无视神佑"
             }
         ]
     },
@@ -77732,6 +84374,129 @@
                 "attack": 45,
                 "life": 31,
                 "effect": "【魔免】、【传承12】、敌方法力-1、登场和受到传承时：女王隐形2回合、回合开始：随机敌军-x/-x，冰封脚下，眩晕1回合（x为自身的传承）"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "符文·冰原丧钟",
+        "zhenyin": 7,
+        "quality": 4,
+        "cost": 5,
+        "type": 4,
+        "img": "/test.jpg",
+        "grade": "[6]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机敌军攻击-10，它50%几率本回合不能攻击、回合结束：召唤39/39冰原咆哮者-lv19（上限3）"
             }
         ]
     },
