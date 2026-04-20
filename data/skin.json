@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "cardId": 82,
+        "cardId": 88,
         "name": "花光春影·安娜贝尔",
         "zhenyin": 1,
         "cost": 3,
@@ -20,7 +20,7 @@
     },
     {
         "id": 2,
-        "cardId": 82,
+        "cardId": 88,
         "name": "圣堂玫瑰·安娜贝尔",
         "zhenyin": 1,
         "cost": 3,
@@ -39,7 +39,7 @@
     },
     {
         "id": 3,
-        "cardId": 82,
+        "cardId": 88,
         "name": "蔚蓝之星·安娜贝尔",
         "zhenyin": 1,
         "cost": 3,
@@ -58,7 +58,7 @@
     },
     {
         "id": 4,
-        "cardId": 83,
+        "cardId": 89,
         "name": "百花长枪·卡洛琳",
         "zhenyin": 1,
         "cost": 4,
@@ -77,7 +77,7 @@
     },
     {
         "id": 5,
-        "cardId": 83,
+        "cardId": 89,
         "name": "蔚蓝幻梦·卡洛琳",
         "zhenyin": 1,
         "cost": 4,
@@ -96,7 +96,7 @@
     },
     {
         "id": 6,
-        "cardId": 83,
+        "cardId": 89,
         "name": "春花使者·卡洛琳",
         "zhenyin": 1,
         "cost": 4,
@@ -115,7 +115,7 @@
     },
     {
         "id": 7,
-        "cardId": 84,
+        "cardId": 90,
         "name": "明日香·露娜",
         "zhenyin": 1,
         "cost": 4,
@@ -134,7 +134,7 @@
     },
     {
         "id": 8,
-        "cardId": 85,
+        "cardId": 91,
         "name": "永恒之王·莱哈特",
         "zhenyin": 1,
         "cost": 5,
@@ -153,7 +153,7 @@
     },
     {
         "id": 9,
-        "cardId": 86,
+        "cardId": 93,
         "name": "白袍·伊恩",
         "zhenyin": 1,
         "cost": 6,
@@ -172,7 +172,7 @@
     },
     {
         "id": 10,
-        "cardId": 87,
+        "cardId": 94,
         "name": "司莫斯的光辉阵地",
         "zhenyin": 1,
         "cost": 6,
@@ -191,7 +191,7 @@
     },
     {
         "id": 11,
-        "cardId": 88,
+        "cardId": 95,
         "name": "审判天使·蕾娜",
         "zhenyin": 1,
         "cost": 7,
@@ -210,7 +210,7 @@
     },
     {
         "id": 12,
-        "cardId": 88,
+        "cardId": 95,
         "name": "炽天使·蕾娜",
         "zhenyin": 1,
         "cost": 7,
@@ -229,7 +229,7 @@
     },
     {
         "id": 13,
-        "cardId": 88,
+        "cardId": 95,
         "name": "权天使·蕾娜",
         "zhenyin": 1,
         "cost": 7,
@@ -248,7 +248,7 @@
     },
     {
         "id": 14,
-        "cardId": 89,
+        "cardId": 96,
         "name": "武圣·云长",
         "zhenyin": 1,
         "cost": 8,
@@ -267,7 +267,7 @@
     },
     {
         "id": 15,
-        "cardId": 90,
+        "cardId": 97,
         "name": "司莫斯的移动城堡",
         "zhenyin": 1,
         "cost": 9,
@@ -286,7 +286,7 @@
     },
     {
         "id": 16,
-        "cardId": 174,
+        "cardId": 188,
         "name": "圣僧·法海",
         "zhenyin": 2,
         "cost": 1,
@@ -305,7 +305,7 @@
     },
     {
         "id": 17,
-        "cardId": 175,
+        "cardId": 189,
         "name": "章鱼博士·希尔伯特",
         "zhenyin": 2,
         "cost": 2,
@@ -324,7 +324,7 @@
     },
     {
         "id": 18,
-        "cardId": 176,
+        "cardId": 190,
         "name": "硬化实验-流浆",
         "zhenyin": 2,
         "cost": 2,
@@ -343,7 +343,7 @@
     },
     {
         "id": 19,
-        "cardId": 177,
+        "cardId": 191,
         "name": "鬼刃·布雷克",
         "zhenyin": 2,
         "cost": 3,
@@ -362,7 +362,7 @@
     },
     {
         "id": 20,
-        "cardId": 177,
+        "cardId": 191,
         "name": "锋刃·布雷克",
         "zhenyin": 2,
         "cost": 3,
@@ -381,7 +381,7 @@
     },
     {
         "id": 21,
-        "cardId": 177,
+        "cardId": 191,
         "name": "冥刃·布雷克",
         "zhenyin": 2,
         "cost": 3,
@@ -400,7 +400,7 @@
     },
     {
         "id": 22,
-        "cardId": 178,
+        "cardId": 192,
         "name": "流星-7号",
         "zhenyin": 2,
         "cost": 4,
@@ -419,7 +419,7 @@
     },
     {
         "id": 23,
-        "cardId": 179,
+        "cardId": 194,
         "name": "月之神·米拉",
         "zhenyin": 2,
         "cost": 5,
@@ -438,7 +438,7 @@
     },
     {
         "id": 24,
-        "cardId": 179,
+        "cardId": 194,
         "name": "猩红之月·米拉",
         "zhenyin": 2,
         "cost": 5,
@@ -457,7 +457,7 @@
     },
     {
         "id": 25,
-        "cardId": 179,
+        "cardId": 194,
         "name": "青月·米拉",
         "zhenyin": 2,
         "cost": 5,
@@ -476,7 +476,7 @@
     },
     {
         "id": 26,
-        "cardId": 180,
+        "cardId": 195,
         "name": "滑板少年·迪宁",
         "zhenyin": 2,
         "cost": 6,
@@ -495,7 +495,7 @@
     },
     {
         "id": 27,
-        "cardId": 181,
+        "cardId": 196,
         "name": "火蛇巫女·沃凡瑞拉",
         "zhenyin": 2,
         "cost": 7,
@@ -514,7 +514,7 @@
     },
     {
         "id": 28,
-        "cardId": 182,
+        "cardId": 197,
         "name": "隐秘公爵·伊斯多维尔",
         "zhenyin": 2,
         "cost": 9,
@@ -533,7 +533,7 @@
     },
     {
         "id": 29,
-        "cardId": 182,
+        "cardId": 197,
         "name": "紫袍侯爵·伊斯多维尔",
         "zhenyin": 2,
         "cost": 9,
@@ -552,7 +552,7 @@
     },
     {
         "id": 30,
-        "cardId": 182,
+        "cardId": 197,
         "name": "黄衣之主·伊斯多维尔",
         "zhenyin": 2,
         "cost": 9,
@@ -571,7 +571,7 @@
     },
     {
         "id": 31,
-        "cardId": 269,
+        "cardId": 291,
         "name": "火凤凰·林",
         "zhenyin": 3,
         "cost": 3,
@@ -590,7 +590,7 @@
     },
     {
         "id": 32,
-        "cardId": 270,
+        "cardId": 292,
         "name": "灵龟神丹·艮",
         "zhenyin": 3,
         "cost": 3,
@@ -609,7 +609,7 @@
     },
     {
         "id": 33,
-        "cardId": 271,
+        "cardId": 294,
         "name": "九天玄女·轩",
         "zhenyin": 3,
         "cost": 4,
@@ -628,7 +628,7 @@
     },
     {
         "id": 34,
-        "cardId": 271,
+        "cardId": 294,
         "name": "九天歌者·轩",
         "zhenyin": 3,
         "cost": 4,
@@ -647,7 +647,7 @@
     },
     {
         "id": 35,
-        "cardId": 271,
+        "cardId": 294,
         "name": "天命传人·轩",
         "zhenyin": 3,
         "cost": 4,
@@ -666,7 +666,7 @@
     },
     {
         "id": 36,
-        "cardId": 272,
+        "cardId": 295,
         "name": "天蓬神锤",
         "zhenyin": 3,
         "cost": 4,
@@ -685,7 +685,7 @@
     },
     {
         "id": 37,
-        "cardId": 272,
+        "cardId": 295,
         "name": "上宝沁金耙",
         "zhenyin": 3,
         "cost": 4,
@@ -704,7 +704,7 @@
     },
     {
         "id": 38,
-        "cardId": 273,
+        "cardId": 296,
         "name": "豆子·凛",
         "zhenyin": 3,
         "cost": 4,
@@ -723,7 +723,7 @@
     },
     {
         "id": 39,
-        "cardId": 274,
+        "cardId": 297,
         "name": "咱们三熊",
         "zhenyin": 3,
         "cost": 4,
@@ -742,7 +742,7 @@
     },
     {
         "id": 40,
-        "cardId": 275,
+        "cardId": 298,
         "name": "踏雪行·铭/风雪豪侠",
         "zhenyin": 3,
         "cost": 5,
@@ -761,7 +761,7 @@
     },
     {
         "id": 41,
-        "cardId": 276,
+        "cardId": 299,
         "name": "许愿神树",
         "zhenyin": 3,
         "cost": 5,
@@ -780,7 +780,7 @@
     },
     {
         "id": 42,
-        "cardId": 278,
+        "cardId": 301,
         "name": "天蓬元帅·悟能",
         "zhenyin": 3,
         "cost": 6,
@@ -799,7 +799,7 @@
     },
     {
         "id": 43,
-        "cardId": 278,
+        "cardId": 301,
         "name": "东海大元帅·悟能",
         "zhenyin": 3,
         "cost": 6,
@@ -818,7 +818,7 @@
     },
     {
         "id": 44,
-        "cardId": 278,
+        "cardId": 301,
         "name": "天河大元帅·悟能",
         "zhenyin": 3,
         "cost": 6,
@@ -837,7 +837,7 @@
     },
     {
         "id": 45,
-        "cardId": 279,
+        "cardId": 302,
         "name": "玉虚真君·任大师",
         "zhenyin": 3,
         "cost": 7,
@@ -856,7 +856,7 @@
     },
     {
         "id": 46,
-        "cardId": 279,
+        "cardId": 302,
         "name": "青云剑祖·任大师",
         "zhenyin": 3,
         "cost": 7,
@@ -875,7 +875,7 @@
     },
     {
         "id": 47,
-        "cardId": 279,
+        "cardId": 302,
         "name": "赤霄剑主·任大师",
         "zhenyin": 3,
         "cost": 7,
@@ -893,27 +893,8 @@
         ]
     },
     {
-        "id": 48,
-        "cardId": 365,
-        "name": "蒙面侠客·翔",
-        "zhenyin": 4,
-        "cost": 2,
-        "skill": "Z字斩",
-        "img": "/mengmianxiake_xiang",
-        "shuxing": "攻击：29；生命：29",
-        "origin": "【先攻】、【回命】、【协战14】。",
-        "remark": "黑衣飘摇斗篷扬，长剑如霜斩邪狂。刻下传奇英雄印，豪侠之名世间藏。",
-        "effect": [
-            "登场：随机敌军受到3点伤害，50%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。",
-            "登场：随机敌军受到4点伤害，55%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。",
-            "登场：随机敌军受到5点伤害，60%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。",
-            "登场：随机敌军受到6点伤害，65%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。",
-            "登场：随机敌军受到7点伤害，70%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。"
-        ]
-    },
-    {
         "id": 49,
-        "cardId": 364,
+        "cardId": 394,
         "name": "小红帽密卷",
         "zhenyin": 4,
         "cost": 2,
@@ -932,7 +913,7 @@
     },
     {
         "id": 50,
-        "cardId": 364,
+        "cardId": 394,
         "name": "魔蝠密卷",
         "zhenyin": 4,
         "cost": 2,
@@ -950,8 +931,27 @@
         ]
     },
     {
+        "id": 48,
+        "cardId": 395,
+        "name": "蒙面侠客·翔",
+        "zhenyin": 4,
+        "cost": 2,
+        "skill": "Z字斩",
+        "img": "/mengmianxiake_xiang",
+        "shuxing": "攻击：29；生命：29",
+        "origin": "【先攻】、【回命】、【协战14】。",
+        "remark": "黑衣飘摇斗篷扬，长剑如霜斩邪狂。刻下传奇英雄印，豪侠之名世间藏。",
+        "effect": [
+            "登场：随机敌军受到3点伤害，50%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。",
+            "登场：随机敌军受到4点伤害，55%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。",
+            "登场：随机敌军受到5点伤害，60%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。",
+            "登场：随机敌军受到6点伤害，65%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。",
+            "登场：随机敌军受到7点伤害，70%几率沉默1回合、命中玩家：50%几率再次使用Z字斩。"
+        ]
+    },
+    {
         "id": 51,
-        "cardId": 366,
+        "cardId": 396,
         "name": "沙滩派对·鲍莉",
         "zhenyin": 4,
         "cost": 3,
@@ -970,7 +970,7 @@
     },
     {
         "id": 52,
-        "cardId": 366,
+        "cardId": 396,
         "name": "夏日女郎·鲍莉",
         "zhenyin": 4,
         "cost": 3,
@@ -989,7 +989,7 @@
     },
     {
         "id": 53,
-        "cardId": 366,
+        "cardId": 396,
         "name": "驯兽女王·鲍莉",
         "zhenyin": 4,
         "cost": 3,
@@ -1008,7 +1008,7 @@
     },
     {
         "id": 54,
-        "cardId": 367,
+        "cardId": 397,
         "name": "黑珍珠戴维船长",
         "zhenyin": 4,
         "cost": 3,
@@ -1027,7 +1027,7 @@
     },
     {
         "id": 55,
-        "cardId": 368,
+        "cardId": 398,
         "name": "戴维的邪月计划",
         "zhenyin": 4,
         "cost": 3,
@@ -1046,7 +1046,7 @@
     },
     {
         "id": 56,
-        "cardId": 369,
+        "cardId": 399,
         "name": "百变魔牌·梅基",
         "zhenyin": 4,
         "cost": 4,
@@ -1065,7 +1065,7 @@
     },
     {
         "id": 57,
-        "cardId": 369,
+        "cardId": 399,
         "name": "欺诈之眼·梅基",
         "zhenyin": 4,
         "cost": 4,
@@ -1084,7 +1084,7 @@
     },
     {
         "id": 58,
-        "cardId": 369,
+        "cardId": 399,
         "name": "幻视之眼·梅基",
         "zhenyin": 4,
         "cost": 4,
@@ -1103,7 +1103,7 @@
     },
     {
         "id": 59,
-        "cardId": 370,
+        "cardId": 400,
         "name": "樱花·艾希尔",
         "zhenyin": 4,
         "cost": 4,
@@ -1122,7 +1122,7 @@
     },
     {
         "id": 60,
-        "cardId": 371,
+        "cardId": 402,
         "name": "天雷降临·布瑞恩",
         "zhenyin": 4,
         "cost": 5,
@@ -1141,7 +1141,7 @@
     },
     {
         "id": 61,
-        "cardId": 372,
+        "cardId": 403,
         "name": "小红帽·蕾拉",
         "zhenyin": 4,
         "cost": 5,
@@ -1160,7 +1160,7 @@
     },
     {
         "id": 62,
-        "cardId": 373,
+        "cardId": 404,
         "name": "黑道圣徒·梅森",
         "zhenyin": 4,
         "cost": 7,
@@ -1179,7 +1179,7 @@
     },
     {
         "id": 63,
-        "cardId": 373,
+        "cardId": 404,
         "name": "外道狂徒·梅森",
         "zhenyin": 4,
         "cost": 7,
@@ -1198,7 +1198,7 @@
     },
     {
         "id": 64,
-        "cardId": 373,
+        "cardId": 404,
         "name": "白疤·梅森",
         "zhenyin": 4,
         "cost": 7,
@@ -1217,7 +1217,7 @@
     },
     {
         "id": 65,
-        "cardId": 453,
+        "cardId": 491,
         "name": "魅惑之心",
         "zhenyin": 5,
         "cost": 2,
@@ -1236,7 +1236,7 @@
     },
     {
         "id": 66,
-        "cardId": 453,
+        "cardId": 491,
         "name": "恶魔之心",
         "zhenyin": 5,
         "cost": 2,
@@ -1255,7 +1255,7 @@
     },
     {
         "id": 67,
-        "cardId": 454,
+        "cardId": 492,
         "name": "岩魔·血影",
         "zhenyin": 5,
         "cost": 3,
@@ -1274,7 +1274,7 @@
     },
     {
         "id": 68,
-        "cardId": 454,
+        "cardId": 492,
         "name": "爆燃·血影",
         "zhenyin": 5,
         "cost": 3,
@@ -1293,7 +1293,7 @@
     },
     {
         "id": 69,
-        "cardId": 454,
+        "cardId": 492,
         "name": "毒液·血影",
         "zhenyin": 5,
         "cost": 3,
@@ -1312,7 +1312,7 @@
     },
     {
         "id": 70,
-        "cardId": 455,
+        "cardId": 493,
         "name": "上古蛮王",
         "zhenyin": 5,
         "cost": 4,
@@ -1331,7 +1331,7 @@
     },
     {
         "id": 71,
-        "cardId": 456,
+        "cardId": 494,
         "name": "熔岩爆发",
         "zhenyin": 5,
         "cost": 4,
@@ -1350,7 +1350,7 @@
     },
     {
         "id": 72,
-        "cardId": 457,
+        "cardId": 495,
         "name": "熔金饕餮兽",
         "zhenyin": 5,
         "cost": 5,
@@ -1369,7 +1369,7 @@
     },
     {
         "id": 73,
-        "cardId": 457,
+        "cardId": 495,
         "name": "淬毒饕餮兽",
         "zhenyin": 5,
         "cost": 5,
@@ -1388,7 +1388,7 @@
     },
     {
         "id": 74,
-        "cardId": 457,
+        "cardId": 495,
         "name": "熔狱饕餮兽",
         "zhenyin": 5,
         "cost": 5,
@@ -1407,7 +1407,7 @@
     },
     {
         "id": 75,
-        "cardId": 458,
+        "cardId": 496,
         "name": "魅惑之翼·莉莉丝",
         "zhenyin": 5,
         "cost": 6,
@@ -1426,7 +1426,7 @@
     },
     {
         "id": 76,
-        "cardId": 458,
+        "cardId": 496,
         "name": "猩红女妖·莉莉丝",
         "zhenyin": 5,
         "cost": 6,
@@ -1445,7 +1445,7 @@
     },
     {
         "id": 77,
-        "cardId": 458,
+        "cardId": 496,
         "name": "瘟疫女王·莉莉丝",
         "zhenyin": 5,
         "cost": 6,
@@ -1464,7 +1464,7 @@
     },
     {
         "id": 78,
-        "cardId": 459,
+        "cardId": 498,
         "name": "虚空梦魇",
         "zhenyin": 5,
         "cost": 7,
@@ -1483,7 +1483,7 @@
     },
     {
         "id": 79,
-        "cardId": 460,
+        "cardId": 499,
         "name": "八岐大蛇",
         "zhenyin": 5,
         "cost": 8,
@@ -1502,7 +1502,7 @@
     },
     {
         "id": 80,
-        "cardId": 461,
+        "cardId": 500,
         "name": "黑暗泰坦·巴拉克",
         "zhenyin": 5,
         "cost": 9,
@@ -1521,7 +1521,7 @@
     },
     {
         "id": 81,
-        "cardId": 537,
+        "cardId": 583,
         "name": "孔雀王·霍利",
         "zhenyin": 6,
         "cost": 3,
@@ -1540,7 +1540,7 @@
     },
     {
         "id": 82,
-        "cardId": 538,
+        "cardId": 584,
         "name": "精灵王子·大羽",
         "zhenyin": 6,
         "cost": 3,
@@ -1559,7 +1559,7 @@
     },
     {
         "id": 83,
-        "cardId": 539,
+        "cardId": 585,
         "name": "双头法师",
         "zhenyin": 6,
         "cost": 4,
@@ -1578,7 +1578,7 @@
     },
     {
         "id": 84,
-        "cardId": 540,
+        "cardId": 587,
         "name": "热血摇滚·凯",
         "zhenyin": 6,
         "cost": 5,
@@ -1597,7 +1597,7 @@
     },
     {
         "id": 85,
-        "cardId": 540,
+        "cardId": 587,
         "name": "战争之音·凯",
         "zhenyin": 6,
         "cost": 5,
@@ -1616,7 +1616,7 @@
     },
     {
         "id": 86,
-        "cardId": 540,
+        "cardId": 587,
         "name": "冰川之歌·凯",
         "zhenyin": 6,
         "cost": 5,
@@ -1635,7 +1635,7 @@
     },
     {
         "id": 87,
-        "cardId": 541,
+        "cardId": 588,
         "name": "无畏战歌！",
         "zhenyin": 6,
         "cost": 5,
@@ -1654,7 +1654,7 @@
     },
     {
         "id": 88,
-        "cardId": 542,
+        "cardId": 589,
         "name": "吞海鲨鱼王",
         "zhenyin": 6,
         "cost": 6,
@@ -1673,7 +1673,7 @@
     },
     {
         "id": 89,
-        "cardId": 543,
+        "cardId": 590,
         "name": "白象战歌·鲁玛",
         "zhenyin": 6,
         "cost": 7,
@@ -1692,7 +1692,7 @@
     },
     {
         "id": 90,
-        "cardId": 543,
+        "cardId": 590,
         "name": "蛮铁巨象·鲁玛",
         "zhenyin": 6,
         "cost": 7,
@@ -1711,7 +1711,7 @@
     },
     {
         "id": 91,
-        "cardId": 543,
+        "cardId": 590,
         "name": "远古咆哮·鲁玛",
         "zhenyin": 6,
         "cost": 7,
@@ -1730,7 +1730,7 @@
     },
     {
         "id": 92,
-        "cardId": 544,
+        "cardId": 591,
         "name": "阿修罗·血眼",
         "zhenyin": 6,
         "cost": 8,
@@ -1749,7 +1749,7 @@
     },
     {
         "id": 93,
-        "cardId": 545,
+        "cardId": 592,
         "name": "黑焰魔龙",
         "zhenyin": 6,
         "cost": 9,
@@ -1768,7 +1768,7 @@
     },
     {
         "id": 94,
-        "cardId": 545,
+        "cardId": 592,
         "name": "碧焰狂龙",
         "zhenyin": 6,
         "cost": 9,
@@ -1787,7 +1787,7 @@
     },
     {
         "id": 95,
-        "cardId": 545,
+        "cardId": 592,
         "name": "冰焰尊龙",
         "zhenyin": 6,
         "cost": 9,
@@ -1806,7 +1806,7 @@
     },
     {
         "id": 96,
-        "cardId": 627,
+        "cardId": 681,
         "name": "无头骑士冰刃",
         "zhenyin": 7,
         "cost": 3,
@@ -1825,7 +1825,7 @@
     },
     {
         "id": 97,
-        "cardId": 627,
+        "cardId": 681,
         "name": "汲魂冰剑",
         "zhenyin": 7,
         "cost": 3,
@@ -1844,7 +1844,7 @@
     },
     {
         "id": 98,
-        "cardId": 628,
+        "cardId": 682,
         "name": "摄魂巫妖·野",
         "zhenyin": 7,
         "cost": 3,
@@ -1863,7 +1863,7 @@
     },
     {
         "id": 99,
-        "cardId": 629,
+        "cardId": 683,
         "name": "不息寒灵",
         "zhenyin": 7,
         "cost": 4,
@@ -1882,7 +1882,7 @@
     },
     {
         "id": 100,
-        "cardId": 630,
+        "cardId": 684,
         "name": "冰野隐秘行动",
         "zhenyin": 7,
         "cost": 4,
@@ -1901,7 +1901,7 @@
     },
     {
         "id": 101,
-        "cardId": 631,
+        "cardId": 685,
         "name": "无头骑士·塞古斯",
         "zhenyin": 7,
         "cost": 5,
@@ -1920,7 +1920,7 @@
     },
     {
         "id": 102,
-        "cardId": 631,
+        "cardId": 685,
         "name": "寒霜幽将·塞古斯",
         "zhenyin": 7,
         "cost": 5,
@@ -1939,7 +1939,7 @@
     },
     {
         "id": 103,
-        "cardId": 631,
+        "cardId": 685,
         "name": "索魂者·塞古斯",
         "zhenyin": 7,
         "cost": 5,
@@ -1958,7 +1958,7 @@
     },
     {
         "id": 104,
-        "cardId": 632,
+        "cardId": 686,
         "name": "辉夜女王",
         "zhenyin": 7,
         "cost": 5,
@@ -1977,7 +1977,7 @@
     },
     {
         "id": 105,
-        "cardId": 633,
+        "cardId": 688,
         "name": "冰雪女皇",
         "zhenyin": 7,
         "cost": 6,
@@ -1996,7 +1996,7 @@
     },
     {
         "id": 106,
-        "cardId": 634,
+        "cardId": 689,
         "name": "冰雪女王·冬神化身",
         "zhenyin": 7,
         "cost": 7,
@@ -2015,7 +2015,7 @@
     },
     {
         "id": 107,
-        "cardId": 634,
+        "cardId": 689,
         "name": "幽冥魔后·冬神化身",
         "zhenyin": 7,
         "cost": 7,
@@ -2034,7 +2034,7 @@
     },
     {
         "id": 108,
-        "cardId": 634,
+        "cardId": 689,
         "name": "摄魂歌后·冬神化身",
         "zhenyin": 7,
         "cost": 7,
@@ -2053,7 +2053,7 @@
     },
     {
         "id": 109,
-        "cardId": 635,
+        "cardId": 690,
         "name": "魂山·亚特拉斯",
         "zhenyin": 7,
         "cost": 8,
@@ -2072,7 +2072,7 @@
     },
     {
         "id": 110,
-        "cardId": 635,
+        "cardId": 690,
         "name": "炎山·亚特拉斯",
         "zhenyin": 7,
         "cost": 8,
@@ -2091,7 +2091,7 @@
     },
     {
         "id": 111,
-        "cardId": 635,
+        "cardId": 690,
         "name": "圣山·亚特拉斯",
         "zhenyin": 7,
         "cost": 8,

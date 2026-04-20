@@ -79,7 +79,6 @@ func heroAdd(url string) {
 	}
 	var addData models.HeroddData
 	addData.Data = data
-	fmt.Println(addData.Data)
 	utils.AutoAddTableData[models.HeroddData]("hero", url, addData)
 }
 
@@ -92,7 +91,6 @@ func shardAdd(url string) {
 	}
 	var addData models.ShardAddData
 	addData.Data = data
-	fmt.Println(addData.Data)
 	utils.AutoAddTableData[models.ShardAddData]("shard", url, addData)
 }
 
@@ -105,8 +103,19 @@ func skinAdd(url string) {
 	}
 	var addData models.SkinAddData
 	addData.Data = data
-	fmt.Println(addData.Data)
 	utils.AutoAddTableData[models.SkinAddData]("skin", url, addData)
+}
+
+// 每日一题答案
+func answerAdd(url string) {
+	var data []models.AnswerBase
+	if loadErr := utils.LoadJSON("data/answer.json", &data); loadErr != nil {
+		fmt.Println("读取失败：", loadErr)
+		return
+	}
+	var addData models.AnswerAddData
+	addData.Data = data
+	utils.AutoAddTableData[models.AnswerAddData]("answer", url, addData)
 }
 
 // 世界赛
@@ -128,14 +137,15 @@ func mysqlAuto(c *gin.Context) {
 		"msg": "自动化已执行",
 	})
 	go func() {
-		//skinDiyAdd("/skinDiy/addAll")
-		//cardDiyAdd("/cardDiy/addAll")
+		skinDiyAdd("/skinDiy/addAll")
+		cardDiyAdd("/cardDiy/addAll")
 		//frequencyAdd("/frequency/cardsAddAll")
-		cardAdd("/card/add")
+		//cardAdd("/card/add")
 		//shenqiAdd("/shenqi/add")
 		//heroAdd("/hero/add")
 		//shardAdd("/hero/shardAdd")
 		//skinAdd("/skin/add")
+		//answerAdd("/answer/addAll")
 		//shijiesaiAdd("/shijiesai/addList")
 	}()
 }
