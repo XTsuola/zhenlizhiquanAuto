@@ -6,6 +6,7 @@
         "quality": 1,
         "type": 1,
         "img": "/simangdiguo/gongminzhijian.jpg",
+        "bonus": "帝国·家园 劳动力+50%",
         "data": [
             {
                 "effect": "【回合6】全体友军攻击+1"
@@ -55,6 +56,7 @@
         "quality": 1,
         "type": 1,
         "img": "/simangdiguo/zhizhengguanchangjian.jpg",
+        "bonus": "帝国·英雄 每日能量罐使用上限+30",
         "data": [
             {
                 "effect": "【回合4结束】前排随机位置召唤【盾甲禁卫-lv2】"
@@ -104,6 +106,7 @@
         "quality": 1,
         "type": 1,
         "img": "/simangdiguo/junengzhijian.jpg",
+        "bonus": "帝国·英雄 每日能量宝箱价格-75%",
         "data": [
             {
                 "effect": "【回合3结束】中排随机位置召唤【帝国后勤官-lv1】"
@@ -153,6 +156,7 @@
         "quality": 1,
         "type": 1,
         "img": "/simangdiguo/jiangquanzhang.jpg",
+        "bonus": "排行榜，点赞【粉尘】+200%",
         "data": [
             {
                 "effect": "【回合4】随机友军攻击+1，并失去【守军】和【迟缓】"
@@ -202,6 +206,7 @@
         "quality": 2,
         "type": 1,
         "img": "/simangdiguo/yijibaojian.jpg",
+        "bonus": "帝国·遗迹寻宝 暴击率+42%",
         "data": [
             {
                 "effect": "【回合5】随机友军+1/+1，获得【回命】"
@@ -251,6 +256,7 @@
         "quality": 2,
         "type": 1,
         "img": "/simangdiguo/tianminglianchui.jpg",
+        "bonus": "天梯 每日3胜奖励的命运之石+200",
         "data": [
             {
                 "effect": "【回合5】随机友军+1/+1，获得【护甲2】"
@@ -300,6 +306,7 @@
         "quality": 2,
         "type": 1,
         "img": "/simangdiguo/kedijujian.jpg",
+        "bonus": "boss宝箱 5倍付费收益+240%",
         "data": [
             {
                 "effect": "【回合6】随机友军+3/+3，1个敌军【眩晕】1回合"
@@ -349,6 +356,7 @@
         "quality": 2,
         "type": 1,
         "img": "/simangdiguo/guangmangchangzhang.jpg",
+        "bonus": "钻石挑战，周三档获得【钻石】+80%",
         "data": [
             {
                 "effect": "【回合4】后排位置召唤【圣光主祭-lv1】"
@@ -398,6 +406,7 @@
         "quality": 2,
         "type": 1,
         "img": "/simangdiguo/jinweizhimao.jpg",
+        "bonus": "异界，战区排名奖励，星空币+150%",
         "data": [
             {
                 "effect": "【回合5】召唤【禁卫指挥官-lv1】"
@@ -447,6 +456,7 @@
         "quality": 3,
         "type": 1,
         "img": "/simangdiguo/zhengyishenpan.jpg",
+        "bonus": "帝国·英雄 能量恢复速度+75%",
         "data": [
             {
                 "effect": "【回合5】随机敌军-2/-2并眩晕，全体友军攻击+1"
@@ -496,6 +506,7 @@
         "quality": 3,
         "type": 1,
         "img": "/simangdiguo/rongyaomingyunquanzhang.jpg",
+        "bonus": "天梯 获胜时奖励的命运之石+35",
         "data": [
             {
                 "effect": "【回合5结束】获得【皇家狮鹫-lv2】，吹回随机敌军"
@@ -545,6 +556,7 @@
         "quality": 3,
         "type": 1,
         "img": "/simangdiguo/duanjinchui.jpg",
+        "bonus": "帝国·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合3】召唤【钢铁大师-lv2】"
@@ -594,6 +606,7 @@
         "quality": 1,
         "type": 2,
         "img": "/simangdiguo/yijiditu.jpg",
+        "bonus": "帝国·遗迹挂机收益+50%",
         "data": [
             {
                 "effect": "【回合2结束】获得【增援战线-lv2】"
@@ -643,6 +656,7 @@
         "quality": 1,
         "type": 2,
         "img": "/simangdiguo/nailihufu.jpg",
+        "bonus": "战役 每周购买体力上限+10",
         "data": [
             {
                 "effect": "【回合5结束】英雄生命+8"
@@ -692,6 +706,7 @@
         "quality": 1,
         "type": 2,
         "img": "/simangdiguo/zhengyixunzhang.jpg",
+        "bonus": "酒馆·正义阵营 刷卡数量+24",
         "data": [
             {
                 "effect": "【回合4】随机友军生命+2，护甲+1"
@@ -741,6 +756,7 @@
         "quality": 1,
         "type": 2,
         "img": "/simangdiguo/renpijiannang.jpg",
+        "bonus": "免费日礼包，蓝色能量罐+39",
         "data": [
             {
                 "effect": "【回合4】后排位置召唤【塔楼弓手-lv1】"
@@ -790,6 +806,7 @@
         "quality": 2,
         "type": 2,
         "img": "/simangdiguo/diguozhengbingling.jpg",
+        "bonus": "帝国·英雄（橙色及以上品质）高等级蓝卡概率+50%",
         "data": [
             {
                 "effect": "【回合1结束】前排随机位置召唤【防御工事-lv3】"
@@ -839,6 +856,7 @@
         "quality": 2,
         "type": 2,
         "img": "/simangdiguo/guangminghuiji.jpg",
+        "bonus": "帝国·英雄 能量恢复速度+70",
         "data": [
             {
                 "effect": "【回合3结束】获得【光明惩戒-lv3】"
@@ -888,6 +906,7 @@
         "quality": 2,
         "type": 2,
         "img": "/simangdiguo/zhengshouguanzhimao.jpg",
+        "bonus": "征收 金币数量+50%",
         "data": [
             {
                 "effect": "【回合5】召唤【圣殿卫士-lv1】、【警卫-lv1】"
@@ -937,6 +956,7 @@
         "quality": 2,
         "type": 2,
         "img": "/simangdiguo/zhenlijunhao.jpg",
+        "bonus": "公会捐赠所得【公会币】+100%",
         "data": [
             {
                 "effect": "【回合4】全体友军+1/+1，失去【守军】和【迟缓】"
@@ -986,6 +1006,7 @@
         "quality": 2,
         "type": 2,
         "img": "/simangdiguo/shengtengtiezhen.jpg",
+        "bonus": "公会-周任务【高级宝箱】收益+200%",
         "data": [
             {
                 "effect": "【回合2】前排位置召唤【圣堂门卫-lv1】"
@@ -1035,6 +1056,7 @@
         "quality": 3,
         "type": 2,
         "img": "/simangdiguo/tiantangshouhu.jpg",
+        "bonus": "帝国·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合6】前排随机位置召唤【荣光堡垒-lv1】"
@@ -1084,6 +1106,7 @@
         "quality": 3,
         "type": 2,
         "img": "/simangdiguo/tianshimianrong.jpg",
+        "bonus": "帝国·英雄（橙色及以上品质）抽出高等级紫卡概率+15%",
         "data": [
             {
                 "effect": "【回合5】2个友军+1/+2，本回合获得【神佑】、【回命】"
@@ -1133,6 +1156,7 @@
         "quality": 3,
         "type": 2,
         "img": "/simangdiguo/shengjiewenzhang.jpg",
+        "bonus": "周活动-陨石矿场，每日免费次数+12",
         "data": [
             {
                 "effect": "【回合3】召唤【白袍主教-lv2】"
@@ -1182,6 +1206,7 @@
         "quality": 1,
         "type": 1,
         "img": "/yinmizhe/lianjinshichangzhang.jpg",
+        "bonus": "隐秘者·家园 劳动力+50%",
         "data": [
             {
                 "effect": "【回合5结束】前排随机位置召唤【预言系教授-lv1】"
@@ -1231,6 +1256,7 @@
         "quality": 1,
         "type": 1,
         "img": "/yinmizhe/mojingyishibishou.jpg",
+        "bonus": "隐秘者·英雄 每日能量罐使用上限+30",
         "data": [
             {
                 "effect": "【回合6】召唤2只【邪月蝙蝠-lv1】"
@@ -1280,6 +1306,7 @@
         "quality": 1,
         "type": 1,
         "img": "/yinmizhe/junengquanzhang.jpg",
+        "bonus": "隐秘者·英雄 每日能量宝箱价格-75%",
         "data": [
             {
                 "effect": "【回合4】召唤【雷火工组-lv1】"
@@ -1329,6 +1356,7 @@
         "quality": 1,
         "type": 1,
         "img": "/yinmizhe/yinshechangzhang.jpg",
+        "bonus": "6元·日礼包，粉尘+1000",
         "data": [
             {
                 "effect": "【回合3结束】召唤并获得【幻象蛇-lv1】"
@@ -1378,6 +1406,7 @@
         "quality": 2,
         "type": 1,
         "img": "/yinmizhe/xunbaoduanzhang.jpg",
+        "bonus": "隐秘者·遗迹寻宝 暴击率+42%",
         "data": [
             {
                 "effect": "【回合3】随机友军攻击+1，获得【穿透】"
@@ -1427,6 +1456,7 @@
         "quality": 2,
         "type": 1,
         "img": "/yinmizhe/huamibaolun.jpg",
+        "bonus": "天梯 周宝箱收益+150%",
         "data": [
             {
                 "effect": "【回合6】你每有1点剩余法力，随机友军+1/+1，吸取敌方英雄1点生命"
@@ -1476,6 +1506,7 @@
         "quality": 2,
         "type": 1,
         "img": "/yinmizhe/xingjieyinjian.jpg",
+        "bonus": "观影礼包 收益+300%",
         "data": [
             {
                 "effect": "【回合1结束】获得【破魔系教授-lv2】"
@@ -1525,6 +1556,7 @@
         "quality": 2,
         "type": 1,
         "img": "/yinmizhe/maichongxiujian.jpg",
+        "bonus": "钻石挑战，周四五档获得【钻石】+70%",
         "data": [
             {
                 "effect": "【回合4】召唤【学仆-脉冲型-lv1】"
@@ -1574,6 +1606,7 @@
         "quality": 2,
         "type": 1,
         "img": "/yinmizhe/yumofaqiu.jpg",
+        "bonus": "异界，单场获胜立刻额外获得20个星空币",
         "data": [
             {
                 "effect": "【回合3】随机友军+1/+1，魔防+3"
@@ -1623,6 +1656,7 @@
         "quality": 3,
         "type": 1,
         "img": "/yinmizhe/wujinaomizhizhang.jpg",
+        "bonus": "隐秘者·英雄 能量恢复速度+75%",
         "data": [
             {
                 "effect": "【回合5】复制随机友军到手牌，2个敌军攻击-1"
@@ -1672,6 +1706,7 @@
         "quality": 3,
         "type": 1,
         "img": "/yinmizhe/mogangmifu.jpg",
+        "bonus": "粉尘月卡，对地城冒险战斗收益加成+100%",
         "data": [
             {
                 "effect": "【回合7】召唤【魔钢-lv2】"
@@ -1721,6 +1756,7 @@
         "quality": 3,
         "type": 1,
         "img": "/yinmizhe/leiquan.jpg",
+        "bonus": "隐秘者·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合4】召唤【魔像-术法风暴-lv2】"
@@ -1770,6 +1806,7 @@
         "quality": 1,
         "type": 2,
         "img": "/yinmizhe/xunbaozhuangzhi.jpg",
+        "bonus": "隐秘者·遗迹挂机收益+50%",
         "data": [
             {
                 "effect": "【回合1结束】获得【隐秘核心-lv1】"
@@ -1819,6 +1856,7 @@
         "quality": 1,
         "type": 2,
         "img": "/yinmizhe/caipanguanzhijie.jpg",
+        "bonus": "天梯 体力上限+24",
         "data": [
             {
                 "effect": "【回合5】随机敌军攻击-1，受到【沉默】"
@@ -1868,6 +1906,7 @@
         "quality": 1,
         "type": 2,
         "img": "/yinmizhe/chongnengzhuangzhi.jpg",
+        "bonus": "战役失败 广告回体力次数+7",
         "data": [
             {
                 "effect": "【回合1结束】获得【邪月猫妖-lv3】"
@@ -1917,6 +1956,7 @@
         "quality": 1,
         "type": 2,
         "img": "/yinmizhe/yumojuanzhou.jpg",
+        "bonus": "永久累充，每日福利【粉尘】+600",
         "data": [
             {
                 "effect": "【回合2结束】获得【御魔术-lv1】"
@@ -1966,6 +2006,7 @@
         "quality": 2,
         "type": 2,
         "img": "/yinmizhe/guanxingzhe.jpg",
+        "bonus": "隐秘者·英雄（橙色及以上品质）高等级蓝卡概率+50%",
         "data": [
             {
                 "effect": "【回合3结束】召唤【方尖魔碑-lv1】"
@@ -2015,6 +2056,7 @@
         "quality": 2,
         "type": 2,
         "img": "/yinmizhe/mingyunshuijingqiu.jpg",
+        "bonus": "隐秘者·英雄 能量恢复速度+70",
         "data": [
             {
                 "effect": "【回合4】随机友军+1/+1，获得【隐形】"
@@ -2064,6 +2106,7 @@
         "quality": 2,
         "type": 2,
         "img": "/yinmizhe/chunjingzizuan.jpg",
+        "bonus": "永久卡 每日领取钻石数量+400",
         "data": [
             {
                 "effect": "【回合4结束】召唤【幻域秘树-lv2】"
@@ -2113,6 +2156,7 @@
         "quality": 2,
         "type": 2,
         "img": "/yinmizhe/moxianghexin.jpg",
+        "bonus": "永久累充，每日福利【紫色能量罐】+20",
         "data": [
             {
                 "effect": "【回合3】召唤【魔像-御咒铁卫-lv2】"
@@ -2162,6 +2206,7 @@
         "quality": 2,
         "type": 2,
         "img": "/yinmizhe/yaokongzhuangzhi.jpg",
+        "bonus": "周活动-疯狂宝箱，成就钻石+400%",
         "data": [
             {
                 "effect": "【回合3】后排位置召唤【学仆-猛禽型-lv1】"
@@ -2211,6 +2256,7 @@
         "quality": 3,
         "type": 2,
         "img": "/yinmizhe/wanxing.jpg",
+        "bonus": "隐秘者·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合2结束】获得【白首魔根-lv3】"
@@ -2260,6 +2306,7 @@
         "quality": 3,
         "type": 2,
         "img": "/yinmizhe/yekongzhige.jpg",
+        "bonus": "隐秘者·英雄（橙色及以上品质）抽出高等级紫卡概率+15%",
         "data": [
             {
                 "effect": "【回合5结束】召唤【睿智史芬斯-lv1】"
@@ -2309,6 +2356,7 @@
         "quality": 3,
         "type": 2,
         "img": "/yinmizhe/fangzhoumiyao.jpg",
+        "bonus": "异界，领取的战斗星空币+50%",
         "data": [
             {
                 "effect": "【回合6】中排位置召唤【米拉方舟-lv2】"
@@ -2358,6 +2406,7 @@
         "quality": 1,
         "type": 1,
         "img": "/chanyigu/tongqianbaojian.jpg",
+        "bonus": "禅意谷·家园 劳动力+50%",
         "data": [
             {
                 "effect": "【回合5结束】获得【铁山靠-lv2】"
@@ -2407,6 +2456,7 @@
         "quality": 1,
         "type": 1,
         "img": "/chanyigu/daoxinfuchen.jpg",
+        "bonus": "禅意谷·英雄 每日能量罐使用上限+30",
         "data": [
             {
                 "effect": "【回合5】吹回随机敌军。"
@@ -2456,6 +2506,7 @@
         "quality": 1,
         "type": 1,
         "img": "/chanyigu/junengzhimao.jpg",
+        "bonus": "禅意谷·英雄 每日能量宝箱价格-75%",
         "data": [
             {
                 "effect": "【回合6】随机友军+1/+1，随机敌军-1/-1"
@@ -2505,6 +2556,7 @@
         "quality": 1,
         "type": 1,
         "img": "/chanyigu/hanshuangjian.jpg",
+        "bonus": "循环累充，每日福利【金币】+39000",
         "data": [
             {
                 "effect": "【回合4】召唤【雪狐剑客-lv1】"
@@ -2554,6 +2606,7 @@
         "quality": 2,
         "type": 1,
         "img": "/chanyigu/taomujian.jpg",
+        "bonus": "禅意谷·遗迹寻宝 暴击率+42%",
         "data": [
             {
                 "effect": "【回合3结束】获得【卜命道长-lv1】"
@@ -2603,6 +2656,7 @@
         "quality": 2,
         "type": 1,
         "img": "/chanyigu/zuanshichangqiang.jpg",
+        "bonus": "钻石月卡 每日领取钻石+400%",
         "data": [
             {
                 "effect": "【回合5】随机友军获得【连击】"
@@ -2652,6 +2706,7 @@
         "quality": 2,
         "type": 1,
         "img": "/chanyigu/shenjimuguai.jpg",
+        "bonus": "boss宝箱 收益+200%",
         "data": [
             {
                 "effect": "【回合2】召唤并获得【箭竹守卫-lv1】"
@@ -2701,6 +2756,7 @@
         "quality": 2,
         "type": 1,
         "img": "/chanyigu/fengyingbi.jpg",
+        "bonus": "异界，6胜钻石+1020",
         "data": [
             {
                 "effect": "【回合3】中排位置召唤【赏金刺客-lv1】"
@@ -2750,6 +2806,7 @@
         "quality": 2,
         "type": 1,
         "img": "/chanyigu/yinzhechanggun.jpg",
+        "bonus": "公会-周任务【普通宝箱】收益+200%",
         "data": [
             {
                 "effect": "【回合3结束】中排位置召唤【渡船隐士-lv1】"
@@ -2799,6 +2856,7 @@
         "quality": 3,
         "type": 1,
         "img": "/chanyigu/wujipanlonggun.jpg",
+        "bonus": "禅意谷·英雄 能量恢复速度+75%",
         "data": [
             {
                 "effect": "【回合3】后排随机位置召唤【驱魔道人-lv3】"
@@ -2848,6 +2906,7 @@
         "quality": 3,
         "type": 1,
         "img": "/chanyigu/yuxushenjian.jpg",
+        "bonus": "地城冒险钥匙 单把恢复时间-18小时（初始48小时/把）",
         "data": [
             {
                 "effect": "【回合6】坠落4把宝剑（4点伤害）"
@@ -2897,6 +2956,7 @@
         "quality": 3,
         "type": 1,
         "img": "/chanyigu/liefeng.jpg",
+        "bonus": "禅意谷·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合4】后排位置召唤【御风武者-lv1】"
@@ -2946,6 +3006,7 @@
         "quality": 1,
         "type": 2,
         "img": "/chanyigu/fengshuiluopan.jpg",
+        "bonus": "禅意谷·遗迹挂机收益+50%",
         "data": [
             {
                 "effect": "【回合5】随机友军+1/+2，并失去【迟缓】或【守军】"
@@ -2995,6 +3056,7 @@
         "quality": 1,
         "type": 2,
         "img": "/chanyigu/huifuzhijie.jpg",
+        "bonus": "战役 每1点体力恢复时间-60分钟（初始2小时/点）",
         "data": [
             {
                 "effect": "【回合4】召唤【松柏隐者-lv1】"
@@ -3044,6 +3106,7 @@
         "quality": 1,
         "type": 2,
         "img": "/chanyigu/zhangguisuanpan.jpg",
+        "bonus": "每日任务·2号宝箱 收益+200%",
         "data": [
             {
                 "effect": "【回合5】召唤【幽谷粮仓-lv1】，敌方生命+5"
@@ -3093,6 +3156,7 @@
         "quality": 1,
         "type": 2,
         "img": "/chanyigu/hulujiuhu.jpg",
+        "bonus": "公会-日任务【蓝色宝箱】收益+100%",
         "data": [
             {
                 "effect": "【回合4】召唤【醉道人-lv1】"
@@ -3142,6 +3206,7 @@
         "quality": 2,
         "type": 2,
         "img": "/chanyigu/huangjinhufu.jpg",
+        "bonus": "禅意谷·英雄（橙色及以上品质）高等级蓝卡概率+50%",
         "data": [
             {
                 "effect": "【回合3】召唤【黑竹守卫-lv1】"
@@ -3191,6 +3256,7 @@
         "quality": 2,
         "type": 2,
         "img": "/chanyigu/feicuiyupei.jpg",
+        "bonus": "禅意谷·英雄 能量恢复速度+70",
         "data": [
             {
                 "effect": "【回合4结束】获得【蟠桃会-lv1】"
@@ -3240,6 +3306,7 @@
         "quality": 2,
         "type": 2,
         "img": "/chanyigu/chenxiangyaonang.jpg",
+        "bonus": "永久卡 能量罐领取数量+30",
         "data": [
             {
                 "effect": "【回合5】随机友军攻击+1，获得【先攻】"
@@ -3289,6 +3356,7 @@
         "quality": 2,
         "type": 2,
         "img": "/chanyigu/jubaopen.jpg",
+        "bonus": "战令-所有【钻石】奖励=200%",
         "data": [
             {
                 "effect": "【回合4结束】前排位置召唤【摇钱尊者-lv1】"
@@ -3338,6 +3406,7 @@
         "quality": 2,
         "type": 2,
         "img": "/chanyigu/feihuling.jpg",
+        "bonus": "征兆-史诗卡牌每周可征兆次数+40",
         "data": [
             {
                 "effect": "【回合1】获得【雪山飞狐-lv4】"
@@ -3387,6 +3456,7 @@
         "quality": 3,
         "type": 2,
         "img": "/chanyigu/tengyunqinglongkai.jpg",
+        "bonus": "禅意谷·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合5】随机友军+1/+1，并获得【神佑】"
@@ -3436,6 +3506,7 @@
         "quality": 3,
         "type": 2,
         "img": "/chanyigu/baizongpojunzhou.jpg",
+        "bonus": "禅意谷·英雄（橙色及以上品质）抽出高等级紫卡概率+15%",
         "data": [
             {
                 "effect": "【回合3】后排随机位置召唤【执剑道者-lv1】"
@@ -3485,6 +3556,7 @@
         "quality": 3,
         "type": 2,
         "img": "/chanyigu/chushenjinguo.jpg",
+        "bonus": "钻石挑战，周一档获得【钻石】+150%",
         "data": [
             {
                 "effect": "【回合5】后排位置召唤【味仙居掌厨-lv1】"
@@ -3534,6 +3606,7 @@
         "quality": 1,
         "type": 1,
         "img": "/tiantanggang/lueduowandao.jpg",
+        "bonus": "天堂港·家园 劳动力+50%",
         "data": [
             {
                 "effect": "【回合5】召唤【沙漠骆驼-lv1】"
@@ -3583,6 +3656,7 @@
         "quality": 1,
         "type": 1,
         "img": "/tiantanggang/heiqitiegou.jpg",
+        "bonus": "天堂港·英雄 每日能量罐使用上限+30",
         "data": [
             {
                 "effect": "【回合4】吸取敌方英雄4生命"
@@ -3632,6 +3706,7 @@
         "quality": 1,
         "type": 1,
         "img": "/tiantanggang/junenghuoqiang.jpg",
+        "bonus": "天堂港·英雄 每日能量宝箱价格-75%",
         "data": [
             {
                 "effect": "【回合4】召唤【邪月小魔女-lv1】"
@@ -3681,6 +3756,7 @@
         "quality": 1,
         "type": 1,
         "img": "/tiantanggang/kuanggongchu.jpg",
+        "bonus": "周活动-陨石矿场，采集陨铁+200%",
         "data": [
             {
                 "effect": "【回合3结束】后排位置召唤【热血矿工-lv1】"
@@ -3730,6 +3806,7 @@
         "quality": 2,
         "type": 1,
         "img": "/tiantanggang/hanghaijiahuoqiang.jpg",
+        "bonus": "天堂港·遗迹寻宝 暴击率+42%",
         "data": [
             {
                 "effect": "【回合3】随机敌军受到2点伤害"
@@ -3779,6 +3856,7 @@
         "quality": 2,
         "type": 1,
         "img": "/tiantanggang/chuanzhangshuangdao.jpg",
+        "bonus": "酒馆 多刷新一个商品 并至少打3折",
         "data": [
             {
                 "effect": "【回合1】后排随机位置召唤【亡命之徒-lv1】"
@@ -3828,6 +3906,7 @@
         "quality": 2,
         "type": 1,
         "img": "/tiantanggang/rongyaocijian.jpg",
+        "bonus": "荣耀征程 每日3胜奖励+100%",
         "data": [
             {
                 "effect": "【回合3】获得【先攻】和【回命】"
@@ -3877,6 +3956,7 @@
         "quality": 2,
         "type": 1,
         "img": "/tiantanggang/heiqichangdao.jpg",
+        "bonus": "异界，10胜钻石+1400",
         "data": [
             {
                 "effect": "【回合5】召唤【黑旗舰队船长-lv1】"
@@ -3926,6 +4006,7 @@
         "quality": 2,
         "type": 1,
         "img": "/tiantanggang/heijinzhihu.jpg",
+        "bonus": "公会捐赠价格-30%",
         "data": [
             {
                 "effect": "【回合3结束】召唤【在逃重犯-lv3】"
@@ -3975,6 +4056,7 @@
         "quality": 3,
         "type": 1,
         "img": "/tiantanggang/meijiuyufengbao.jpg",
+        "bonus": "天堂港·英雄 能量恢复速度+75%",
         "data": [
             {
                 "effect": "【回合6结束】抽2张牌"
@@ -4024,6 +4106,7 @@
         "quality": 3,
         "type": 1,
         "img": "/tiantanggang/haiyangzhixing.jpg",
+        "bonus": "钻石商店 多刷新一个商品 并至少打1折",
         "data": [
             {
                 "effect": "【回合7】消灭随机敌军，敌方英雄生命-13"
@@ -4073,6 +4156,7 @@
         "quality": 3,
         "type": 1,
         "img": "/tiantanggang/honghaimozhao.jpg",
+        "bonus": "天堂港·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合4】召唤【红海领航员-lv2】"
@@ -4122,6 +4206,7 @@
         "quality": 1,
         "type": 2,
         "img": "/tiantanggang/hanghaijiazhinanzhen.jpg",
+        "bonus": "天堂港·遗迹挂机收益+50%",
         "data": [
             {
                 "effect": "【回合5结束】敌方玩家弃掉1张牌"
@@ -4171,6 +4256,7 @@
         "quality": 1,
         "type": 2,
         "img": "/tiantanggang/huolidunpai.jpg",
+        "bonus": "钻石月卡 每日领取能量罐+32",
         "data": [
             {
                 "effect": "【回合4结束】召唤【黑旗舰队飞斧手-lv1】"
@@ -4220,6 +4306,7 @@
         "quality": 1,
         "type": 2,
         "img": "/tiantanggang/xiangjinyandou.jpg",
+        "bonus": "每日任务·3号宝箱 收益+200%",
         "data": [
             {
                 "effect": "【回合2结束】获得【珍奇兽-lv1】"
@@ -4269,6 +4356,7 @@
         "quality": 1,
         "type": 2,
         "img": "/tiantanggang/tieliaokao.jpg",
+        "bonus": "公会-日任务【紫色宝箱】收益+100%",
         "data": [
             {
                 "effect": "【回合4】召唤【奴役黑猿-lv1】"
@@ -4318,6 +4406,7 @@
         "quality": 2,
         "type": 2,
         "img": "/tiantanggang/heiqichuanzhangmao.jpg",
+        "bonus": "天堂港·英雄（橙色及以上品质）高等级蓝卡概率+50%",
         "data": [
             {
                 "effect": "【回合5结束】获得3张【排箭攻击-lv1】"
@@ -4367,6 +4456,7 @@
         "quality": 2,
         "type": 2,
         "img": "/tiantanggang/huangjinmeigui.jpg",
+        "bonus": "天堂港·英雄 能量恢复速度+70",
         "data": [
             {
                 "effect": "【回合4】中排随机位置召唤【幸福空间-lv1】"
@@ -4416,6 +4506,7 @@
         "quality": 2,
         "type": 2,
         "img": "/tiantanggang/heiqihaojiao.jpg",
+        "bonus": "酒馆·全阵营 刷卡数量+20",
         "data": [
             {
                 "effect": "【回合3】前排随机位置召唤【斑毛幼猪-lv1】"
@@ -4465,6 +4556,7 @@
         "quality": 2,
         "type": 2,
         "img": "/tiantanggang/nilvpifeng.jpg",
+        "bonus": "荣耀征程，奖励收益+100%",
         "data": [
             {
                 "effect": "【回合2结束】后排位置召唤【无情夺命客-lv1】"
@@ -4514,6 +4606,7 @@
         "quality": 2,
         "type": 2,
         "img": "/tiantanggang/caorenwanou.jpg",
+        "bonus": "6元·周礼包，橙色能量罐+100",
         "data": [
             {
                 "effect": "【回合3】召唤【掠夺草人-lv1】"
@@ -4563,6 +4656,7 @@
         "quality": 3,
         "type": 2,
         "img": "/tiantanggang/doushizhiwu.jpg",
+        "bonus": "天堂港·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合4结束】获得1张传说卡，或抓1张牌"
@@ -4612,6 +4706,7 @@
         "quality": 3,
         "type": 2,
         "img": "/tiantanggang/haiyangzhiyao.jpg",
+        "bonus": "天堂港·英雄（橙色及以上品质）抽出高等级紫卡概率+15%",
         "data": [
             {
                 "effect": "【回合3】召唤【红海猎魔人-lv2】"
@@ -4661,6 +4756,7 @@
         "quality": 3,
         "type": 2,
         "img": "/tiantanggang/zhuori.jpg",
+        "bonus": "公会商店，所有物品价格-20%",
         "data": [
             {
                 "effect": "【回合4】召唤【烈日大祭师-lv2】"
@@ -4710,6 +4806,7 @@
         "quality": 1,
         "type": 1,
         "img": "/lianyushenyuan/xinghongliandao.jpg",
+        "bonus": "炼狱·家园 劳动力+50%",
         "data": [
             {
                 "effect": "【回合4】敌方英雄生命-4"
@@ -4759,6 +4856,7 @@
         "quality": 1,
         "type": 1,
         "img": "/lianyushenyuan/dujunmochui.jpg",
+        "bonus": "炼狱·英雄 每日能量罐使用上限+30",
         "data": [
             {
                 "effect": "【回合4】坠落3个小火球，每个1点伤害"
@@ -4808,6 +4906,7 @@
         "quality": 1,
         "type": 1,
         "img": "/lianyushenyuan/junengchangbian.jpg",
+        "bonus": "炼狱·英雄 每日能量宝箱价格-75%",
         "data": [
             {
                 "effect": "【回合5】下路随机位置召唤【贪食之翼-lv1】"
@@ -4857,6 +4956,7 @@
         "quality": 1,
         "type": 1,
         "img": "/lianyushenyuan/juduzhiren.jpg",
+        "bonus": "周活动-疯狂宝箱，攻击粉尘+200%",
         "data": [
             {
                 "effect": "【回合2结束】召唤【毒液甲虫-lv1】"
@@ -4906,6 +5006,7 @@
         "quality": 2,
         "type": 1,
         "img": "/lianyushenyuan/eguibishou.jpg",
+        "bonus": "炼狱·遗迹寻宝 暴击率+42%",
         "data": [
             {
                 "effect": "【回合5】2个随机友军攻击+1"
@@ -4955,6 +5056,7 @@
         "quality": 2,
         "type": 1,
         "img": "/lianyushenyuan/lijiequantao.jpg",
+        "bonus": "图书馆 羽毛充能速度+200",
         "data": [
             {
                 "effect": "【回合5结束】获得2张【炎球-lv3】"
@@ -5004,6 +5106,7 @@
         "quality": 2,
         "type": 1,
         "img": "/lianyushenyuan/pomianxuemao.jpg",
+        "bonus": "每日任务·5号宝箱 收益+200%",
         "data": [
             {
                 "effect": "【回合5】敌方弃掉1张牌，随机敌军受到2点伤害，敌方无手牌则伤害加倍"
@@ -5053,6 +5156,7 @@
         "quality": 2,
         "type": 1,
         "img": "/lianyushenyuan/eguigangcha.jpg",
+        "bonus": "异界，15胜钻石+1680",
         "data": [
             {
                 "effect": "【回合2结束】获得【红海使魔-lv1】"
@@ -5102,6 +5206,7 @@
         "quality": 2,
         "type": 1,
         "img": "/lianyushenyuan/lianyuchangbian.jpg",
+        "bonus": "周活动-疯狂宝箱，攻击暴击率+20%",
         "data": [
             {
                 "effect": "【回合4】你的英雄生命-3，召唤【地狱三头犬-lv2】"
@@ -5151,6 +5256,7 @@
         "quality": 3,
         "type": 1,
         "img": "/lianyushenyuan/jiahashen_lieyanmoxin.jpg",
+        "bonus": "炼狱·英雄 能量恢复速度+75%",
         "data": [
             {
                 "effect": "【回合6】敌方坠落3个陨石，每个5点伤害"
@@ -5200,6 +5306,7 @@
         "quality": 3,
         "type": 1,
         "img": "/lianyushenyuan/kongjushougezhe.jpg",
+        "bonus": "家园 金币产出+35%",
         "data": [
             {
                 "effect": "【回合1结束】获得【绝望镰魔-lv4】，敌方英雄生命-4"
@@ -5249,6 +5356,7 @@
         "quality": 3,
         "type": 1,
         "img": "/lianyushenyuan/shaxue.jpg",
+        "bonus": "炼狱·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合3】召唤【嗜血破面-lv2】"
@@ -5298,6 +5406,7 @@
         "quality": 1,
         "type": 2,
         "img": "/lianyushenyuan/eguihuoju.jpg",
+        "bonus": "炼狱·遗迹挂机收益+50%",
         "data": [
             {
                 "effect": "【回合4】召唤【血焰焦木-lv1】"
@@ -5347,6 +5456,7 @@
         "quality": 1,
         "type": 2,
         "img": "/lianyushenyuan/huangjinjiubei.jpg",
+        "bonus": "金币商店 多刷新一个商店 并至少打1折",
         "data": [
             {
                 "effect": "【回合3结束】前排随机位置召唤【邪眼魔-lv1】"
@@ -5396,6 +5506,7 @@
         "quality": 1,
         "type": 2,
         "img": "/lianyushenyuan/xienengzhijie.jpg",
+        "bonus": "酒馆·邪恶 刷卡数量+20",
         "data": [
             {
                 "effect": "【回合4】召唤【猩红仆从-lv1】"
@@ -5445,6 +5556,7 @@
         "quality": 1,
         "type": 2,
         "img": "/lianyushenyuan/baoranjiezhi.jpg",
+        "bonus": "周活动-疯狂宝箱，礼包钻石+100%",
         "data": [
             {
                 "effect": "【回合2结束】获得【狂暴炎球-lv2】"
@@ -5494,6 +5606,7 @@
         "quality": 2,
         "type": 2,
         "img": "/lianyushenyuan/ranhunjiezhi.jpg",
+        "bonus": "炼狱·英雄（橙色及以上品质）高等级蓝卡概率+50%",
         "data": [
             {
                 "effect": "【回合5结束】获得2张【落雷击-lv1】"
@@ -5543,6 +5656,7 @@
         "quality": 2,
         "type": 2,
         "img": "/lianyushenyuan/emoguanmian.jpg",
+        "bonus": "炼狱·英雄 能量恢复速度+70",
         "data": [
             {
                 "effect": "【回合4结束】召唤【凝血之池-lv1】"
@@ -5592,6 +5706,7 @@
         "quality": 2,
         "type": 2,
         "img": "/lianyushenyuan/yinyingzhaomao.jpg",
+        "bonus": "boss 单日伤害奖励+50%",
         "data": [
             {
                 "effect": "【回合1】获得【狱铠战魂-lv4】"
@@ -5641,6 +5756,7 @@
         "quality": 2,
         "type": 2,
         "img": "/lianyushenyuan/zhimingxiedu.jpg",
+        "bonus": "公会-日任务【金色宝箱】收益+100%",
         "data": [
             {
                 "effect": "【回合3】召唤【渴血毒甲蝎-lv3】"
@@ -5690,6 +5806,7 @@
         "quality": 2,
         "type": 2,
         "img": "/lianyushenyuan/minghezhubi.jpg",
+        "bonus": "集市-神器碎片商店：每次刷新多给一个商品，并且打1折",
         "data": [
             {
                 "effect": "【回合1】召唤【冥河守卫-lv1】"
@@ -5739,6 +5856,7 @@
         "quality": 3,
         "type": 2,
         "img": "/lianyushenyuan/yanyuzhankai.jpg",
+        "bonus": "炼狱·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合6】召唤【黑岩裂缝-lv1】"
@@ -5788,6 +5906,7 @@
         "quality": 3,
         "type": 2,
         "img": "/lianyushenyuan/emoningshi.jpg",
+        "bonus": "炼狱·英雄（橙色及以上品质）抽出高等级紫卡概率+15%",
         "data": [
             {
                 "effect": "【回合6】召唤【地狱屠夫-lv1】"
@@ -5837,6 +5956,7 @@
         "quality": 3,
         "type": 2,
         "img": "/lianyushenyuan/linghunlaolong.jpg",
+        "bonus": "周活动-疯狂宝箱，每日免费次数+12",
         "data": [
             {
                 "effect": "【回合3】召唤【铸甲熔岩魔-lv3】"
@@ -5886,6 +6006,7 @@
         "quality": 1,
         "type": 1,
         "img": "/manshikuangye/furaoquanzhang.jpg",
+        "bonus": "蛮石·家园 劳动力+50%",
         "data": [
             {
                 "effect": "【回合6】随机友军+2/+1"
@@ -5935,6 +6056,7 @@
         "quality": 1,
         "type": 1,
         "img": "/manshikuangye/qiuzhangzhanfu.jpg",
+        "bonus": "蛮石·英雄 每日能量罐使用上限+30",
         "data": [
             {
                 "effect": "【回合4】随机迟缓友军+2/+2"
@@ -5984,6 +6106,7 @@
         "quality": 1,
         "type": 1,
         "img": "/manshikuangye/junengzhifu.jpg",
+        "bonus": "蛮石·英雄 每日能量宝箱价格-75%",
         "data": [
             {
                 "effect": "【回合5】随机友军攻击+3"
@@ -6033,6 +6156,7 @@
         "quality": 1,
         "type": 1,
         "img": "/manshikuangye/sunzhigong.jpg",
+        "bonus": "征兆-稀有卡牌每周可征兆次数+40",
         "data": [
             {
                 "effect": "【回合3】召唤【机敏雀鹰-lv1】"
@@ -6082,6 +6206,7 @@
         "quality": 2,
         "type": 1,
         "img": "/manshikuangye/haoyunzhigong.jpg",
+        "bonus": "蛮石·遗迹寻宝 暴击率+42%",
         "data": [
             {
                 "effect": "【回合4】召唤【蓄力射手-lv2】"
@@ -6131,6 +6256,7 @@
         "quality": 2,
         "type": 1,
         "img": "/manshikuangye/tanxianjiazhifu.jpg",
+        "bonus": "地城冒险 获胜奖励的粉尘+100",
         "data": [
             {
                 "effect": "【回合3结束】召唤【草原狼-lv1】，并获得【草原狼-lv1】"
@@ -6180,6 +6306,7 @@
         "quality": 2,
         "type": 1,
         "img": "/manshikuangye/banshourenyanchui.jpg",
+        "bonus": "boss 累计伤害奖励+100%",
         "data": [
             {
                 "effect": "【回合5】随机友军+2/+2，获得【磐龙】"
@@ -6229,6 +6356,7 @@
         "quality": 2,
         "type": 1,
         "img": "/manshikuangye/dajisiduangun.jpg",
+        "bonus": "异界，3胜钻石+850",
         "data": [
             {
                 "effect": "【回合4】召唤【坚毅大祭司-lv1】"
@@ -6278,6 +6406,7 @@
         "quality": 2,
         "type": 1,
         "img": "/manshikuangye/shengshouquanzhang.jpg",
+        "bonus": "周活动-陨石矿场，采集暴击率+20%",
         "data": [
             {
                 "effect": "【回合2】中排位置召唤【圣兽祭师-lv1】"
@@ -6327,6 +6456,7 @@
         "quality": 3,
         "type": 1,
         "img": "/manshikuangye/talin_xianminzhinu.jpg",
+        "bonus": "蛮石·英雄 能量恢复速度+75%",
         "data": [
             {
                 "effect": "【回合6】随机友军+3/+4，全场敌方生物受到2点伤害"
@@ -6376,6 +6506,7 @@
         "quality": 3,
         "type": 1,
         "img": "/manshikuangye/tanlanchanggong.jpg",
+        "bonus": "英雄商店 多刷新一个商品 并至少打1折",
         "data": [
             {
                 "effect": "【回合6结束】召唤【贪食白龙-lv3】"
@@ -6425,6 +6556,7 @@
         "quality": 3,
         "type": 1,
         "img": "/manshikuangye/yuanyehuhuan.jpg",
+        "bonus": "蛮石·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合4结束】后排位置召唤【象牙少女-lv1】"
@@ -6474,6 +6606,7 @@
         "quality": 1,
         "type": 2,
         "img": "/manshikuangye/haoyunmudiao.jpg",
+        "bonus": "蛮石·遗迹挂机收益+50%",
         "data": [
             {
                 "effect": "【回合2结束】召唤【贪食肥鼠-lv1】"
@@ -6523,6 +6656,7 @@
         "quality": 1,
         "type": 2,
         "img": "/manshikuangye/juedoushihuiji.jpg",
+        "bonus": "天梯 每周购买体力上限+10",
         "data": [
             {
                 "effect": "【回合2结束】获得【痴蛮野人-lv1】"
@@ -6572,6 +6706,7 @@
         "quality": 1,
         "type": 2,
         "img": "/manshikuangye/shougujie.jpg",
+        "bonus": "每日任务·1号宝箱 收益+200%",
         "data": [
             {
                 "effect": "【回合4】中排随机位置召唤【噬人花-lv1】"
@@ -6621,6 +6756,7 @@
         "quality": 1,
         "type": 2,
         "img": "/manshikuangye/gaoyuanjiaodi.jpg",
+        "bonus": "周活动-陨石矿场，礼包钻石+100%",
         "data": [
             {
                 "effect": "【回合3】召唤【高原守卫-lv1】"
@@ -6670,6 +6806,7 @@
         "quality": 2,
         "type": 2,
         "img": "/manshikuangye/buzututeng.jpg",
+        "bonus": "蛮石·英雄（橙色及以上品质）高等级蓝卡概率+50%",
         "data": [
             {
                 "effect": "【回合4】后排随机位置召唤【旷野祭师-lv1】"
@@ -6719,6 +6856,7 @@
         "quality": 2,
         "type": 2,
         "img": "/manshikuangye/xiongyingtoushi.jpg",
+        "bonus": "蛮石·英雄 能量恢复速度+70",
         "data": [
             {
                 "effect": "【回合6】伤害随机敌军3次（伤害1、1、3）"
@@ -6768,6 +6906,7 @@
         "quality": 2,
         "type": 2,
         "img": "/manshikuangye/shouwangpifeng.jpg",
+        "bonus": "英雄每日能量广告 数量+20",
         "data": [
             {
                 "effect": "【回合2结束】随机友军+1/+2"
@@ -6817,6 +6956,7 @@
         "quality": 2,
         "type": 2,
         "img": "/manshikuangye/yanggutoushi.jpg",
+        "bonus": "公会捐赠所得【木材】+100%",
         "data": [
             {
                 "effect": "【回合3】召唤【荒原智者-lv2】"
@@ -6866,6 +7006,7 @@
         "quality": 2,
         "type": 2,
         "img": "/manshikuangye/jingjiguanmian.jpg",
+        "bonus": "周活动-陨石矿场，成就钻石+400%",
         "data": [
             {
                 "effect": "【回合3】随机友军获得【荆棘】"
@@ -6915,6 +7056,7 @@
         "quality": 3,
         "type": 2,
         "img": "/manshikuangye/zulingzhiyong.jpg",
+        "bonus": "蛮石·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合5】获得【蛮石独眼巨人-lv3】，敌方坠落巨石（7点伤害）"
@@ -6964,6 +7106,7 @@
         "quality": 3,
         "type": 2,
         "img": "/manshikuangye/chinu.jpg",
+        "bonus": "蛮石·英雄（橙色及以上品质）抽出高等级紫卡概率+15%",
         "data": [
             {
                 "effect": "【回合3】获得【势如破竹-lv1】，随机友军+1/+1"
@@ -7013,6 +7156,7 @@
         "quality": 3,
         "type": 2,
         "img": "/manshikuangye/yuanlizhishi.jpg",
+        "bonus": "跨服天梯单场胜利，纯净命运之石+10",
         "data": [
             {
                 "effect": "【回合4】随机友军+3/+3"
@@ -7062,6 +7206,7 @@
         "quality": 1,
         "type": 1,
         "img": "/dongshenshitu/juhunfaqiu.jpg",
+        "bonus": "冬神·家园 劳动力+50%",
         "data": [
             {
                 "effect": "【回合3】前排随机位置召唤【复生尸骸-lv1】"
@@ -7111,6 +7256,7 @@
         "quality": 1,
         "type": 1,
         "img": "/dongshenshitu/bingpogong.jpg",
+        "bonus": "冬神·英雄 每日能量罐使用上限+30",
         "data": [
             {
                 "effect": "【回合7】召唤2个【骷髅射手-lv1】"
@@ -7160,6 +7306,7 @@
         "quality": 1,
         "type": 1,
         "img": "/dongshenshitu/junengbishou.jpg",
+        "bonus": "冬神·英雄 每日能量宝箱价格-75%",
         "data": [
             {
                 "effect": "【回合3】冰封友方随机位置，随机友军+1/+1"
@@ -7209,6 +7356,7 @@
         "quality": 1,
         "type": 1,
         "img": "/dongshenshitu/jipinbishou.jpg",
+        "bonus": "6元·日礼包，钻石+300",
         "data": [
             {
                 "effect": "【回合1结束】前排位置召唤【阴冷墓穴-lv1】"
@@ -7258,6 +7406,7 @@
         "quality": 2,
         "type": 1,
         "img": "/dongshenshitu/hanjingdajian.jpg",
+        "bonus": "冬神·遗迹寻宝 暴击率+42%",
         "data": [
             {
                 "effect": "【回合3结束】召唤【冬神狂信者-lv1】"
@@ -7307,6 +7456,7 @@
         "quality": 2,
         "type": 1,
         "img": "/dongshenshitu/lvbaoshibishou.jpg",
+        "bonus": "粉尘月卡 每日领取粉尘+200%",
         "data": [
             {
                 "effect": "【回合4结束】召唤【冷酷冲车-lv1】"
@@ -7356,6 +7506,7 @@
         "quality": 2,
         "type": 1,
         "img": "/dongshenshitu/dongmulianzhua.jpg",
+        "bonus": "周任务·最后宝箱 收益+200%",
         "data": [
             {
                 "effect": "【回合5】召唤【冬幕斗士-lv1】"
@@ -7405,6 +7556,7 @@
         "quality": 2,
         "type": 1,
         "img": "/dongshenshitu/bingfengzhiren.jpg",
+        "bonus": "异界，20胜钻石+1900",
         "data": [
             {
                 "effect": "【回合2】冰封友方随机位置，获得【冰峰甲虫-lv2】"
@@ -7454,6 +7606,7 @@
         "quality": 2,
         "type": 1,
         "img": "/dongshenshitu/linghuofazhang.jpg",
+        "bonus": "钻石挑战，周六七档获得【钻石】+60%",
         "data": [
             {
                 "effect": "【回合3】召唤【蛮骨法师-lv1】"
@@ -7503,6 +7656,7 @@
         "quality": 3,
         "type": 1,
         "img": "/dongshenshitu/aigelangni_dongshenzhizhi.jpg",
+        "bonus": "冬神·英雄 能量恢复速度+75%",
         "data": [
             {
                 "effect": "【回合4】召唤【极地冰封者-lv1】"
@@ -7552,6 +7706,7 @@
         "quality": 3,
         "type": 1,
         "img": "/dongshenshitu/binghefazhu.jpg",
+        "bonus": "图书馆 羽毛笔充能速度+75%",
         "data": [
             {
                 "effect": "【回合6】2个敌军-1/-1，友方每有1块冰，随机冬神友军攻击+1"
@@ -7601,6 +7756,7 @@
         "quality": 3,
         "type": 1,
         "img": "/dongshenshitu/haizhan.jpg",
+        "bonus": "冬神·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合3】后排位置召唤【邪恶化身-lv1】"
@@ -7650,6 +7806,7 @@
         "quality": 1,
         "type": 2,
         "img": "/dongshenshitu/hanjingdiaozhui.jpg",
+        "bonus": "冬神·遗迹挂机收益+50%",
         "data": [
             {
                 "effect": "【回合4】本回合不能攻击，冰封脚下"
@@ -7699,6 +7856,7 @@
         "quality": 1,
         "type": 2,
         "img": "/dongshenshitu/hanjingchongnengshi.jpg",
+        "bonus": "战役 体力上限+80",
         "data": [
             {
                 "effect": "【回合3】前排随机位置召唤【寒冰魔墙-lv1】"
@@ -7748,6 +7906,7 @@
         "quality": 1,
         "type": 2,
         "img": "/dongshenshitu/hantiekui.jpg",
+        "bonus": "每日任务·4号宝箱 收益+200%",
         "data": [
             {
                 "effect": "【回合4】召唤【寒铁军士-lv1】"
@@ -7797,6 +7956,7 @@
         "quality": 1,
         "type": 2,
         "img": "/dongshenshitu/bingshuangzhanqi.jpg",
+        "bonus": "循环累充，每日福利【蓝色能量罐】+35",
         "data": [
             {
                 "effect": "【回合2结束】前排位置召唤【战场遗迹-lv1】"
@@ -7846,6 +8006,7 @@
         "quality": 2,
         "type": 2,
         "img": "/dongshenshitu/wuyaohunqi.jpg",
+        "bonus": "冬神·英雄（橙色及以上品质）高等级蓝卡概率+50%",
         "data": [
             {
                 "effect": "【回合4结束】召唤【严寒苦行僧-lv1】"
@@ -7895,6 +8056,7 @@
         "quality": 2,
         "type": 2,
         "img": "/dongshenshitu/wanghunzhishu.jpg",
+        "bonus": "冬神·英雄 能量恢复速度+70",
         "data": [
             {
                 "effect": "【回合2结束】获得2张【骷髅犬-lv1】"
@@ -7944,6 +8106,7 @@
         "quality": 2,
         "type": 2,
         "img": "/dongshenshitu/bingjingdiaoxiang.jpg",
+        "bonus": "家园 高级资源产出率+20%",
         "data": [
             {
                 "effect": "【回合1结束】获得【神庙祭师-lv2】"
@@ -7993,6 +8156,7 @@
         "quality": 2,
         "type": 2,
         "img": "/dongshenshitu/xueyinzhu.jpg",
+        "bonus": "跨服天梯3胜，纯净命运之石+100",
         "data": [
             {
                 "effect": "【回合3结束】中排位置召唤【雪隐长老灵-lv3】"
@@ -8042,6 +8206,7 @@
         "quality": 2,
         "type": 2,
         "img": "/dongshenshitu/yishishougu.jpg",
+        "bonus": "6元·周礼包 钻石+2000",
         "data": [
             {
                 "effect": "【回合2结束】前排位置召唤2个【骨墙-lv1】"
@@ -8091,6 +8256,7 @@
         "quality": 3,
         "type": 2,
         "img": "/dongshenshitu/yongyezhiyong.jpg",
+        "bonus": "冬神·英雄 生命+45",
         "data": [
             {
                 "effect": "【回合6】随机友军+3/+3，获得【魔免】、【践踏】，并且冰封脚下"
@@ -8140,6 +8306,7 @@
         "quality": 3,
         "type": 2,
         "img": "/dongshenshitu/yandongzhizhao.jpg",
+        "bonus": "冬神·英雄（橙色及以上品质）抽出高等级紫卡概率+15%",
         "data": [
             {
                 "effect": "【回合2】后排随机位置召唤【凛冬邪咒师-lv1】"
@@ -8189,6 +8356,7 @@
         "quality": 3,
         "type": 2,
         "img": "/dongshenshitu/fenghunzhe.jpg",
+        "bonus": "钻石挑战，周二档获得【钻石】+100%",
         "data": [
             {
                 "effect": "【回合2】后排位置召唤【墓园缝合师-lv2】"

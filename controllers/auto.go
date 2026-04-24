@@ -138,7 +138,7 @@ func mysqlAuto(c *gin.Context) {
 	})
 	go func() {
 		skinDiyAdd("/skinDiy/addAll")
-		cardDiyAdd("/cardDiy/addAll")
+		//cardDiyAdd("/cardDiy/addAll")
 		//frequencyAdd("/frequency/cardsAddAll")
 		//cardAdd("/card/add")
 		//shenqiAdd("/shenqi/add")
