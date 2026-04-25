@@ -137,10 +137,10 @@ func mysqlAuto(c *gin.Context) {
 		"msg": "自动化已执行",
 	})
 	go func() {
-		skinDiyAdd("/skinDiy/addAll")
+		//skinDiyAdd("/skinDiy/addAll")
 		//cardDiyAdd("/cardDiy/addAll")
 		//frequencyAdd("/frequency/cardsAddAll")
-		//cardAdd("/card/add")
+		cardAdd("/card/add")
 		//shenqiAdd("/shenqi/add")
 		//heroAdd("/hero/add")
 		//shardAdd("/hero/shardAdd")

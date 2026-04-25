@@ -2583,7 +2583,7 @@
         ]
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "符文·神授权柄",
         "zhenyin": 1,
         "quality": 2,
@@ -2591,7 +2591,7 @@
         "type": 4,
         "img": "/simangdiguo/fuwen_shenshouquanbing.jpg",
         "grade": "[2]",
-        "tag": "[2]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -2706,7 +2706,7 @@
         ]
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "盾甲禁卫",
         "zhenyin": 1,
         "quality": 2,
@@ -2829,7 +2829,7 @@
         ]
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "帝国后勤官",
         "zhenyin": 1,
         "quality": 2,
@@ -2952,7 +2952,7 @@
         ]
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "圣殿弩手",
         "zhenyin": 1,
         "quality": 2,
@@ -3075,7 +3075,7 @@
         ]
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "大型弩车",
         "zhenyin": 1,
         "quality": 2,
@@ -3198,7 +3198,7 @@
         ]
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "无畏爆破手",
         "zhenyin": 1,
         "quality": 2,
@@ -3321,7 +3321,7 @@
         ]
     },
     {
-        "id": 28,
+        "id": 27,
         "name": "增援战线",
         "zhenyin": 1,
         "quality": 2,
@@ -3444,7 +3444,7 @@
         ]
     },
     {
-        "id": 29,
+        "id": 28,
         "name": "信念雕像",
         "zhenyin": 1,
         "quality": 2,
@@ -3567,7 +3567,7 @@
         ]
     },
     {
-        "id": 30,
+        "id": 29,
         "name": "塔楼弓手",
         "zhenyin": 1,
         "quality": 2,
@@ -3690,7 +3690,7 @@
         ]
     },
     {
-        "id": 31,
+        "id": 30,
         "name": "神圣活化",
         "zhenyin": 1,
         "quality": 2,
@@ -3813,7 +3813,7 @@
         ]
     },
     {
-        "id": 32,
+        "id": 31,
         "name": "田园守望者",
         "zhenyin": 1,
         "quality": 2,
@@ -3936,15 +3936,15 @@
         ]
     },
     {
-        "id": 33,
+        "id": 21,
         "name": "符文·生命徽记",
         "zhenyin": 1,
         "quality": 3,
-        "cost": 3,
+        "cost": 2,
         "type": 4,
         "img": "/simangdiguo/fuwen_shengminghuiji.jpg",
         "grade": "[5]",
-        "tag": "[2,3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -4059,7 +4059,130 @@
         ]
     },
     {
-        "id": 35,
+        "id": 21,
+        "name": "符文·信念为铠",
+        "zhenyin": 1,
+        "quality": 2,
+        "cost": 3,
+        "type": 4,
+        "img": "/simangdiguo/fuwen_xinnianweikai.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "回合开始：随机友军生命+25，护甲+5"
+            }
+        ]
+    },
+    {
+        "id": 32,
         "name": "圣殿精英",
         "zhenyin": 1,
         "quality": 2,
@@ -4182,7 +4305,7 @@
         ]
     },
     {
-        "id": 36,
+        "id": 33,
         "name": "白头狮鹫",
         "zhenyin": 1,
         "quality": 2,
@@ -4305,7 +4428,7 @@
         ]
     },
     {
-        "id": 37,
+        "id": 34,
         "name": "箭楼车",
         "zhenyin": 1,
         "quality": 2,
@@ -4428,7 +4551,7 @@
         ]
     },
     {
-        "id": 38,
+        "id": 35,
         "name": "帝国老兵",
         "zhenyin": 1,
         "quality": 2,
@@ -4551,7 +4674,7 @@
         ]
     },
     {
-        "id": 39,
+        "id": 36,
         "name": "四芒营帐",
         "zhenyin": 1,
         "quality": 2,
@@ -4674,7 +4797,7 @@
         ]
     },
     {
-        "id": 40,
+        "id": 37,
         "name": "帝国重炮",
         "zhenyin": 1,
         "quality": 2,
@@ -4797,7 +4920,7 @@
         ]
     },
     {
-        "id": 41,
+        "id": 38,
         "name": "谨慎的火枪手",
         "zhenyin": 1,
         "quality": 2,
@@ -4920,7 +5043,7 @@
         ]
     },
     {
-        "id": 42,
+        "id": 39,
         "name": "生命之光",
         "zhenyin": 1,
         "quality": 2,
@@ -5043,7 +5166,7 @@
         ]
     },
     {
-        "id": 43,
+        "id": 40,
         "name": "四芒牧师",
         "zhenyin": 1,
         "quality": 2,
@@ -5166,7 +5289,7 @@
         ]
     },
     {
-        "id": 44,
+        "id": 41,
         "name": "精英射手",
         "zhenyin": 1,
         "quality": 2,
@@ -5289,15 +5412,15 @@
         ]
     },
     {
-        "id": 45,
+        "id": 21,
         "name": "符文·据城反击",
         "zhenyin": 1,
         "quality": 2,
         "cost": 4,
         "type": 4,
         "img": "/simangdiguo/fuwen_juchengfanji.jpg",
-        "grade": "[3]",
-        "tag": "[13]",
+        "grade": "[2]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -5412,7 +5535,7 @@
         ]
     },
     {
-        "id": 46,
+        "id": 42,
         "name": "帝国冲锋骑士",
         "zhenyin": 1,
         "quality": 2,
@@ -5535,7 +5658,7 @@
         ]
     },
     {
-        "id": 47,
+        "id": 43,
         "name": "战场传教士",
         "zhenyin": 1,
         "quality": 2,
@@ -5658,7 +5781,7 @@
         ]
     },
     {
-        "id": 48,
+        "id": 44,
         "name": "光明惩戒",
         "zhenyin": 1,
         "quality": 2,
@@ -5781,7 +5904,7 @@
         ]
     },
     {
-        "id": 49,
+        "id": 45,
         "name": "传记·生命序曲",
         "zhenyin": 1,
         "quality": 2,
@@ -5904,7 +6027,7 @@
         ]
     },
     {
-        "id": 50,
+        "id": 46,
         "name": "传记·生命赞歌",
         "zhenyin": 1,
         "quality": 2,
@@ -6027,7 +6150,7 @@
         ]
     },
     {
-        "id": 51,
+        "id": 47,
         "name": "传记·生命咏叹调",
         "zhenyin": 1,
         "quality": 2,
@@ -6150,7 +6273,7 @@
         ]
     },
     {
-        "id": 52,
+        "id": 48,
         "name": "四芒军旗",
         "zhenyin": 1,
         "quality": 3,
@@ -6273,7 +6396,7 @@
         ]
     },
     {
-        "id": 53,
+        "id": 49,
         "name": "圣殿御卫",
         "zhenyin": 1,
         "quality": 3,
@@ -6396,7 +6519,7 @@
         ]
     },
     {
-        "id": 54,
+        "id": 50,
         "name": "流星斗士",
         "zhenyin": 1,
         "quality": 3,
@@ -6519,7 +6642,7 @@
         ]
     },
     {
-        "id": 55,
+        "id": 51,
         "name": "热血冒险家",
         "zhenyin": 1,
         "quality": 3,
@@ -6642,7 +6765,7 @@
         ]
     },
     {
-        "id": 56,
+        "id": 52,
         "name": "辉光圣墙",
         "zhenyin": 1,
         "quality": 3,
@@ -6765,7 +6888,7 @@
         ]
     },
     {
-        "id": 57,
+        "id": 21,
         "name": "符文·民兵集结",
         "zhenyin": 1,
         "quality": 3,
@@ -6773,7 +6896,7 @@
         "type": 4,
         "img": "/simangdiguo/fuwen_minbingjijie.jpg",
         "grade": "[5]",
-        "tag": "[24]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -6888,130 +7011,7 @@
         ]
     },
     {
-        "id": 34,
-        "name": "符文·信念为铠",
-        "zhenyin": 1,
-        "quality": 3,
-        "cost": 3,
-        "type": 4,
-        "img": "/simangdiguo/fuwen_xinnianweikai.jpg",
-        "grade": "[4]",
-        "tag": "[1]",
-        "data": [
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "回合开始：随机友军生命+25，护甲+5"
-            }
-        ]
-    },
-    {
-        "id": 58,
+        "id": 53,
         "name": "圣殿骑士",
         "zhenyin": 1,
         "quality": 3,
@@ -7134,7 +7134,7 @@
         ]
     },
     {
-        "id": 59,
+        "id": 54,
         "name": "白袍主教",
         "zhenyin": 1,
         "quality": 3,
@@ -7257,7 +7257,7 @@
         ]
     },
     {
-        "id": 60,
+        "id": 55,
         "name": "边境高墙",
         "zhenyin": 1,
         "quality": 3,
@@ -7380,7 +7380,7 @@
         ]
     },
     {
-        "id": 61,
+        "id": 56,
         "name": "冲锋装备",
         "zhenyin": 1,
         "quality": 3,
@@ -7503,7 +7503,7 @@
         ]
     },
     {
-        "id": 62,
+        "id": 57,
         "name": "王城酒吧老板",
         "zhenyin": 1,
         "quality": 3,
@@ -7626,7 +7626,7 @@
         ]
     },
     {
-        "id": 63,
+        "id": 58,
         "name": "炫光草人",
         "zhenyin": 1,
         "quality": 3,
@@ -7749,7 +7749,7 @@
         ]
     },
     {
-        "id": 64,
+        "id": 59,
         "name": "铁甲卫队长",
         "zhenyin": 1,
         "quality": 3,
@@ -7872,7 +7872,7 @@
         ]
     },
     {
-        "id": 65,
+        "id": 60,
         "name": "重炮阵地",
         "zhenyin": 1,
         "quality": 3,
@@ -7995,15 +7995,15 @@
         ]
     },
     {
-        "id": 66,
+        "id": 21,
         "name": "符文·圣堂护盾",
         "zhenyin": 1,
         "quality": 3,
         "cost": 3,
         "type": 4,
         "img": "/simangdiguo/fuwen_shengtanghudun.jpg",
-        "grade": "[5]",
-        "tag": "[1,24]",
+        "grade": "[3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -8118,7 +8118,7 @@
         ]
     },
     {
-        "id": 67,
+        "id": 61,
         "name": "月光祭司",
         "zhenyin": 1,
         "quality": 3,
@@ -8241,7 +8241,7 @@
         ]
     },
     {
-        "id": 68,
+        "id": 62,
         "name": "圣殿卫队长",
         "zhenyin": 1,
         "quality": 3,
@@ -8364,7 +8364,7 @@
         ]
     },
     {
-        "id": 69,
+        "id": 63,
         "name": "光之赞歌",
         "zhenyin": 1,
         "quality": 3,
@@ -8487,7 +8487,7 @@
         ]
     },
     {
-        "id": 70,
+        "id": 64,
         "name": "夺取阵地",
         "zhenyin": 1,
         "quality": 3,
@@ -8610,7 +8610,7 @@
         ]
     },
     {
-        "id": 71,
+        "id": 65,
         "name": "钢铁大师",
         "zhenyin": 1,
         "quality": 3,
@@ -8733,7 +8733,7 @@
         ]
     },
     {
-        "id": 72,
+        "id": 66,
         "name": "召集护卫",
         "zhenyin": 1,
         "quality": 3,
@@ -8856,7 +8856,7 @@
         ]
     },
     {
-        "id": 73,
+        "id": 67,
         "name": "明光主教",
         "zhenyin": 1,
         "quality": 3,
@@ -8979,7 +8979,7 @@
         ]
     },
     {
-        "id": 74,
+        "id": 68,
         "name": "炽阳坠落",
         "zhenyin": 1,
         "quality": 3,
@@ -9102,15 +9102,15 @@
         ]
     },
     {
-        "id": 75,
+        "id": 21,
         "name": "击碎符文",
         "zhenyin": 1,
         "quality": 3,
         "cost": 4,
         "type": 2,
         "img": "/simangdiguo/jisuifuwen.jpg",
-        "grade": "[4]",
-        "tag": "[8,26]",
+        "grade": "[3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -9225,15 +9225,15 @@
         ]
     },
     {
-        "id": 76,
+        "id": 21,
         "name": "符文·天使印记",
         "zhenyin": 1,
         "quality": 3,
         "cost": 4,
         "type": 4,
         "img": "/simangdiguo/fuwen_tianshiyinji.jpg",
-        "grade": "[2]",
-        "tag": "[2,21]",
+        "grade": "[3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -9348,7 +9348,7 @@
         ]
     },
     {
-        "id": 77,
+        "id": 69,
         "name": "禁卫百夫长",
         "zhenyin": 1,
         "quality": 3,
@@ -9471,7 +9471,7 @@
         ]
     },
     {
-        "id": 78,
+        "id": 70,
         "name": "田园保卫战",
         "zhenyin": 1,
         "quality": 3,
@@ -9594,7 +9594,7 @@
         ]
     },
     {
-        "id": 79,
+        "id": 71,
         "name": "圣光主祭",
         "zhenyin": 1,
         "quality": 3,
@@ -9717,7 +9717,7 @@
         ]
     },
     {
-        "id": 80,
+        "id": 72,
         "name": "皇家射手",
         "zhenyin": 1,
         "quality": 3,
@@ -9840,7 +9840,7 @@
         ]
     },
     {
-        "id": 81,
+        "id": 73,
         "name": "惩戒天使",
         "zhenyin": 1,
         "quality": 3,
@@ -9963,7 +9963,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": 74,
         "name": "光明圣骑士",
         "zhenyin": 1,
         "quality": 3,
@@ -10086,7 +10086,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": 75,
         "name": "禁卫指挥官",
         "zhenyin": 1,
         "quality": 3,
@@ -10209,7 +10209,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": 76,
         "name": "皇家狮鹫",
         "zhenyin": 1,
         "quality": 3,
@@ -10332,7 +10332,7 @@
         ]
     },
     {
-        "id": 85,
+        "id": 77,
         "name": "破城者·阿基琉斯",
         "zhenyin": 1,
         "quality": 3,
@@ -10455,7 +10455,7 @@
         ]
     },
     {
-        "id": 86,
+        "id": 78,
         "name": "荣光壁垒",
         "zhenyin": 1,
         "quality": 3,
@@ -10578,7 +10578,7 @@
         ]
     },
     {
-        "id": 87,
+        "id": 79,
         "name": "传记·钢铁守卫",
         "zhenyin": 1,
         "quality": 3,
@@ -10701,7 +10701,7 @@
         ]
     },
     {
-        "id": 88,
+        "id": 80,
         "name": "传记·钢铁赞歌",
         "zhenyin": 1,
         "quality": 3,
@@ -10824,7 +10824,7 @@
         ]
     },
     {
-        "id": 89,
+        "id": 81,
         "name": "传记·钢铁意志",
         "zhenyin": 1,
         "quality": 3,
@@ -10947,7 +10947,7 @@
         ]
     },
     {
-        "id": 90,
+        "id": 82,
         "name": "曙光·安娜贝尔",
         "zhenyin": 1,
         "quality": 4,
@@ -11070,7 +11070,7 @@
         ]
     },
     {
-        "id": 91,
+        "id": 83,
         "name": "圣枪·卡洛琳",
         "zhenyin": 1,
         "quality": 4,
@@ -11193,7 +11193,7 @@
         ]
     },
     {
-        "id": 92,
+        "id": 84,
         "name": "明日之音·露娜",
         "zhenyin": 1,
         "quality": 4,
@@ -11316,15 +11316,15 @@
         ]
     },
     {
-        "id": 93,
+        "id": 21,
         "name": "符文·辉煌赞美诗",
         "zhenyin": 1,
         "quality": 4,
         "cost": 4,
         "type": 4,
         "img": "/simangdiguo/fuwen_huihuangzanmeishi.jpg",
-        "grade": "[4]",
-        "tag": "[1,21]",
+        "grade": "[6]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -11439,7 +11439,7 @@
         ]
     },
     {
-        "id": 94,
+        "id": 85,
         "name": "帝国军魂·莱哈特",
         "zhenyin": 1,
         "quality": 4,
@@ -11562,7 +11562,7 @@
         ]
     },
     {
-        "id": 95,
+        "id": 86,
         "name": "正阳大主教·伊恩",
         "zhenyin": 1,
         "quality": 4,
@@ -11685,7 +11685,7 @@
         ]
     },
     {
-        "id": 96,
+        "id": 87,
         "name": "司莫斯阵地",
         "zhenyin": 1,
         "quality": 4,
@@ -11808,7 +11808,7 @@
         ]
     },
     {
-        "id": 97,
+        "id": 88,
         "name": "炫目天使·蕾娜",
         "zhenyin": 1,
         "quality": 4,
@@ -11931,7 +11931,7 @@
         ]
     },
     {
-        "id": 98,
+        "id": 89,
         "name": "钢铁统帅·雷蒙德",
         "zhenyin": 1,
         "quality": 4,
@@ -12054,7 +12054,7 @@
         ]
     },
     {
-        "id": 99,
+        "id": 90,
         "name": "司莫斯的光明要塞",
         "zhenyin": 1,
         "quality": 4,
@@ -12177,7 +12177,7 @@
         ]
     },
     {
-        "id": 100,
+        "id": 91,
         "name": "学仆-基础型",
         "zhenyin": 2,
         "quality": 1,
@@ -12300,7 +12300,7 @@
         ]
     },
     {
-        "id": 101,
+        "id": 92,
         "name": "灵能炸弹",
         "zhenyin": 2,
         "quality": 1,
@@ -12423,7 +12423,7 @@
         ]
     },
     {
-        "id": 102,
+        "id": 93,
         "name": "沉默术",
         "zhenyin": 2,
         "quality": 1,
@@ -12546,7 +12546,7 @@
         ]
     },
     {
-        "id": 103,
+        "id": 94,
         "name": "幻象巨蛇",
         "zhenyin": 2,
         "quality": 1,
@@ -12669,7 +12669,7 @@
         ]
     },
     {
-        "id": 104,
+        "id": 95,
         "name": "机械系学徒",
         "zhenyin": 2,
         "quality": 1,
@@ -12792,7 +12792,7 @@
         ]
     },
     {
-        "id": 105,
+        "id": 96,
         "name": "学仆-发条型",
         "zhenyin": 2,
         "quality": 1,
@@ -12915,7 +12915,7 @@
         ]
     },
     {
-        "id": 106,
+        "id": 97,
         "name": "扭曲之力",
         "zhenyin": 2,
         "quality": 1,
@@ -13038,7 +13038,7 @@
         ]
     },
     {
-        "id": 107,
+        "id": 98,
         "name": "学仆-联能型",
         "zhenyin": 2,
         "quality": 1,
@@ -13161,7 +13161,7 @@
         ]
     },
     {
-        "id": 108,
+        "id": 99,
         "name": "学仆-增强型",
         "zhenyin": 2,
         "quality": 1,
@@ -13284,7 +13284,7 @@
         ]
     },
     {
-        "id": 109,
+        "id": 100,
         "name": "洞悉之眼",
         "zhenyin": 2,
         "quality": 2,
@@ -13407,7 +13407,7 @@
         ]
     },
     {
-        "id": 110,
+        "id": 101,
         "name": "邪月蝙蝠",
         "zhenyin": 2,
         "quality": 2,
@@ -13530,7 +13530,7 @@
         ]
     },
     {
-        "id": 111,
+        "id": 102,
         "name": "电流激活",
         "zhenyin": 2,
         "quality": 2,
@@ -13653,7 +13653,7 @@
         ]
     },
     {
-        "id": 112,
+        "id": 103,
         "name": "预言系教授",
         "zhenyin": 2,
         "quality": 2,
@@ -13776,7 +13776,7 @@
         ]
     },
     {
-        "id": 113,
+        "id": 104,
         "name": "方尖魔碑",
         "zhenyin": 2,
         "quality": 2,
@@ -13899,7 +13899,7 @@
         ]
     },
     {
-        "id": 114,
+        "id": 105,
         "name": "雷火工组",
         "zhenyin": 2,
         "quality": 2,
@@ -14022,7 +14022,7 @@
         ]
     },
     {
-        "id": 115,
+        "id": 106,
         "name": "邪月妖猫",
         "zhenyin": 2,
         "quality": 2,
@@ -14145,7 +14145,7 @@
         ]
     },
     {
-        "id": 116,
+        "id": 107,
         "name": "沉重否定",
         "zhenyin": 2,
         "quality": 2,
@@ -14268,7 +14268,7 @@
         ]
     },
     {
-        "id": 117,
+        "id": 108,
         "name": "学仆-观测型",
         "zhenyin": 2,
         "quality": 2,
@@ -14391,7 +14391,7 @@
         ]
     },
     {
-        "id": 118,
+        "id": 109,
         "name": "幻象学者",
         "zhenyin": 2,
         "quality": 2,
@@ -14514,7 +14514,7 @@
         ]
     },
     {
-        "id": 119,
+        "id": 110,
         "name": "御魔术",
         "zhenyin": 2,
         "quality": 2,
@@ -14637,7 +14637,7 @@
         ]
     },
     {
-        "id": 120,
+        "id": 111,
         "name": "粗心的化学家",
         "zhenyin": 2,
         "quality": 2,
@@ -14760,7 +14760,7 @@
         ]
     },
     {
-        "id": 121,
+        "id": 112,
         "name": "万圣节草人",
         "zhenyin": 2,
         "quality": 2,
@@ -14883,7 +14883,7 @@
         ]
     },
     {
-        "id": 122,
+        "id": 113,
         "name": "灵能布控",
         "zhenyin": 2,
         "quality": 2,
@@ -15006,15 +15006,15 @@
         ]
     },
     {
-        "id": 123,
+        "id": 21,
         "name": "符文·静默进军",
         "zhenyin": 2,
         "quality": 2,
         "cost": 2,
         "type": 4,
         "img": "/yinmizhe/fuwen_jingmojinjun.jpg",
-        "grade": "[4]",
-        "tag": "[20]",
+        "grade": "[3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -15129,14 +15129,14 @@
         ]
     },
     {
-        "id": 124,
+        "id": 21,
         "name": "符文·逆转权谋",
         "zhenyin": 2,
         "quality": 2,
         "cost": 2,
         "type": 4,
         "img": "/yinmizhe/fuwen_nizhuanquanmou.jpg",
-        "grade": "[2]",
+        "grade": "[1]",
         "tag": "[]",
         "data": [
             {
@@ -15252,7 +15252,7 @@
         ]
     },
     {
-        "id": 125,
+        "id": 114,
         "name": "学仆-补给型",
         "zhenyin": 2,
         "quality": 2,
@@ -15375,7 +15375,7 @@
         ]
     },
     {
-        "id": 126,
+        "id": 115,
         "name": "魔药系学士",
         "zhenyin": 2,
         "quality": 2,
@@ -15498,7 +15498,7 @@
         ]
     },
     {
-        "id": 127,
+        "id": 116,
         "name": "生命工组",
         "zhenyin": 2,
         "quality": 2,
@@ -15621,7 +15621,7 @@
         ]
     },
     {
-        "id": 128,
+        "id": 117,
         "name": "学仆-投射型",
         "zhenyin": 2,
         "quality": 2,
@@ -15744,7 +15744,7 @@
         ]
     },
     {
-        "id": 129,
+        "id": 118,
         "name": "虚化术",
         "zhenyin": 2,
         "quality": 2,
@@ -15867,7 +15867,7 @@
         ]
     },
     {
-        "id": 130,
+        "id": 119,
         "name": "全数否定",
         "zhenyin": 2,
         "quality": 2,
@@ -15990,7 +15990,7 @@
         ]
     },
     {
-        "id": 131,
+        "id": 120,
         "name": "隐秘核心",
         "zhenyin": 2,
         "quality": 2,
@@ -16113,7 +16113,7 @@
         ]
     },
     {
-        "id": 132,
+        "id": 121,
         "name": "催眠系教授",
         "zhenyin": 2,
         "quality": 2,
@@ -16236,7 +16236,7 @@
         ]
     },
     {
-        "id": 133,
+        "id": 122,
         "name": "虚化印记",
         "zhenyin": 2,
         "quality": 2,
@@ -16359,7 +16359,7 @@
         ]
     },
     {
-        "id": 134,
+        "id": 123,
         "name": "占卜命运",
         "zhenyin": 2,
         "quality": 2,
@@ -16482,15 +16482,15 @@
         ]
     },
     {
-        "id": 135,
+        "id": 21,
         "name": "符文·预兆天雷",
         "zhenyin": 2,
         "quality": 2,
         "cost": 3,
         "type": 4,
         "img": "/yinmizhe/fuwen_yuzhaotianlei.jpg",
-        "grade": "[2]",
-        "tag": "[3,26]",
+        "grade": "[1]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -16605,7 +16605,7 @@
         ]
     },
     {
-        "id": 136,
+        "id": 124,
         "name": "滋养守卫",
         "zhenyin": 2,
         "quality": 2,
@@ -16728,7 +16728,7 @@
         ]
     },
     {
-        "id": 137,
+        "id": 125,
         "name": "幻象熊",
         "zhenyin": 2,
         "quality": 2,
@@ -16851,7 +16851,7 @@
         ]
     },
     {
-        "id": 138,
+        "id": 126,
         "name": "学仆-焚化型",
         "zhenyin": 2,
         "quality": 2,
@@ -16974,7 +16974,7 @@
         ]
     },
     {
-        "id": 139,
+        "id": 127,
         "name": "学仆-渗透型",
         "zhenyin": 2,
         "quality": 2,
@@ -17097,7 +17097,7 @@
         ]
     },
     {
-        "id": 140,
+        "id": 128,
         "name": "学仆-魔蛛型",
         "zhenyin": 2,
         "quality": 2,
@@ -17220,7 +17220,130 @@
         ]
     },
     {
-        "id": 142,
+        "id": 21,
+        "name": "落寂无声",
+        "zhenyin": 2,
+        "quality": 3,
+        "cost": 4,
+        "type": 2,
+        "img": "/yinmizhe/luojiwusheng.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "沉默敌方随机符文（等级<=24）、随机敌军攻击-26，受到沉默"
+            }
+        ]
+    },
+    {
+        "id": 129,
         "name": "黑曜石像鬼",
         "zhenyin": 2,
         "quality": 2,
@@ -17343,7 +17466,7 @@
         ]
     },
     {
-        "id": 143,
+        "id": 130,
         "name": "学仆-战斗型",
         "zhenyin": 2,
         "quality": 2,
@@ -17466,7 +17589,7 @@
         ]
     },
     {
-        "id": 144,
+        "id": 131,
         "name": "学仆-能源型",
         "zhenyin": 2,
         "quality": 2,
@@ -17589,7 +17712,7 @@
         ]
     },
     {
-        "id": 145,
+        "id": 132,
         "name": "魔咒老妪",
         "zhenyin": 2,
         "quality": 2,
@@ -17712,7 +17835,7 @@
         ]
     },
     {
-        "id": 146,
+        "id": 133,
         "name": "请示隐秘者",
         "zhenyin": 2,
         "quality": 2,
@@ -17835,7 +17958,7 @@
         ]
     },
     {
-        "id": 147,
+        "id": 134,
         "name": "隐形术",
         "zhenyin": 2,
         "quality": 3,
@@ -17958,7 +18081,7 @@
         ]
     },
     {
-        "id": 148,
+        "id": 135,
         "name": "学仆-冲锋型",
         "zhenyin": 2,
         "quality": 3,
@@ -18081,7 +18204,7 @@
         ]
     },
     {
-        "id": 149,
+        "id": 136,
         "name": "咒术系学士",
         "zhenyin": 2,
         "quality": 3,
@@ -18204,7 +18327,7 @@
         ]
     },
     {
-        "id": 150,
+        "id": 137,
         "name": "破魔系教授",
         "zhenyin": 2,
         "quality": 3,
@@ -18327,7 +18450,7 @@
         ]
     },
     {
-        "id": 151,
+        "id": 138,
         "name": "克隆术",
         "zhenyin": 2,
         "quality": 3,
@@ -18450,7 +18573,7 @@
         ]
     },
     {
-        "id": 152,
+        "id": 139,
         "name": "吮魔秘树",
         "zhenyin": 2,
         "quality": 3,
@@ -18573,7 +18696,7 @@
         ]
     },
     {
-        "id": 153,
+        "id": 140,
         "name": "神秘学教授",
         "zhenyin": 2,
         "quality": 3,
@@ -18696,15 +18819,15 @@
         ]
     },
     {
-        "id": 154,
+        "id": 21,
         "name": "符文·附魔长枪",
         "zhenyin": 2,
         "quality": 3,
         "cost": 2,
         "type": 4,
         "img": "/yinmizhe/fuwen_fumochangqiang.jpg",
-        "grade": "[5]",
-        "tag": "[2,6]",
+        "grade": "[3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -18819,7 +18942,7 @@
         ]
     },
     {
-        "id": 155,
+        "id": 141,
         "name": "防护系教授",
         "zhenyin": 2,
         "quality": 3,
@@ -18942,7 +19065,7 @@
         ]
     },
     {
-        "id": 156,
+        "id": 142,
         "name": "魔像-御咒铁卫",
         "zhenyin": 2,
         "quality": 3,
@@ -19065,7 +19188,7 @@
         ]
     },
     {
-        "id": 157,
+        "id": 143,
         "name": "缄言法师",
         "zhenyin": 2,
         "quality": 3,
@@ -19188,7 +19311,7 @@
         ]
     },
     {
-        "id": 158,
+        "id": 144,
         "name": "学仆-猛禽型",
         "zhenyin": 2,
         "quality": 3,
@@ -19311,7 +19434,7 @@
         ]
     },
     {
-        "id": 159,
+        "id": 145,
         "name": "学仆-脉冲型",
         "zhenyin": 2,
         "quality": 3,
@@ -19434,7 +19557,7 @@
         ]
     },
     {
-        "id": 160,
+        "id": 146,
         "name": "夜幕魔宠",
         "zhenyin": 2,
         "quality": 3,
@@ -19557,7 +19680,7 @@
         ]
     },
     {
-        "id": 161,
+        "id": 147,
         "name": "学仆-激活型",
         "zhenyin": 2,
         "quality": 3,
@@ -19680,7 +19803,7 @@
         ]
     },
     {
-        "id": 162,
+        "id": 148,
         "name": "灵能计划",
         "zhenyin": 2,
         "quality": 3,
@@ -19803,15 +19926,15 @@
         ]
     },
     {
-        "id": 163,
+        "id": 21,
         "name": "符文·雷火核心",
         "zhenyin": 2,
         "quality": 3,
         "cost": 3,
         "type": 4,
         "img": "/yinmizhe/fuwen_leihuohexin.jpg",
-        "grade": "[4]",
-        "tag": "[23]",
+        "grade": "[1]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -19926,15 +20049,15 @@
         ]
     },
     {
-        "id": 164,
+        "id": 21,
         "name": "符文·邪月之夜",
         "zhenyin": 2,
         "quality": 3,
         "cost": 3,
         "type": 4,
         "img": "/yinmizhe/fuwen_xieyuezhiye.jpg",
-        "grade": "[3]",
-        "tag": "[3,24]",
+        "grade": "[1]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -20049,7 +20172,7 @@
         ]
     },
     {
-        "id": 165,
+        "id": 149,
         "name": "白首魔根",
         "zhenyin": 2,
         "quality": 3,
@@ -20172,7 +20295,7 @@
         ]
     },
     {
-        "id": 166,
+        "id": 150,
         "name": "幻域秘树",
         "zhenyin": 2,
         "quality": 3,
@@ -20295,7 +20418,7 @@
         ]
     },
     {
-        "id": 167,
+        "id": 151,
         "name": "改造魔卷",
         "zhenyin": 2,
         "quality": 3,
@@ -20418,7 +20541,7 @@
         ]
     },
     {
-        "id": 168,
+        "id": 152,
         "name": "实验室流浆",
         "zhenyin": 2,
         "quality": 3,
@@ -20541,7 +20664,7 @@
         ]
     },
     {
-        "id": 169,
+        "id": 153,
         "name": "学仆-塑钢型",
         "zhenyin": 2,
         "quality": 3,
@@ -20664,7 +20787,7 @@
         ]
     },
     {
-        "id": 170,
+        "id": 154,
         "name": "幻象系教授",
         "zhenyin": 2,
         "quality": 3,
@@ -20787,7 +20910,7 @@
         ]
     },
     {
-        "id": 171,
+        "id": 155,
         "name": "组装学仆",
         "zhenyin": 2,
         "quality": 3,
@@ -20910,130 +21033,7 @@
         ]
     },
     {
-        "id": 141,
-        "name": "落寂无声",
-        "zhenyin": 2,
-        "quality": 3,
-        "cost": 4,
-        "type": 2,
-        "img": "/yinmizhe/luojiwusheng.jpg",
-        "grade": "[4]",
-        "tag": "[20,26]",
-        "data": [
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "沉默敌方随机符文（等级<=25）、随机敌军攻击-35，受到沉默"
-            }
-        ]
-    },
-    {
-        "id": 172,
+        "id": 21,
         "name": "符文·荒野幻象",
         "zhenyin": 2,
         "quality": 3,
@@ -21041,7 +21041,7 @@
         "type": 4,
         "img": "/yinmizhe/fuwen_huangyehuanxiang.jpg",
         "grade": "[6]",
-        "tag": "[26]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -21156,7 +21156,7 @@
         ]
     },
     {
-        "id": 173,
+        "id": 156,
         "name": "魔像-术法风暴",
         "zhenyin": 2,
         "quality": 3,
@@ -21279,7 +21279,7 @@
         ]
     },
     {
-        "id": 174,
+        "id": 157,
         "name": "召熊幻术师",
         "zhenyin": 2,
         "quality": 3,
@@ -21402,7 +21402,7 @@
         ]
     },
     {
-        "id": 175,
+        "id": 158,
         "name": "观星台大预言家",
         "zhenyin": 2,
         "quality": 3,
@@ -21525,7 +21525,7 @@
         ]
     },
     {
-        "id": 176,
+        "id": 159,
         "name": "御魔史芬斯",
         "zhenyin": 2,
         "quality": 3,
@@ -21648,7 +21648,7 @@
         ]
     },
     {
-        "id": 177,
+        "id": 160,
         "name": "格斗系教授",
         "zhenyin": 2,
         "quality": 3,
@@ -21771,7 +21771,7 @@
         ]
     },
     {
-        "id": 178,
+        "id": 161,
         "name": "学仆-分裂型",
         "zhenyin": 2,
         "quality": 3,
@@ -21894,7 +21894,7 @@
         ]
     },
     {
-        "id": 179,
+        "id": 162,
         "name": "幻象巨龙",
         "zhenyin": 2,
         "quality": 3,
@@ -22017,7 +22017,7 @@
         ]
     },
     {
-        "id": 180,
+        "id": 163,
         "name": "巨型石像鬼",
         "zhenyin": 2,
         "quality": 3,
@@ -22140,7 +22140,7 @@
         ]
     },
     {
-        "id": 181,
+        "id": 164,
         "name": "睿智史芬斯",
         "zhenyin": 2,
         "quality": 3,
@@ -22263,7 +22263,7 @@
         ]
     },
     {
-        "id": 182,
+        "id": 165,
         "name": "心灵操控",
         "zhenyin": 2,
         "quality": 3,
@@ -22386,7 +22386,7 @@
         ]
     },
     {
-        "id": 183,
+        "id": 166,
         "name": "米拉方舟",
         "zhenyin": 2,
         "quality": 3,
@@ -22509,7 +22509,7 @@
         ]
     },
     {
-        "id": 184,
+        "id": 167,
         "name": "魔钢",
         "zhenyin": 2,
         "quality": 3,
@@ -22632,7 +22632,7 @@
         ]
     },
     {
-        "id": 185,
+        "id": 168,
         "name": "魔像-钢翼仲裁者",
         "zhenyin": 2,
         "quality": 3,
@@ -22755,7 +22755,7 @@
         ]
     },
     {
-        "id": 186,
+        "id": 169,
         "name": "传记·海市蜃楼·蛇",
         "zhenyin": 2,
         "quality": 3,
@@ -22878,7 +22878,7 @@
         ]
     },
     {
-        "id": 187,
+        "id": 170,
         "name": "传记·海市蜃楼·熊",
         "zhenyin": 2,
         "quality": 3,
@@ -23001,7 +23001,7 @@
         ]
     },
     {
-        "id": 188,
+        "id": 171,
         "name": "传记·海市蜃楼·龙",
         "zhenyin": 2,
         "quality": 3,
@@ -23124,7 +23124,7 @@
         ]
     },
     {
-        "id": 189,
+        "id": 172,
         "name": "No.7鬼童·塞文",
         "zhenyin": 2,
         "quality": 4,
@@ -23247,7 +23247,7 @@
         ]
     },
     {
-        "id": 190,
+        "id": 173,
         "name": "饮血圣者",
         "zhenyin": 2,
         "quality": 4,
@@ -23370,7 +23370,7 @@
         ]
     },
     {
-        "id": 191,
+        "id": 174,
         "name": "No.8雷鸣·泰拉德",
         "zhenyin": 2,
         "quality": 4,
@@ -23493,7 +23493,7 @@
         ]
     },
     {
-        "id": 192,
+        "id": 175,
         "name": "No.4希尔伯特",
         "zhenyin": 2,
         "quality": 4,
@@ -23616,7 +23616,7 @@
         ]
     },
     {
-        "id": 193,
+        "id": 176,
         "name": "分裂实验-流浆",
         "zhenyin": 2,
         "quality": 4,
@@ -23739,7 +23739,7 @@
         ]
     },
     {
-        "id": 194,
+        "id": 177,
         "name": "No.5咒刃·布雷克",
         "zhenyin": 2,
         "quality": 4,
@@ -23862,7 +23862,7 @@
         ]
     },
     {
-        "id": 195,
+        "id": 178,
         "name": "鬼童-7号",
         "zhenyin": 2,
         "quality": 4,
@@ -23985,15 +23985,15 @@
         ]
     },
     {
-        "id": 196,
+        "id": 21,
         "name": "符文·魔能隐者",
         "zhenyin": 2,
         "quality": 4,
         "cost": 4,
         "type": 4,
         "img": "/yinmizhe/fuwen_monengyinzhe.jpg",
-        "grade": "[4]",
-        "tag": "[1,21,26]",
+        "grade": "[2]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -24108,7 +24108,7 @@
         ]
     },
     {
-        "id": 197,
+        "id": 179,
         "name": "No.2时光·米拉",
         "zhenyin": 2,
         "quality": 4,
@@ -24231,7 +24231,7 @@
         ]
     },
     {
-        "id": 198,
+        "id": 180,
         "name": "No.9迪宁",
         "zhenyin": 2,
         "quality": 4,
@@ -24354,7 +24354,7 @@
         ]
     },
     {
-        "id": 199,
+        "id": 181,
         "name": "No.6沃凡瑞拉",
         "zhenyin": 2,
         "quality": 4,
@@ -24477,7 +24477,7 @@
         ]
     },
     {
-        "id": 200,
+        "id": 182,
         "name": "No.3伊斯多维尔",
         "zhenyin": 2,
         "quality": 4,
@@ -24600,7 +24600,7 @@
         ]
     },
     {
-        "id": 201,
+        "id": 183,
         "name": "传记·荒芜挽歌·序",
         "zhenyin": 2,
         "quality": 4,
@@ -24723,7 +24723,7 @@
         ]
     },
     {
-        "id": 202,
+        "id": 184,
         "name": "传记·荒芜挽歌·破",
         "zhenyin": 2,
         "quality": 4,
@@ -24846,7 +24846,7 @@
         ]
     },
     {
-        "id": 203,
+        "id": 185,
         "name": "传记·荒芜挽歌·终",
         "zhenyin": 2,
         "quality": 4,
@@ -24969,7 +24969,7 @@
         ]
     },
     {
-        "id": 204,
+        "id": 186,
         "name": "仙桃",
         "zhenyin": 3,
         "quality": 1,
@@ -25092,7 +25092,7 @@
         ]
     },
     {
-        "id": 205,
+        "id": 187,
         "name": "鹿行者",
         "zhenyin": 3,
         "quality": 1,
@@ -25215,7 +25215,7 @@
         ]
     },
     {
-        "id": 206,
+        "id": 188,
         "name": "鹿剑客",
         "zhenyin": 3,
         "quality": 1,
@@ -25338,7 +25338,7 @@
         ]
     },
     {
-        "id": 207,
+        "id": 189,
         "name": "人参果",
         "zhenyin": 3,
         "quality": 1,
@@ -25461,7 +25461,7 @@
         ]
     },
     {
-        "id": 208,
+        "id": 190,
         "name": "昆莱云游客",
         "zhenyin": 3,
         "quality": 1,
@@ -25584,7 +25584,7 @@
         ]
     },
     {
-        "id": 209,
+        "id": 191,
         "name": "柏松隐者",
         "zhenyin": 3,
         "quality": 1,
@@ -25707,7 +25707,7 @@
         ]
     },
     {
-        "id": 210,
+        "id": 192,
         "name": "熊大宝",
         "zhenyin": 3,
         "quality": 2,
@@ -25830,7 +25830,7 @@
         ]
     },
     {
-        "id": 211,
+        "id": 193,
         "name": "卜命道长",
         "zhenyin": 3,
         "quality": 2,
@@ -25953,7 +25953,7 @@
         ]
     },
     {
-        "id": 212,
+        "id": 194,
         "name": "箭竹守卫",
         "zhenyin": 3,
         "quality": 2,
@@ -26076,7 +26076,7 @@
         ]
     },
     {
-        "id": 213,
+        "id": 195,
         "name": "雪庐草人",
         "zhenyin": 3,
         "quality": 2,
@@ -26199,7 +26199,7 @@
         ]
     },
     {
-        "id": 214,
+        "id": 196,
         "name": "熊二宝",
         "zhenyin": 3,
         "quality": 2,
@@ -26322,7 +26322,7 @@
         ]
     },
     {
-        "id": 215,
+        "id": 197,
         "name": "传家宝",
         "zhenyin": 3,
         "quality": 2,
@@ -26445,7 +26445,7 @@
         ]
     },
     {
-        "id": 216,
+        "id": 198,
         "name": "白羊药师",
         "zhenyin": 3,
         "quality": 2,
@@ -26568,7 +26568,7 @@
         ]
     },
     {
-        "id": 217,
+        "id": 199,
         "name": "拒马",
         "zhenyin": 3,
         "quality": 2,
@@ -26691,7 +26691,7 @@
         ]
     },
     {
-        "id": 218,
+        "id": 200,
         "name": "长耳庄巧姑",
         "zhenyin": 3,
         "quality": 2,
@@ -26814,7 +26814,7 @@
         ]
     },
     {
-        "id": 219,
+        "id": 201,
         "name": "黑竹守卫",
         "zhenyin": 3,
         "quality": 2,
@@ -26937,7 +26937,7 @@
         ]
     },
     {
-        "id": 220,
+        "id": 202,
         "name": "苦行武僧",
         "zhenyin": 3,
         "quality": 2,
@@ -27060,7 +27060,7 @@
         ]
     },
     {
-        "id": 221,
+        "id": 203,
         "name": "树木之怒",
         "zhenyin": 3,
         "quality": 2,
@@ -27183,7 +27183,7 @@
         ]
     },
     {
-        "id": 222,
+        "id": 204,
         "name": "飓风术",
         "zhenyin": 3,
         "quality": 2,
@@ -27306,7 +27306,7 @@
         ]
     },
     {
-        "id": 223,
+        "id": 205,
         "name": "锁妖塔守卫",
         "zhenyin": 3,
         "quality": 2,
@@ -27429,7 +27429,7 @@
         ]
     },
     {
-        "id": 224,
+        "id": 206,
         "name": "熊小宝",
         "zhenyin": 3,
         "quality": 2,
@@ -27552,7 +27552,7 @@
         ]
     },
     {
-        "id": 225,
+        "id": 207,
         "name": "明月心",
         "zhenyin": 3,
         "quality": 2,
@@ -27675,7 +27675,7 @@
         ]
     },
     {
-        "id": 226,
+        "id": 208,
         "name": "黑松林货郎",
         "zhenyin": 3,
         "quality": 2,
@@ -27798,7 +27798,7 @@
         ]
     },
     {
-        "id": 227,
+        "id": 209,
         "name": "龟族炼丹炉",
         "zhenyin": 3,
         "quality": 2,
@@ -27921,7 +27921,7 @@
         ]
     },
     {
-        "id": 228,
+        "id": 210,
         "name": "太极剑法",
         "zhenyin": 3,
         "quality": 2,
@@ -28044,7 +28044,7 @@
         ]
     },
     {
-        "id": 229,
+        "id": 211,
         "name": "叶幻师",
         "zhenyin": 3,
         "quality": 2,
@@ -28167,7 +28167,7 @@
         ]
     },
     {
-        "id": 230,
+        "id": 212,
         "name": "龟族僧人",
         "zhenyin": 3,
         "quality": 2,
@@ -28290,7 +28290,7 @@
         ]
     },
     {
-        "id": 231,
+        "id": 213,
         "name": "执剑道者",
         "zhenyin": 3,
         "quality": 2,
@@ -28413,7 +28413,7 @@
         ]
     },
     {
-        "id": 232,
+        "id": 214,
         "name": "深山采药人",
         "zhenyin": 3,
         "quality": 2,
@@ -28536,7 +28536,7 @@
         ]
     },
     {
-        "id": 233,
+        "id": 215,
         "name": "连击",
         "zhenyin": 3,
         "quality": 2,
@@ -28659,7 +28659,7 @@
         ]
     },
     {
-        "id": 234,
+        "id": 216,
         "name": "铁山靠",
         "zhenyin": 3,
         "quality": 2,
@@ -28782,7 +28782,7 @@
         ]
     },
     {
-        "id": 235,
+        "id": 217,
         "name": "味仙居小妹",
         "zhenyin": 3,
         "quality": 2,
@@ -28905,7 +28905,7 @@
         ]
     },
     {
-        "id": 236,
+        "id": 218,
         "name": "醉道人",
         "zhenyin": 3,
         "quality": 2,
@@ -29028,7 +29028,7 @@
         ]
     },
     {
-        "id": 237,
+        "id": 219,
         "name": "明月曲",
         "zhenyin": 3,
         "quality": 2,
@@ -29151,7 +29151,7 @@
         ]
     },
     {
-        "id": 238,
+        "id": 220,
         "name": "雪狐剑客",
         "zhenyin": 3,
         "quality": 2,
@@ -29274,7 +29274,7 @@
         ]
     },
     {
-        "id": 239,
+        "id": 221,
         "name": "雪隐谷樵夫",
         "zhenyin": 3,
         "quality": 2,
@@ -29397,7 +29397,7 @@
         ]
     },
     {
-        "id": 240,
+        "id": 222,
         "name": "疾风猎手",
         "zhenyin": 3,
         "quality": 2,
@@ -29520,7 +29520,7 @@
         ]
     },
     {
-        "id": 241,
+        "id": 223,
         "name": "妙音坊乐师",
         "zhenyin": 3,
         "quality": 2,
@@ -29643,7 +29643,7 @@
         ]
     },
     {
-        "id": 242,
+        "id": 224,
         "name": "寒窗才子",
         "zhenyin": 3,
         "quality": 2,
@@ -29766,15 +29766,15 @@
         ]
     },
     {
-        "id": 243,
+        "id": 21,
         "name": "根除魔障",
         "zhenyin": 3,
         "quality": 2,
         "cost": 3,
         "type": 2,
         "img": "/chanyigu/genchumozhang.jpg",
-        "grade": "[4]",
-        "tag": "[26]",
+        "grade": "[3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -29889,15 +29889,15 @@
         ]
     },
     {
-        "id": 244,
+        "id": 21,
         "name": "符文·疾风图腾",
         "zhenyin": 3,
         "quality": 2,
         "cost": 3,
         "type": 4,
         "img": "/chanyigu/fuwen_jifengtuteng.jpg",
-        "grade": "[4]",
-        "tag": "[26]",
+        "grade": "[3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -30012,7 +30012,7 @@
         ]
     },
     {
-        "id": 246,
+        "id": 225,
         "name": "风铃道人",
         "zhenyin": 3,
         "quality": 2,
@@ -30135,7 +30135,7 @@
         ]
     },
     {
-        "id": 247,
+        "id": 226,
         "name": "祥云师太",
         "zhenyin": 3,
         "quality": 2,
@@ -30258,7 +30258,7 @@
         ]
     },
     {
-        "id": 248,
+        "id": 227,
         "name": "幽谷粮仓",
         "zhenyin": 3,
         "quality": 2,
@@ -30381,7 +30381,7 @@
         ]
     },
     {
-        "id": 249,
+        "id": 228,
         "name": "风卷残云",
         "zhenyin": 3,
         "quality": 2,
@@ -30504,7 +30504,7 @@
         ]
     },
     {
-        "id": 250,
+        "id": 229,
         "name": "茁壮生长",
         "zhenyin": 3,
         "quality": 2,
@@ -30627,7 +30627,7 @@
         ]
     },
     {
-        "id": 251,
+        "id": 21,
         "name": "符文·雄鹿之道",
         "zhenyin": 3,
         "quality": 2,
@@ -30635,7 +30635,7 @@
         "type": 4,
         "img": "/chanyigu/fuwen_xiongluzhidao.jpg",
         "grade": "[3]",
-        "tag": "[2,4]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -30750,7 +30750,7 @@
         ]
     },
     {
-        "id": 252,
+        "id": 230,
         "name": "羊族壮士",
         "zhenyin": 3,
         "quality": 2,
@@ -30873,7 +30873,7 @@
         ]
     },
     {
-        "id": 253,
+        "id": 231,
         "name": "勇气师范",
         "zhenyin": 3,
         "quality": 2,
@@ -30996,7 +30996,7 @@
         ]
     },
     {
-        "id": 254,
+        "id": 232,
         "name": "传记·前世",
         "zhenyin": 3,
         "quality": 2,
@@ -31119,7 +31119,7 @@
         ]
     },
     {
-        "id": 255,
+        "id": 233,
         "name": "传记·今生",
         "zhenyin": 3,
         "quality": 2,
@@ -31242,7 +31242,7 @@
         ]
     },
     {
-        "id": 256,
+        "id": 234,
         "name": "蟠桃隐士",
         "zhenyin": 3,
         "quality": 3,
@@ -31365,7 +31365,7 @@
         ]
     },
     {
-        "id": 257,
+        "id": 235,
         "name": "仙灵藤蔓",
         "zhenyin": 3,
         "quality": 3,
@@ -31488,7 +31488,7 @@
         ]
     },
     {
-        "id": 258,
+        "id": 236,
         "name": "植甲师",
         "zhenyin": 3,
         "quality": 3,
@@ -31611,7 +31611,7 @@
         ]
     },
     {
-        "id": 259,
+        "id": 237,
         "name": "宫廷乐师",
         "zhenyin": 3,
         "quality": 3,
@@ -31734,15 +31734,15 @@
         ]
     },
     {
-        "id": 260,
+        "id": 21,
         "name": "符文·生生不息",
         "zhenyin": 3,
         "quality": 3,
         "cost": 2,
         "type": 4,
         "img": "/chanyigu/fuwen_shengshengbuxi.jpg",
-        "grade": "[3]",
-        "tag": "[19,26]",
+        "grade": "[5]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -31857,7 +31857,7 @@
         ]
     },
     {
-        "id": 261,
+        "id": 238,
         "name": "扫叶僧",
         "zhenyin": 3,
         "quality": 3,
@@ -31980,7 +31980,7 @@
         ]
     },
     {
-        "id": 262,
+        "id": 239,
         "name": "逍遥琴师",
         "zhenyin": 3,
         "quality": 3,
@@ -32103,7 +32103,7 @@
         ]
     },
     {
-        "id": 263,
+        "id": 240,
         "name": "驱魔道人",
         "zhenyin": 3,
         "quality": 3,
@@ -32226,7 +32226,7 @@
         ]
     },
     {
-        "id": 264,
+        "id": 241,
         "name": "雪山飞狐",
         "zhenyin": 3,
         "quality": 3,
@@ -32349,7 +32349,7 @@
         ]
     },
     {
-        "id": 265,
+        "id": 242,
         "name": "御膳房大厨",
         "zhenyin": 3,
         "quality": 3,
@@ -32472,7 +32472,7 @@
         ]
     },
     {
-        "id": 266,
+        "id": 243,
         "name": "当铺掌柜",
         "zhenyin": 3,
         "quality": 3,
@@ -32595,138 +32595,15 @@
         ]
     },
     {
-        "id": 245,
-        "name": "符文·柏松之击",
-        "zhenyin": 3,
-        "quality": 3,
-        "cost": 3,
-        "type": 4,
-        "img": "/chanyigu/fuwen_baisongzhiji.jpg",
-        "grade": "[3]",
-        "tag": "[2]",
-        "data": [
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "登场：召唤2/50柏松隐者-lv17、英雄恢复生命时：随机友军+5/+5"
-            }
-        ]
-    },
-    {
-        "id": 267,
+        "id": 21,
         "name": "符文·莲花护佑",
         "zhenyin": 3,
         "quality": 3,
         "cost": 3,
         "type": 4,
         "img": "/chanyigu/fuwen_lianhuahuyou.jpg",
-        "grade": "[5]",
-        "tag": "[4,16]",
+        "grade": "[7]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -32841,7 +32718,7 @@
         ]
     },
     {
-        "id": 268,
+        "id": 244,
         "name": "白鹿贤士",
         "zhenyin": 3,
         "quality": 3,
@@ -32964,7 +32841,7 @@
         ]
     },
     {
-        "id": 269,
+        "id": 245,
         "name": "御风武者",
         "zhenyin": 3,
         "quality": 3,
@@ -33087,7 +32964,7 @@
         ]
     },
     {
-        "id": 270,
+        "id": 246,
         "name": "墨轩隐士",
         "zhenyin": 3,
         "quality": 3,
@@ -33210,7 +33087,7 @@
         ]
     },
     {
-        "id": 271,
+        "id": 247,
         "name": "黑竹林地",
         "zhenyin": 3,
         "quality": 3,
@@ -33333,7 +33210,7 @@
         ]
     },
     {
-        "id": 272,
+        "id": 248,
         "name": "蟠桃会",
         "zhenyin": 3,
         "quality": 3,
@@ -33456,7 +33333,7 @@
         ]
     },
     {
-        "id": 273,
+        "id": 249,
         "name": "泰山之力",
         "zhenyin": 3,
         "quality": 3,
@@ -33579,7 +33456,7 @@
         ]
     },
     {
-        "id": 274,
+        "id": 250,
         "name": "龙纹尊者",
         "zhenyin": 3,
         "quality": 3,
@@ -33702,7 +33579,7 @@
         ]
     },
     {
-        "id": 275,
+        "id": 251,
         "name": "赏金刺客",
         "zhenyin": 3,
         "quality": 3,
@@ -33825,7 +33702,7 @@
         ]
     },
     {
-        "id": 276,
+        "id": 252,
         "name": "疾风传说",
         "zhenyin": 3,
         "quality": 3,
@@ -33948,7 +33825,7 @@
         ]
     },
     {
-        "id": 277,
+        "id": 253,
         "name": "百刺浪客",
         "zhenyin": 3,
         "quality": 3,
@@ -34071,7 +33948,7 @@
         ]
     },
     {
-        "id": 278,
+        "id": 254,
         "name": "萌化术",
         "zhenyin": 3,
         "quality": 3,
@@ -34194,15 +34071,15 @@
         ]
     },
     {
-        "id": 279,
+        "id": 21,
         "name": "符文·箭竹林地",
         "zhenyin": 3,
         "quality": 3,
         "cost": 4,
         "type": 4,
         "img": "/chanyigu/fuwen_jianzhulindi.jpg",
-        "grade": "[2]",
-        "tag": "[24]",
+        "grade": "[1]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -34317,7 +34194,7 @@
         ]
     },
     {
-        "id": 280,
+        "id": 255,
         "name": "渡船隐士",
         "zhenyin": 3,
         "quality": 3,
@@ -34440,7 +34317,7 @@
         ]
     },
     {
-        "id": 281,
+        "id": 256,
         "name": "狐剑仙",
         "zhenyin": 3,
         "quality": 3,
@@ -34563,7 +34440,7 @@
         ]
     },
     {
-        "id": 282,
+        "id": 257,
         "name": "万物之灵",
         "zhenyin": 3,
         "quality": 3,
@@ -34686,7 +34563,7 @@
         ]
     },
     {
-        "id": 283,
+        "id": 258,
         "name": "摇钱尊者",
         "zhenyin": 3,
         "quality": 3,
@@ -34809,7 +34686,7 @@
         ]
     },
     {
-        "id": 284,
+        "id": 259,
         "name": "云游武僧",
         "zhenyin": 3,
         "quality": 3,
@@ -34932,7 +34809,7 @@
         ]
     },
     {
-        "id": 285,
+        "id": 260,
         "name": "龟族印记",
         "zhenyin": 3,
         "quality": 3,
@@ -35055,7 +34932,7 @@
         ]
     },
     {
-        "id": 286,
+        "id": 21,
         "name": "符文·移花接木",
         "zhenyin": 3,
         "quality": 3,
@@ -35178,7 +35055,7 @@
         ]
     },
     {
-        "id": 287,
+        "id": 261,
         "name": "披甲罗汉",
         "zhenyin": 3,
         "quality": 3,
@@ -35301,7 +35178,7 @@
         ]
     },
     {
-        "id": 288,
+        "id": 262,
         "name": "拔地而起",
         "zhenyin": 3,
         "quality": 3,
@@ -35424,7 +35301,7 @@
         ]
     },
     {
-        "id": 289,
+        "id": 263,
         "name": "猛虎寨大王",
         "zhenyin": 3,
         "quality": 3,
@@ -35547,7 +35424,7 @@
         ]
     },
     {
-        "id": 290,
+        "id": 264,
         "name": "寒霜寺护院僧",
         "zhenyin": 3,
         "quality": 3,
@@ -35670,7 +35547,7 @@
         ]
     },
     {
-        "id": 291,
+        "id": 265,
         "name": "酒豪",
         "zhenyin": 3,
         "quality": 3,
@@ -35793,7 +35670,7 @@
         ]
     },
     {
-        "id": 292,
+        "id": 266,
         "name": "味仙居掌厨",
         "zhenyin": 3,
         "quality": 3,
@@ -35916,7 +35793,7 @@
         ]
     },
     {
-        "id": 293,
+        "id": 267,
         "name": "传记·月落",
         "zhenyin": 3,
         "quality": 3,
@@ -36039,7 +35916,7 @@
         ]
     },
     {
-        "id": 294,
+        "id": 268,
         "name": "传记·日升",
         "zhenyin": 3,
         "quality": 3,
@@ -36162,7 +36039,7 @@
         ]
     },
     {
-        "id": 295,
+        "id": 269,
         "name": "流岚刃·琳",
         "zhenyin": 3,
         "quality": 4,
@@ -36285,7 +36162,7 @@
         ]
     },
     {
-        "id": 296,
+        "id": 270,
         "name": "灵龟神丹",
         "zhenyin": 3,
         "quality": 4,
@@ -36408,15 +36285,15 @@
         ]
     },
     {
-        "id": 297,
+        "id": 21,
         "name": "符文·如来神掌",
         "zhenyin": 3,
         "quality": 4,
         "cost": 3,
         "type": 4,
         "img": "/chanyigu/fuwen_rulaishenzhang.jpg",
-        "grade": "[6]",
-        "tag": "[1,2,5]",
+        "grade": "[7]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -36531,7 +36408,7 @@
         ]
     },
     {
-        "id": 298,
+        "id": 271,
         "name": "神机玄女·轩",
         "zhenyin": 3,
         "quality": 4,
@@ -36654,7 +36531,7 @@
         ]
     },
     {
-        "id": 299,
+        "id": 272,
         "name": "悟能禅杖",
         "zhenyin": 3,
         "quality": 4,
@@ -36777,7 +36654,7 @@
         ]
     },
     {
-        "id": 300,
+        "id": 273,
         "name": "雪域春光·凛",
         "zhenyin": 3,
         "quality": 4,
@@ -36900,7 +36777,7 @@
         ]
     },
     {
-        "id": 301,
+        "id": 274,
         "name": "三熊阵",
         "zhenyin": 3,
         "quality": 4,
@@ -37023,7 +36900,7 @@
         ]
     },
     {
-        "id": 302,
+        "id": 275,
         "name": "逍遥居士·铭",
         "zhenyin": 3,
         "quality": 4,
@@ -37146,7 +37023,7 @@
         ]
     },
     {
-        "id": 303,
+        "id": 276,
         "name": "长生不老树",
         "zhenyin": 3,
         "quality": 4,
@@ -37269,7 +37146,7 @@
         ]
     },
     {
-        "id": 304,
+        "id": 277,
         "name": "神龙传人",
         "zhenyin": 3,
         "quality": 4,
@@ -37392,7 +37269,7 @@
         ]
     },
     {
-        "id": 305,
+        "id": 278,
         "name": "豪情禅师·悟能",
         "zhenyin": 3,
         "quality": 4,
@@ -37515,7 +37392,7 @@
         ]
     },
     {
-        "id": 306,
+        "id": 279,
         "name": "逸云剑·任大师",
         "zhenyin": 3,
         "quality": 4,
@@ -37638,7 +37515,7 @@
         ]
     },
     {
-        "id": 307,
+        "id": 280,
         "name": "凶恶幼犬",
         "zhenyin": 4,
         "quality": 1,
@@ -37761,7 +37638,7 @@
         ]
     },
     {
-        "id": 308,
+        "id": 281,
         "name": "蕾拉火弹",
         "zhenyin": 4,
         "quality": 1,
@@ -37884,7 +37761,7 @@
         ]
     },
     {
-        "id": 309,
+        "id": 282,
         "name": "田野农夫",
         "zhenyin": 4,
         "quality": 1,
@@ -38007,7 +37884,7 @@
         ]
     },
     {
-        "id": 310,
+        "id": 283,
         "name": "水手",
         "zhenyin": 4,
         "quality": 1,
@@ -38130,7 +38007,7 @@
         ]
     },
     {
-        "id": 311,
+        "id": 284,
         "name": "排箭攻击",
         "zhenyin": 4,
         "quality": 1,
@@ -38253,7 +38130,7 @@
         ]
     },
     {
-        "id": 312,
+        "id": 285,
         "name": "亲切的大妈",
         "zhenyin": 4,
         "quality": 1,
@@ -38376,7 +38253,7 @@
         ]
     },
     {
-        "id": 313,
+        "id": 286,
         "name": "强壮工头",
         "zhenyin": 4,
         "quality": 1,
@@ -38499,7 +38376,7 @@
         ]
     },
     {
-        "id": 314,
+        "id": 287,
         "name": "走私的珍奇兽",
         "zhenyin": 4,
         "quality": 2,
@@ -38622,7 +38499,7 @@
         ]
     },
     {
-        "id": 315,
+        "id": 288,
         "name": "邪月小魔女",
         "zhenyin": 4,
         "quality": 2,
@@ -38745,7 +38622,7 @@
         ]
     },
     {
-        "id": 316,
+        "id": 289,
         "name": "心灵黑洞",
         "zhenyin": 4,
         "quality": 2,
@@ -38868,7 +38745,7 @@
         ]
     },
     {
-        "id": 317,
+        "id": 290,
         "name": "暗潮涌动",
         "zhenyin": 4,
         "quality": 2,
@@ -38991,7 +38868,7 @@
         ]
     },
     {
-        "id": 318,
+        "id": 291,
         "name": "先发制人",
         "zhenyin": 4,
         "quality": 2,
@@ -39114,7 +38991,7 @@
         ]
     },
     {
-        "id": 319,
+        "id": 292,
         "name": "愤怒农夫",
         "zhenyin": 4,
         "quality": 2,
@@ -39237,7 +39114,7 @@
         ]
     },
     {
-        "id": 320,
+        "id": 293,
         "name": "狡诈学徒",
         "zhenyin": 4,
         "quality": 2,
@@ -39360,7 +39237,7 @@
         ]
     },
     {
-        "id": 321,
+        "id": 294,
         "name": "外来隐修者",
         "zhenyin": 4,
         "quality": 2,
@@ -39483,7 +39360,7 @@
         ]
     },
     {
-        "id": 322,
+        "id": 295,
         "name": "黑夜射手",
         "zhenyin": 4,
         "quality": 2,
@@ -39606,7 +39483,7 @@
         ]
     },
     {
-        "id": 323,
+        "id": 296,
         "name": "黑水快剑手",
         "zhenyin": 4,
         "quality": 2,
@@ -39729,7 +39606,7 @@
         ]
     },
     {
-        "id": 324,
+        "id": 297,
         "name": "亡命之徒",
         "zhenyin": 4,
         "quality": 2,
@@ -39852,7 +39729,7 @@
         ]
     },
     {
-        "id": 325,
+        "id": 298,
         "name": "黑夜突袭",
         "zhenyin": 4,
         "quality": 2,
@@ -39975,7 +39852,7 @@
         ]
     },
     {
-        "id": 326,
+        "id": 299,
         "name": "连锁电光",
         "zhenyin": 4,
         "quality": 2,
@@ -40098,7 +39975,7 @@
         ]
     },
     {
-        "id": 327,
+        "id": 300,
         "name": "火祭邪灵",
         "zhenyin": 4,
         "quality": 2,
@@ -40221,7 +40098,7 @@
         ]
     },
     {
-        "id": 328,
+        "id": 301,
         "name": "暗潮术士",
         "zhenyin": 4,
         "quality": 2,
@@ -40344,7 +40221,7 @@
         ]
     },
     {
-        "id": 329,
+        "id": 302,
         "name": "窃笑雪人",
         "zhenyin": 4,
         "quality": 2,
@@ -40467,7 +40344,7 @@
         ]
     },
     {
-        "id": 330,
+        "id": 303,
         "name": "传记学者",
         "zhenyin": 4,
         "quality": 2,
@@ -40590,7 +40467,7 @@
         ]
     },
     {
-        "id": 331,
+        "id": 304,
         "name": "海湾强盗",
         "zhenyin": 4,
         "quality": 2,
@@ -40713,7 +40590,7 @@
         ]
     },
     {
-        "id": 332,
+        "id": 305,
         "name": "黑金勒索者",
         "zhenyin": 4,
         "quality": 2,
@@ -40836,15 +40713,15 @@
         ]
     },
     {
-        "id": 333,
-        "name": "无声攫取",
+        "id": 21,
+        "name": "无声窃取",
         "zhenyin": 4,
         "quality": 2,
         "cost": 2,
         "type": 2,
         "img": "/tiantanggang/wushengjuequ.jpg",
-        "grade": "[5]",
-        "tag": "[2,3,20,26]",
+        "grade": "[0]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -40959,15 +40836,15 @@
         ]
     },
     {
-        "id": 334,
+        "id": 21,
         "name": "符文·黑金索命",
         "zhenyin": 4,
         "quality": 2,
         "cost": 2,
         "type": 4,
         "img": "/tiantanggang/fuwen_heijinsuoming.jpg",
-        "grade": "[3]",
-        "tag": "[3,26]",
+        "grade": "[0]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -41082,7 +40959,7 @@
         ]
     },
     {
-        "id": 335,
+        "id": 306,
         "name": "热血矿工",
         "zhenyin": 4,
         "quality": 2,
@@ -41205,7 +41082,7 @@
         ]
     },
     {
-        "id": 336,
+        "id": 307,
         "name": "酗酒暴徒",
         "zhenyin": 4,
         "quality": 2,
@@ -41328,7 +41205,7 @@
         ]
     },
     {
-        "id": 337,
+        "id": 308,
         "name": "教廷学者",
         "zhenyin": 4,
         "quality": 2,
@@ -41451,7 +41328,7 @@
         ]
     },
     {
-        "id": 338,
+        "id": 309,
         "name": "黑金刽子手",
         "zhenyin": 4,
         "quality": 2,
@@ -41574,7 +41451,7 @@
         ]
     },
     {
-        "id": 339,
+        "id": 310,
         "name": "沙湾骆驼",
         "zhenyin": 4,
         "quality": 2,
@@ -41697,7 +41574,7 @@
         ]
     },
     {
-        "id": 340,
+        "id": 311,
         "name": "海燕迫击炮",
         "zhenyin": 4,
         "quality": 2,
@@ -41820,7 +41697,7 @@
         ]
     },
     {
-        "id": 341,
+        "id": 312,
         "name": "黑旗舰队水手",
         "zhenyin": 4,
         "quality": 2,
@@ -41943,7 +41820,7 @@
         ]
     },
     {
-        "id": 342,
+        "id": 313,
         "name": "魔力风暴",
         "zhenyin": 4,
         "quality": 2,
@@ -42066,7 +41943,7 @@
         ]
     },
     {
-        "id": 343,
+        "id": 314,
         "name": "不法交易",
         "zhenyin": 4,
         "quality": 2,
@@ -42189,7 +42066,7 @@
         ]
     },
     {
-        "id": 344,
+        "id": 315,
         "name": "黑市商人",
         "zhenyin": 4,
         "quality": 2,
@@ -42312,7 +42189,7 @@
         ]
     },
     {
-        "id": 345,
+        "id": 316,
         "name": "掠夺草人",
         "zhenyin": 4,
         "quality": 2,
@@ -42435,7 +42312,7 @@
         ]
     },
     {
-        "id": 346,
+        "id": 317,
         "name": "节日南瓜",
         "zhenyin": 4,
         "quality": 2,
@@ -42558,7 +42435,7 @@
         ]
     },
     {
-        "id": 347,
+        "id": 318,
         "name": "酗酒醉汉",
         "zhenyin": 4,
         "quality": 2,
@@ -42681,7 +42558,7 @@
         ]
     },
     {
-        "id": 348,
+        "id": 319,
         "name": "心灵风暴",
         "zhenyin": 4,
         "quality": 2,
@@ -42804,7 +42681,7 @@
         ]
     },
     {
-        "id": 349,
+        "id": 320,
         "name": "黑金土匪",
         "zhenyin": 4,
         "quality": 2,
@@ -42927,7 +42804,7 @@
         ]
     },
     {
-        "id": 351,
+        "id": 321,
         "name": "南瓜大婶",
         "zhenyin": 4,
         "quality": 2,
@@ -43050,7 +42927,7 @@
         ]
     },
     {
-        "id": 352,
+        "id": 322,
         "name": "妖娆女巫",
         "zhenyin": 4,
         "quality": 2,
@@ -43173,7 +43050,7 @@
         ]
     },
     {
-        "id": 353,
+        "id": 323,
         "name": "黑旗舰队飞斧手",
         "zhenyin": 4,
         "quality": 2,
@@ -43296,7 +43173,7 @@
         ]
     },
     {
-        "id": 354,
+        "id": 324,
         "name": "电光术士",
         "zhenyin": 4,
         "quality": 2,
@@ -43419,15 +43296,15 @@
         ]
     },
     {
-        "id": 355,
+        "id": 21,
         "name": "符文·浪花快剑",
         "zhenyin": 4,
         "quality": 2,
         "cost": 4,
         "type": 4,
         "img": "/tiantanggang/fuwen_langhuakuaijian.jpg",
-        "grade": "[2]",
-        "tag": "[2,6]",
+        "grade": "[1]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -43542,7 +43419,7 @@
         ]
     },
     {
-        "id": 356,
+        "id": 325,
         "name": "恶犬屠夫",
         "zhenyin": 4,
         "quality": 2,
@@ -43665,7 +43542,7 @@
         ]
     },
     {
-        "id": 357,
+        "id": 326,
         "name": "传记·风暴之夜",
         "zhenyin": 4,
         "quality": 2,
@@ -43788,7 +43665,7 @@
         ]
     },
     {
-        "id": 358,
+        "id": 327,
         "name": "传记·抢滩登陆",
         "zhenyin": 4,
         "quality": 2,
@@ -43911,7 +43788,7 @@
         ]
     },
     {
-        "id": 359,
+        "id": 328,
         "name": "传记·残酷掠夺",
         "zhenyin": 4,
         "quality": 2,
@@ -44034,7 +43911,7 @@
         ]
     },
     {
-        "id": 360,
+        "id": 329,
         "name": "走私狂徒",
         "zhenyin": 4,
         "quality": 3,
@@ -44157,7 +44034,7 @@
         ]
     },
     {
-        "id": 361,
+        "id": 330,
         "name": "异域驯兽使",
         "zhenyin": 4,
         "quality": 3,
@@ -44280,7 +44157,7 @@
         ]
     },
     {
-        "id": 362,
+        "id": 331,
         "name": "海燕精卫",
         "zhenyin": 4,
         "quality": 3,
@@ -44403,7 +44280,7 @@
         ]
     },
     {
-        "id": 363,
+        "id": 332,
         "name": "红海猎魔人",
         "zhenyin": 4,
         "quality": 3,
@@ -44526,7 +44403,7 @@
         ]
     },
     {
-        "id": 364,
+        "id": 333,
         "name": "海神赐福",
         "zhenyin": 4,
         "quality": 3,
@@ -44649,7 +44526,7 @@
         ]
     },
     {
-        "id": 365,
+        "id": 334,
         "name": "快乐使者",
         "zhenyin": 4,
         "quality": 3,
@@ -44772,7 +44649,7 @@
         ]
     },
     {
-        "id": 366,
+        "id": 335,
         "name": "幸福空间",
         "zhenyin": 4,
         "quality": 3,
@@ -44895,7 +44772,7 @@
         ]
     },
     {
-        "id": 367,
+        "id": 336,
         "name": "无情夺命客",
         "zhenyin": 4,
         "quality": 3,
@@ -45018,7 +44895,7 @@
         ]
     },
     {
-        "id": 368,
+        "id": 337,
         "name": "深山老巫",
         "zhenyin": 4,
         "quality": 3,
@@ -45141,7 +45018,7 @@
         ]
     },
     {
-        "id": 369,
+        "id": 338,
         "name": "黑水伏击",
         "zhenyin": 4,
         "quality": 3,
@@ -45264,7 +45141,7 @@
         ]
     },
     {
-        "id": 370,
+        "id": 339,
         "name": "寒夜灯灵",
         "zhenyin": 4,
         "quality": 3,
@@ -45387,7 +45264,7 @@
         ]
     },
     {
-        "id": 371,
+        "id": 340,
         "name": "封魔幼兽",
         "zhenyin": 4,
         "quality": 3,
@@ -45510,7 +45387,7 @@
         ]
     },
     {
-        "id": 372,
+        "id": 341,
         "name": "晨光魔宠",
         "zhenyin": 4,
         "quality": 3,
@@ -45633,7 +45510,7 @@
         ]
     },
     {
-        "id": 373,
+        "id": 342,
         "name": "喧哗水手长",
         "zhenyin": 4,
         "quality": 3,
@@ -45756,7 +45633,7 @@
         ]
     },
     {
-        "id": 374,
+        "id": 343,
         "name": "偷渡巨人",
         "zhenyin": 4,
         "quality": 3,
@@ -45879,15 +45756,15 @@
         ]
     },
     {
-        "id": 350,
+        "id": 21,
         "name": "符文·绝命风暴",
         "zhenyin": 4,
         "quality": 3,
         "cost": 3,
         "type": 4,
         "img": "/tiantanggang/fuwen_juemingfengbao.jpg",
-        "grade": "[5]",
-        "tag": "[2,26]",
+        "grade": "[0]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -46002,7 +45879,7 @@
         ]
     },
     {
-        "id": 375,
+        "id": 21,
         "name": "符文·洞悉未来",
         "zhenyin": 4,
         "quality": 3,
@@ -46010,7 +45887,7 @@
         "type": 4,
         "img": "/tiantanggang/fuwen_dongxiweilai.jpg",
         "grade": "[5]",
-        "tag": "[3,4]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -46125,7 +46002,7 @@
         ]
     },
     {
-        "id": 376,
+        "id": 21,
         "name": "符文·恶犬领地",
         "zhenyin": 4,
         "quality": 3,
@@ -46133,7 +46010,7 @@
         "type": 4,
         "img": "/tiantanggang/fuwen_equanlingdi.jpg",
         "grade": "[5]",
-        "tag": "[24]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -46248,7 +46125,7 @@
         ]
     },
     {
-        "id": 377,
+        "id": 344,
         "name": "海盗船长",
         "zhenyin": 4,
         "quality": 3,
@@ -46371,7 +46248,7 @@
         ]
     },
     {
-        "id": 378,
+        "id": 345,
         "name": "炼金术士",
         "zhenyin": 4,
         "quality": 3,
@@ -46494,7 +46371,7 @@
         ]
     },
     {
-        "id": 379,
+        "id": 346,
         "name": "动物学家",
         "zhenyin": 4,
         "quality": 3,
@@ -46617,7 +46494,7 @@
         ]
     },
     {
-        "id": 380,
+        "id": 347,
         "name": "黑金诈术师",
         "zhenyin": 4,
         "quality": 3,
@@ -46740,7 +46617,7 @@
         ]
     },
     {
-        "id": 381,
+        "id": 348,
         "name": "缴械逆袭",
         "zhenyin": 4,
         "quality": 3,
@@ -46863,7 +46740,7 @@
         ]
     },
     {
-        "id": 382,
+        "id": 349,
         "name": "磐龙工匠",
         "zhenyin": 4,
         "quality": 3,
@@ -46986,7 +46863,7 @@
         ]
     },
     {
-        "id": 383,
+        "id": 350,
         "name": "奴役黑猿",
         "zhenyin": 4,
         "quality": 3,
@@ -47109,7 +46986,7 @@
         ]
     },
     {
-        "id": 384,
+        "id": 351,
         "name": "红海领航员",
         "zhenyin": 4,
         "quality": 3,
@@ -47232,7 +47109,7 @@
         ]
     },
     {
-        "id": 385,
+        "id": 352,
         "name": "在逃重犯",
         "zhenyin": 4,
         "quality": 3,
@@ -47355,7 +47232,7 @@
         ]
     },
     {
-        "id": 386,
+        "id": 353,
         "name": "地心冒险家",
         "zhenyin": 4,
         "quality": 3,
@@ -47478,7 +47355,7 @@
         ]
     },
     {
-        "id": 387,
+        "id": 354,
         "name": "寻宝队长",
         "zhenyin": 4,
         "quality": 3,
@@ -47601,15 +47478,15 @@
         ]
     },
     {
-        "id": 388,
+        "id": 21,
         "name": "符文·杀戮之锚",
         "zhenyin": 4,
         "quality": 3,
         "cost": 4,
         "type": 4,
         "img": "/tiantanggang/fuwen_shaluzhimao.jpg",
-        "grade": "[2]",
-        "tag": "[19]",
+        "grade": "[1]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -47724,7 +47601,7 @@
         ]
     },
     {
-        "id": 389,
+        "id": 355,
         "name": "贵族运输象",
         "zhenyin": 4,
         "quality": 3,
@@ -47847,7 +47724,7 @@
         ]
     },
     {
-        "id": 390,
+        "id": 356,
         "name": "黑旗舰队双枪客",
         "zhenyin": 4,
         "quality": 3,
@@ -47970,7 +47847,7 @@
         ]
     },
     {
-        "id": 391,
+        "id": 357,
         "name": "星辰陨落",
         "zhenyin": 4,
         "quality": 3,
@@ -48093,7 +47970,7 @@
         ]
     },
     {
-        "id": 392,
+        "id": 358,
         "name": "万圣节秘树",
         "zhenyin": 4,
         "quality": 3,
@@ -48216,7 +48093,7 @@
         ]
     },
     {
-        "id": 393,
+        "id": 359,
         "name": "烈日大祭师",
         "zhenyin": 4,
         "quality": 3,
@@ -48339,15 +48216,15 @@
         ]
     },
     {
-        "id": 394,
+        "id": 21,
         "name": "符文·夜莺晚歌",
         "zhenyin": 4,
         "quality": 3,
         "cost": 5,
         "type": 4,
         "img": "/tiantanggang/fuwen_yeyingwange.jpg",
-        "grade": "[4]",
-        "tag": "[22,24]",
+        "grade": "[3]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -48462,7 +48339,7 @@
         ]
     },
     {
-        "id": 395,
+        "id": 360,
         "name": "钢斧开山者",
         "zhenyin": 4,
         "quality": 3,
@@ -48585,7 +48462,7 @@
         ]
     },
     {
-        "id": 396,
+        "id": 361,
         "name": "黑旗舰队船长",
         "zhenyin": 4,
         "quality": 3,
@@ -48708,7 +48585,7 @@
         ]
     },
     {
-        "id": 397,
+        "id": 362,
         "name": "封魔巨兽",
         "zhenyin": 4,
         "quality": 3,
@@ -48831,7 +48708,7 @@
         ]
     },
     {
-        "id": 398,
+        "id": 363,
         "name": "黑金铸造大师",
         "zhenyin": 4,
         "quality": 3,
@@ -48954,7 +48831,7 @@
         ]
     },
     {
-        "id": 399,
+        "id": 364,
         "name": "蕾拉密卷",
         "zhenyin": 4,
         "quality": 4,
@@ -49077,7 +48954,7 @@
         ]
     },
     {
-        "id": 400,
+        "id": 365,
         "name": "花剑绅士·翔",
         "zhenyin": 4,
         "quality": 4,
@@ -49200,7 +49077,7 @@
         ]
     },
     {
-        "id": 401,
+        "id": 366,
         "name": "海燕·鲍莉",
         "zhenyin": 4,
         "quality": 4,
@@ -49323,7 +49200,7 @@
         ]
     },
     {
-        "id": 402,
+        "id": 367,
         "name": "欢乐歌唱的戴维",
         "zhenyin": 4,
         "quality": 4,
@@ -49446,7 +49323,7 @@
         ]
     },
     {
-        "id": 403,
+        "id": 368,
         "name": "戴维的惊天计谋",
         "zhenyin": 4,
         "quality": 4,
@@ -49569,7 +49446,7 @@
         ]
     },
     {
-        "id": 404,
+        "id": 369,
         "name": "魔卡幻术师·梅基",
         "zhenyin": 4,
         "quality": 4,
@@ -49692,7 +49569,7 @@
         ]
     },
     {
-        "id": 405,
+        "id": 370,
         "name": "赤影·艾希尔",
         "zhenyin": 4,
         "quality": 4,
@@ -49815,15 +49692,15 @@
         ]
     },
     {
-        "id": 406,
+        "id": 21,
         "name": "符文·海王之怒",
         "zhenyin": 4,
         "quality": 4,
         "cost": 4,
         "type": 4,
         "img": "/tiantanggang/fuwen_haihuangzhinu.jpg",
-        "grade": "[6]",
-        "tag": "[26]",
+        "grade": "[2]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -49938,7 +49815,7 @@
         ]
     },
     {
-        "id": 407,
+        "id": 371,
         "name": "钢之咆哮·布瑞恩",
         "zhenyin": 4,
         "quality": 4,
@@ -50061,7 +49938,7 @@
         ]
     },
     {
-        "id": 408,
+        "id": 372,
         "name": "烈火·蕾拉",
         "zhenyin": 4,
         "quality": 4,
@@ -50184,7 +50061,7 @@
         ]
     },
     {
-        "id": 409,
+        "id": 373,
         "name": "黑金三代目·梅森",
         "zhenyin": 4,
         "quality": 4,
@@ -50307,7 +50184,7 @@
         ]
     },
     {
-        "id": 410,
+        "id": 374,
         "name": "红海使魔",
         "zhenyin": 5,
         "quality": 1,
@@ -50430,7 +50307,7 @@
         ]
     },
     {
-        "id": 411,
+        "id": 375,
         "name": "燃烧鬼怪",
         "zhenyin": 5,
         "quality": 1,
@@ -50553,7 +50430,7 @@
         ]
     },
     {
-        "id": 412,
+        "id": 376,
         "name": "嗜血卒",
         "zhenyin": 5,
         "quality": 1,
@@ -50676,7 +50553,7 @@
         ]
     },
     {
-        "id": 413,
+        "id": 377,
         "name": "猩红仆从",
         "zhenyin": 5,
         "quality": 1,
@@ -50799,7 +50676,7 @@
         ]
     },
     {
-        "id": 414,
+        "id": 378,
         "name": "混乱恶鬼",
         "zhenyin": 5,
         "quality": 1,
@@ -50922,7 +50799,7 @@
         ]
     },
     {
-        "id": 415,
+        "id": 379,
         "name": "烈火术",
         "zhenyin": 5,
         "quality": 1,
@@ -51045,7 +50922,7 @@
         ]
     },
     {
-        "id": 416,
+        "id": 380,
         "name": "焦毒尸嵌",
         "zhenyin": 5,
         "quality": 1,
@@ -51168,7 +51045,7 @@
         ]
     },
     {
-        "id": 417,
+        "id": 381,
         "name": "冥河守卫",
         "zhenyin": 5,
         "quality": 2,
@@ -51291,7 +51168,7 @@
         ]
     },
     {
-        "id": 418,
+        "id": 382,
         "name": "落雷击",
         "zhenyin": 5,
         "quality": 2,
@@ -51414,7 +51291,7 @@
         ]
     },
     {
-        "id": 419,
+        "id": 383,
         "name": "沸腾血刃",
         "zhenyin": 5,
         "quality": 2,
@@ -51537,7 +51414,7 @@
         ]
     },
     {
-        "id": 420,
+        "id": 384,
         "name": "炼狱刀吏",
         "zhenyin": 5,
         "quality": 2,
@@ -51660,7 +51537,7 @@
         ]
     },
     {
-        "id": 421,
+        "id": 385,
         "name": "邪眼魔",
         "zhenyin": 5,
         "quality": 2,
@@ -51783,7 +51660,7 @@
         ]
     },
     {
-        "id": 422,
+        "id": 386,
         "name": "残暴爪钩",
         "zhenyin": 5,
         "quality": 2,
@@ -51906,7 +51783,7 @@
         ]
     },
     {
-        "id": 423,
+        "id": 387,
         "name": "炎球",
         "zhenyin": 5,
         "quality": 2,
@@ -52029,7 +51906,7 @@
         ]
     },
     {
-        "id": 424,
+        "id": 388,
         "name": "毒液甲虫",
         "zhenyin": 5,
         "quality": 2,
@@ -52152,7 +52029,7 @@
         ]
     },
     {
-        "id": 425,
+        "id": 389,
         "name": "热火冲锋",
         "zhenyin": 5,
         "quality": 2,
@@ -52275,7 +52152,7 @@
         ]
     },
     {
-        "id": 426,
+        "id": 390,
         "name": "爆燃邪鬼",
         "zhenyin": 5,
         "quality": 2,
@@ -52398,7 +52275,7 @@
         ]
     },
     {
-        "id": 427,
+        "id": 391,
         "name": "嗜血妖蛾",
         "zhenyin": 5,
         "quality": 2,
@@ -52521,7 +52398,7 @@
         ]
     },
     {
-        "id": 428,
+        "id": 392,
         "name": "狂噬兽",
         "zhenyin": 5,
         "quality": 2,
@@ -52644,7 +52521,7 @@
         ]
     },
     {
-        "id": 429,
+        "id": 21,
         "name": "符文·岩浆坠落",
         "zhenyin": 5,
         "quality": 2,
@@ -52767,7 +52644,7 @@
         ]
     },
     {
-        "id": 430,
+        "id": 393,
         "name": "猩红勇士",
         "zhenyin": 5,
         "quality": 2,
@@ -52890,7 +52767,7 @@
         ]
     },
     {
-        "id": 431,
+        "id": 394,
         "name": "尖叫邪鬼",
         "zhenyin": 5,
         "quality": 2,
@@ -53013,7 +52890,7 @@
         ]
     },
     {
-        "id": 432,
+        "id": 395,
         "name": "凝血之池",
         "zhenyin": 5,
         "quality": 2,
@@ -53136,7 +53013,7 @@
         ]
     },
     {
-        "id": 433,
+        "id": 396,
         "name": "血焰焦木",
         "zhenyin": 5,
         "quality": 2,
@@ -53259,7 +53136,7 @@
         ]
     },
     {
-        "id": 434,
+        "id": 397,
         "name": "疯狂战意",
         "zhenyin": 5,
         "quality": 2,
@@ -53382,7 +53259,7 @@
         ]
     },
     {
-        "id": 435,
+        "id": 398,
         "name": "狂暴炎球",
         "zhenyin": 5,
         "quality": 2,
@@ -53505,7 +53382,7 @@
         ]
     },
     {
-        "id": 436,
+        "id": 399,
         "name": "双头毒虫",
         "zhenyin": 5,
         "quality": 2,
@@ -53628,7 +53505,7 @@
         ]
     },
     {
-        "id": 437,
+        "id": 400,
         "name": "无面狂奔者",
         "zhenyin": 5,
         "quality": 2,
@@ -53751,13 +53628,13 @@
         ]
     },
     {
-        "id": 438,
+        "id": 401,
         "name": "恶毒魔眼",
         "zhenyin": 5,
         "quality": 2,
         "cost": 3,
         "type": 1,
-        "img": "/lianyushenyuan/edumoyan.jpg",
+        "img": "/lianyushenyuan/fuwen_edumoyan.jpg",
         "grade": "[1]",
         "tag": "[19,21]",
         "data": [
@@ -53874,7 +53751,7 @@
         ]
     },
     {
-        "id": 439,
+        "id": 402,
         "name": "熔炉尸嵌",
         "zhenyin": 5,
         "quality": 2,
@@ -53997,7 +53874,7 @@
         ]
     },
     {
-        "id": 440,
+        "id": 403,
         "name": "渴血兽魔",
         "zhenyin": 5,
         "quality": 2,
@@ -54120,7 +53997,7 @@
         ]
     },
     {
-        "id": 441,
+        "id": 404,
         "name": "腐化甲蛾",
         "zhenyin": 5,
         "quality": 2,
@@ -54243,15 +54120,15 @@
         ]
     },
     {
-        "id": 442,
+        "id": 21,
         "name": "符文·恶毒侵蚀",
         "zhenyin": 5,
         "quality": 2,
         "cost": 3,
         "type": 4,
-        "img": "/lianyushenyuan/fuwen_eduqinshi.jpg",
-        "grade": "[4]",
-        "tag": "[26]",
+        "img": "/lianyushenyuan/eduqinshi.jpg",
+        "grade": "[2]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -54366,7 +54243,7 @@
         ]
     },
     {
-        "id": 443,
+        "id": 405,
         "name": "炼狱双头犬",
         "zhenyin": 5,
         "quality": 2,
@@ -54489,7 +54366,7 @@
         ]
     },
     {
-        "id": 444,
+        "id": 406,
         "name": "焦炎异魔",
         "zhenyin": 5,
         "quality": 2,
@@ -54612,7 +54489,7 @@
         ]
     },
     {
-        "id": 445,
+        "id": 407,
         "name": "贪食之翼",
         "zhenyin": 5,
         "quality": 2,
@@ -54735,7 +54612,7 @@
         ]
     },
     {
-        "id": 446,
+        "id": 408,
         "name": "烈焰风暴",
         "zhenyin": 5,
         "quality": 2,
@@ -54858,7 +54735,7 @@
         ]
     },
     {
-        "id": 447,
+        "id": 409,
         "name": "恶臭公害",
         "zhenyin": 5,
         "quality": 2,
@@ -54981,7 +54858,7 @@
         ]
     },
     {
-        "id": 448,
+        "id": 410,
         "name": "肥胖督军",
         "zhenyin": 5,
         "quality": 2,
@@ -55104,7 +54981,7 @@
         ]
     },
     {
-        "id": 449,
+        "id": 411,
         "name": "邪鬼草人",
         "zhenyin": 5,
         "quality": 2,
@@ -55227,7 +55104,7 @@
         ]
     },
     {
-        "id": 450,
+        "id": 412,
         "name": "吸魂者",
         "zhenyin": 5,
         "quality": 2,
@@ -55350,15 +55227,15 @@
         ]
     },
     {
-        "id": 452,
-        "name": "符文·入邪魔力",
+        "id": 21,
+        "name": "邪恶献祭",
         "zhenyin": 5,
         "quality": 2,
         "cost": 4,
         "type": 2,
-        "img": "/lianyushenyuan/fuwen_ruxiemoli.jpg",
+        "img": "/lianyushenyuan/xieexianji.jpg",
         "grade": "[3]",
-        "tag": "[26]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -55468,12 +55345,135 @@
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "登场：消灭敌方随机符文（等级<=24）、回合开始：随机友军攻击+30，持续1回合"
+                "effect": "牺牲目标友军，相邻1个友军+40/+40，抽2张牌"
             }
         ]
     },
     {
-        "id": 453,
+        "id": 21,
+        "name": "魔域长枪",
+        "zhenyin": 5,
+        "quality": 2,
+        "cost": 4,
+        "type": 2,
+        "img": "/lianyushenyuan/moyuchangqiang.jpg",
+        "grade": "[3]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：消灭敌方随机符文、回合开始：随机友军攻击+30，持续1回合"
+            }
+        ]
+    },
+    {
+        "id": 413,
         "name": "无面屠夫",
         "zhenyin": 5,
         "quality": 2,
@@ -55596,7 +55596,7 @@
         ]
     },
     {
-        "id": 454,
+        "id": 414,
         "name": "传记·火弹",
         "zhenyin": 5,
         "quality": 2,
@@ -55719,7 +55719,7 @@
         ]
     },
     {
-        "id": 455,
+        "id": 415,
         "name": "传记·炎弹",
         "zhenyin": 5,
         "quality": 2,
@@ -55842,7 +55842,7 @@
         ]
     },
     {
-        "id": 456,
+        "id": 416,
         "name": "碎颅魔",
         "zhenyin": 5,
         "quality": 3,
@@ -55965,7 +55965,7 @@
         ]
     },
     {
-        "id": 457,
+        "id": 417,
         "name": "觅食大嘴兽",
         "zhenyin": 5,
         "quality": 3,
@@ -56088,7 +56088,7 @@
         ]
     },
     {
-        "id": 458,
+        "id": 418,
         "name": "苦痛守望者",
         "zhenyin": 5,
         "quality": 3,
@@ -56211,7 +56211,7 @@
         ]
     },
     {
-        "id": 459,
+        "id": 419,
         "name": "渴血毒甲蝎",
         "zhenyin": 5,
         "quality": 3,
@@ -56334,7 +56334,7 @@
         ]
     },
     {
-        "id": 460,
+        "id": 420,
         "name": "厌咒食尸犬",
         "zhenyin": 5,
         "quality": 3,
@@ -56457,7 +56457,7 @@
         ]
     },
     {
-        "id": 461,
+        "id": 421,
         "name": "狱铠战魂",
         "zhenyin": 5,
         "quality": 3,
@@ -56580,7 +56580,7 @@
         ]
     },
     {
-        "id": 462,
+        "id": 422,
         "name": "绝望镰魔",
         "zhenyin": 5,
         "quality": 3,
@@ -56703,7 +56703,7 @@
         ]
     },
     {
-        "id": 463,
+        "id": 423,
         "name": "岩浆球",
         "zhenyin": 5,
         "quality": 3,
@@ -56826,7 +56826,7 @@
         ]
     },
     {
-        "id": 464,
+        "id": 424,
         "name": "铸甲熔岩魔",
         "zhenyin": 5,
         "quality": 3,
@@ -56949,7 +56949,7 @@
         ]
     },
     {
-        "id": 465,
+        "id": 425,
         "name": "爆燃突袭",
         "zhenyin": 5,
         "quality": 3,
@@ -57072,7 +57072,7 @@
         ]
     },
     {
-        "id": 466,
+        "id": 426,
         "name": "魔鬼盛宴",
         "zhenyin": 5,
         "quality": 3,
@@ -57195,7 +57195,7 @@
         ]
     },
     {
-        "id": 467,
+        "id": 427,
         "name": "破卵而出",
         "zhenyin": 5,
         "quality": 3,
@@ -57318,7 +57318,7 @@
         ]
     },
     {
-        "id": 468,
+        "id": 21,
         "name": "符文·致命甲壳",
         "zhenyin": 5,
         "quality": 3,
@@ -57326,7 +57326,7 @@
         "type": 4,
         "img": "/lianyushenyuan/fuwen_zhimingjiake.jpg",
         "grade": "[6]",
-        "tag": "[1,5,19]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -57441,15 +57441,15 @@
         ]
     },
     {
-        "id": 469,
+        "id": 21,
         "name": "符文·熔岩喷射",
         "zhenyin": 5,
         "quality": 3,
         "cost": 3,
         "type": 4,
         "img": "/lianyushenyuan/fuwen_rongyanpenshe.jpg",
-        "grade": "[4]",
-        "tag": "[26]",
+        "grade": "[2]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -57564,7 +57564,7 @@
         ]
     },
     {
-        "id": 470,
+        "id": 428,
         "name": "血炎鬼魅",
         "zhenyin": 5,
         "quality": 3,
@@ -57687,7 +57687,7 @@
         ]
     },
     {
-        "id": 471,
+        "id": 429,
         "name": "嗜血破面",
         "zhenyin": 5,
         "quality": 3,
@@ -57810,7 +57810,7 @@
         ]
     },
     {
-        "id": 472,
+        "id": 430,
         "name": "夺魂诅咒",
         "zhenyin": 5,
         "quality": 3,
@@ -57933,7 +57933,7 @@
         ]
     },
     {
-        "id": 473,
+        "id": 431,
         "name": "鲜血督军",
         "zhenyin": 5,
         "quality": 3,
@@ -58056,7 +58056,7 @@
         ]
     },
     {
-        "id": 474,
+        "id": 432,
         "name": "熔岩术士",
         "zhenyin": 5,
         "quality": 3,
@@ -58179,7 +58179,7 @@
         ]
     },
     {
-        "id": 475,
+        "id": 433,
         "name": "灼神双炎",
         "zhenyin": 5,
         "quality": 3,
@@ -58302,7 +58302,7 @@
         ]
     },
     {
-        "id": 476,
+        "id": 434,
         "name": "凶恶蟹魔",
         "zhenyin": 5,
         "quality": 3,
@@ -58425,130 +58425,7 @@
         ]
     },
     {
-        "id": 451,
-        "name": "邪恶献祭",
-        "zhenyin": 5,
-        "quality": 3,
-        "cost": 4,
-        "type": 2,
-        "img": "/lianyushenyuan/xieexianji.jpg",
-        "grade": "[3]",
-        "tag": "[25]",
-        "data": [
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "牺牲目标友军，相邻1个友军+51/+51，抽2张牌"
-            }
-        ]
-    },
-    {
-        "id": 477,
+        "id": 21,
         "name": "符文·嗜血恶兽",
         "zhenyin": 5,
         "quality": 3,
@@ -58556,7 +58433,7 @@
         "type": 4,
         "img": "/lianyushenyuan/fuwen_shixueeshou.jpg",
         "grade": "[3]",
-        "tag": "[5,24]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -58671,7 +58548,7 @@
         ]
     },
     {
-        "id": 478,
+        "id": 435,
         "name": "炼狱屠夫",
         "zhenyin": 5,
         "quality": 3,
@@ -58794,7 +58671,7 @@
         ]
     },
     {
-        "id": 479,
+        "id": 436,
         "name": "炼狱三头犬",
         "zhenyin": 5,
         "quality": 3,
@@ -58917,7 +58794,7 @@
         ]
     },
     {
-        "id": 480,
+        "id": 437,
         "name": "噬心魔虫",
         "zhenyin": 5,
         "quality": 3,
@@ -59040,7 +58917,7 @@
         ]
     },
     {
-        "id": 481,
+        "id": 438,
         "name": "雷光炼狱",
         "zhenyin": 5,
         "quality": 3,
@@ -59163,7 +59040,7 @@
         ]
     },
     {
-        "id": 482,
+        "id": 439,
         "name": "夺魂死镰",
         "zhenyin": 5,
         "quality": 3,
@@ -59286,7 +59163,7 @@
         ]
     },
     {
-        "id": 483,
+        "id": 440,
         "name": "狂暴铁臂",
         "zhenyin": 5,
         "quality": 3,
@@ -59409,7 +59286,7 @@
         ]
     },
     {
-        "id": 484,
+        "id": 441,
         "name": "吞魂魔树",
         "zhenyin": 5,
         "quality": 3,
@@ -59532,15 +59409,15 @@
         ]
     },
     {
-        "id": 485,
+        "id": 21,
         "name": "符文·猩红大军",
         "zhenyin": 5,
         "quality": 3,
         "cost": 5,
         "type": 4,
         "img": "/lianyushenyuan/fuwen_xinghongdajun.jpg",
-        "grade": "[4]",
-        "tag": "[19,24]",
+        "grade": "[5]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -59655,7 +59532,7 @@
         ]
     },
     {
-        "id": 486,
+        "id": 442,
         "name": "魔岩邪牛",
         "zhenyin": 5,
         "quality": 3,
@@ -59778,7 +59655,7 @@
         ]
     },
     {
-        "id": 487,
+        "id": 443,
         "name": "黑岩裂缝",
         "zhenyin": 5,
         "quality": 3,
@@ -59901,7 +59778,7 @@
         ]
     },
     {
-        "id": 488,
+        "id": 444,
         "name": "恶灵魔焰",
         "zhenyin": 5,
         "quality": 3,
@@ -60024,7 +59901,7 @@
         ]
     },
     {
-        "id": 489,
+        "id": 445,
         "name": "蛮荒魔神",
         "zhenyin": 5,
         "quality": 3,
@@ -60147,7 +60024,7 @@
         ]
     },
     {
-        "id": 490,
+        "id": 446,
         "name": "天崩地裂",
         "zhenyin": 5,
         "quality": 3,
@@ -60270,7 +60147,7 @@
         ]
     },
     {
-        "id": 491,
+        "id": 447,
         "name": "深渊剧毒兽",
         "zhenyin": 5,
         "quality": 3,
@@ -60393,7 +60270,7 @@
         ]
     },
     {
-        "id": 492,
+        "id": 448,
         "name": "炼狱巨口",
         "zhenyin": 5,
         "quality": 3,
@@ -60516,7 +60393,7 @@
         ]
     },
     {
-        "id": 493,
+        "id": 449,
         "name": "传记·流星落",
         "zhenyin": 5,
         "quality": 3,
@@ -60639,7 +60516,7 @@
         ]
     },
     {
-        "id": 494,
+        "id": 450,
         "name": "传记·火尘落",
         "zhenyin": 5,
         "quality": 3,
@@ -60762,7 +60639,7 @@
         ]
     },
     {
-        "id": 495,
+        "id": 451,
         "name": "传记·流星火陨",
         "zhenyin": 5,
         "quality": 3,
@@ -60885,7 +60762,7 @@
         ]
     },
     {
-        "id": 496,
+        "id": 452,
         "name": "火寒毒种",
         "zhenyin": 5,
         "quality": 4,
@@ -61008,7 +60885,7 @@
         ]
     },
     {
-        "id": 497,
+        "id": 453,
         "name": "痛苦之心",
         "zhenyin": 5,
         "quality": 4,
@@ -61131,7 +61008,7 @@
         ]
     },
     {
-        "id": 498,
+        "id": 454,
         "name": "血影",
         "zhenyin": 5,
         "quality": 4,
@@ -61254,7 +61131,7 @@
         ]
     },
     {
-        "id": 499,
+        "id": 455,
         "name": "巴克&巴罗",
         "zhenyin": 5,
         "quality": 4,
@@ -61377,7 +61254,7 @@
         ]
     },
     {
-        "id": 500,
+        "id": 456,
         "name": "熔岩进击",
         "zhenyin": 5,
         "quality": 4,
@@ -61500,7 +61377,7 @@
         ]
     },
     {
-        "id": 501,
+        "id": 457,
         "name": "怨魂饕餮兽",
         "zhenyin": 5,
         "quality": 4,
@@ -61623,7 +61500,7 @@
         ]
     },
     {
-        "id": 502,
+        "id": 458,
         "name": "血翼·莉莉丝",
         "zhenyin": 5,
         "quality": 4,
@@ -61746,7 +61623,7 @@
         ]
     },
     {
-        "id": 503,
+        "id": 21,
         "name": "符文·地焚天陨",
         "zhenyin": 5,
         "quality": 4,
@@ -61754,7 +61631,7 @@
         "type": 4,
         "img": "/lianyushenyuan/fuwen_difentianyun.jpg",
         "grade": "[2]",
-        "tag": "[26]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -61864,12 +61741,12 @@
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "回合开始：随机敌方区域坠落陨石（66点伤害），无视神佑和魔免"
+                "effect": "回合开始：随机敌方区域坠落陨石（69点伤害），无视神佑和魔免"
             }
         ]
     },
     {
-        "id": 504,
+        "id": 459,
         "name": "熔炉梦魇",
         "zhenyin": 5,
         "quality": 4,
@@ -61992,7 +61869,7 @@
         ]
     },
     {
-        "id": 505,
+        "id": 460,
         "name": "烬喉炼狱魔",
         "zhenyin": 5,
         "quality": 4,
@@ -62115,7 +61992,7 @@
         ]
     },
     {
-        "id": 506,
+        "id": 461,
         "name": "猩红领主·巴拉克",
         "zhenyin": 5,
         "quality": 4,
@@ -62238,7 +62115,7 @@
         ]
     },
     {
-        "id": 507,
+        "id": 462,
         "name": "草原狼",
         "zhenyin": 6,
         "quality": 1,
@@ -62361,7 +62238,7 @@
         ]
     },
     {
-        "id": 508,
+        "id": 463,
         "name": "斑毛幼猪",
         "zhenyin": 6,
         "quality": 1,
@@ -62484,7 +62361,7 @@
         ]
     },
     {
-        "id": 509,
+        "id": 464,
         "name": "蛮化术",
         "zhenyin": 6,
         "quality": 1,
@@ -62607,7 +62484,7 @@
         ]
     },
     {
-        "id": 510,
+        "id": 465,
         "name": "再生食人魔",
         "zhenyin": 6,
         "quality": 1,
@@ -62730,7 +62607,7 @@
         ]
     },
     {
-        "id": 511,
+        "id": 466,
         "name": "长毛象",
         "zhenyin": 6,
         "quality": 1,
@@ -62853,7 +62730,7 @@
         ]
     },
     {
-        "id": 512,
+        "id": 467,
         "name": "愚笨鲸头鹅",
         "zhenyin": 6,
         "quality": 2,
@@ -62976,7 +62853,7 @@
         ]
     },
     {
-        "id": 513,
+        "id": 468,
         "name": "蛮石血蜥",
         "zhenyin": 6,
         "quality": 2,
@@ -63099,7 +62976,7 @@
         ]
     },
     {
-        "id": 514,
+        "id": 469,
         "name": "迟来的补给",
         "zhenyin": 6,
         "quality": 2,
@@ -63222,7 +63099,7 @@
         ]
     },
     {
-        "id": 515,
+        "id": 470,
         "name": "旷野祭师",
         "zhenyin": 6,
         "quality": 2,
@@ -63345,7 +63222,7 @@
         ]
     },
     {
-        "id": 516,
+        "id": 471,
         "name": "蓄力射手",
         "zhenyin": 6,
         "quality": 2,
@@ -63468,7 +63345,7 @@
         ]
     },
     {
-        "id": 517,
+        "id": 472,
         "name": "痴蛮野人",
         "zhenyin": 6,
         "quality": 2,
@@ -63591,7 +63468,7 @@
         ]
     },
     {
-        "id": 518,
+        "id": 473,
         "name": "贪食肥鼠",
         "zhenyin": 6,
         "quality": 2,
@@ -63714,7 +63591,7 @@
         ]
     },
     {
-        "id": 519,
+        "id": 474,
         "name": "蛮石穿山甲",
         "zhenyin": 6,
         "quality": 2,
@@ -63837,7 +63714,7 @@
         ]
     },
     {
-        "id": 520,
+        "id": 475,
         "name": "势如破竹",
         "zhenyin": 6,
         "quality": 2,
@@ -63960,7 +63837,7 @@
         ]
     },
     {
-        "id": 521,
+        "id": 476,
         "name": "蛮野仙人掌",
         "zhenyin": 6,
         "quality": 2,
@@ -64083,7 +63960,7 @@
         ]
     },
     {
-        "id": 522,
+        "id": 477,
         "name": "高原卫士",
         "zhenyin": 6,
         "quality": 2,
@@ -64206,7 +64083,7 @@
         ]
     },
     {
-        "id": 523,
+        "id": 478,
         "name": "盘旋秃鹰",
         "zhenyin": 6,
         "quality": 2,
@@ -64329,7 +64206,7 @@
         ]
     },
     {
-        "id": 524,
+        "id": 479,
         "name": "沙暴试炼",
         "zhenyin": 6,
         "quality": 2,
@@ -64452,7 +64329,7 @@
         ]
     },
     {
-        "id": 525,
+        "id": 480,
         "name": "旷野猎手",
         "zhenyin": 6,
         "quality": 2,
@@ -64575,7 +64452,7 @@
         ]
     },
     {
-        "id": 526,
+        "id": 481,
         "name": "沉稳主祭",
         "zhenyin": 6,
         "quality": 2,
@@ -64698,7 +64575,7 @@
         ]
     },
     {
-        "id": 527,
+        "id": 482,
         "name": "寻路斥候",
         "zhenyin": 6,
         "quality": 2,
@@ -64821,7 +64698,7 @@
         ]
     },
     {
-        "id": 528,
+        "id": 483,
         "name": "喧哗舞者",
         "zhenyin": 6,
         "quality": 2,
@@ -64944,7 +64821,7 @@
         ]
     },
     {
-        "id": 529,
+        "id": 484,
         "name": "迅捷长矛手",
         "zhenyin": 6,
         "quality": 2,
@@ -65067,7 +64944,7 @@
         ]
     },
     {
-        "id": 530,
+        "id": 485,
         "name": "厚皮河马",
         "zhenyin": 6,
         "quality": 2,
@@ -65190,7 +65067,7 @@
         ]
     },
     {
-        "id": 531,
+        "id": 486,
         "name": "面包树",
         "zhenyin": 6,
         "quality": 2,
@@ -65313,7 +65190,7 @@
         ]
     },
     {
-        "id": 532,
+        "id": 487,
         "name": "噬人花",
         "zhenyin": 6,
         "quality": 2,
@@ -65436,7 +65313,7 @@
         ]
     },
     {
-        "id": 533,
+        "id": 488,
         "name": "天降碎石",
         "zhenyin": 6,
         "quality": 2,
@@ -65559,7 +65436,7 @@
         ]
     },
     {
-        "id": 534,
+        "id": 489,
         "name": "机敏雀鹰",
         "zhenyin": 6,
         "quality": 2,
@@ -65682,7 +65559,7 @@
         ]
     },
     {
-        "id": 535,
+        "id": 490,
         "name": "雪域牦牛",
         "zhenyin": 6,
         "quality": 2,
@@ -65805,15 +65682,15 @@
         ]
     },
     {
-        "id": 536,
+        "id": 21,
         "name": "蛮古灵气",
         "zhenyin": 6,
         "quality": 2,
         "cost": 3,
         "type": 2,
         "img": "/manshikuangye/mangulingqi.jpg",
-        "grade": "[2]",
-        "tag": "[8]",
+        "grade": "[0]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -65928,14 +65805,14 @@
         ]
     },
     {
-        "id": 537,
+        "id": 21,
         "name": "符文·原力冲击",
         "zhenyin": 6,
         "quality": 2,
         "cost": 3,
         "type": 4,
         "img": "/manshikuangye/fuwen_yuanlichongji.jpg",
-        "grade": "[1]",
+        "grade": "[0]",
         "tag": "[]",
         "data": [
             {
@@ -66051,7 +65928,7 @@
         ]
     },
     {
-        "id": 538,
+        "id": 491,
         "name": "荒野赞颂人",
         "zhenyin": 6,
         "quality": 2,
@@ -66174,7 +66051,7 @@
         ]
     },
     {
-        "id": 539,
+        "id": 492,
         "name": "原野狂战士",
         "zhenyin": 6,
         "quality": 2,
@@ -66297,7 +66174,7 @@
         ]
     },
     {
-        "id": 540,
+        "id": 493,
         "name": "巨兽猎户",
         "zhenyin": 6,
         "quality": 2,
@@ -66420,7 +66297,7 @@
         ]
     },
     {
-        "id": 541,
+        "id": 494,
         "name": "生命源力",
         "zhenyin": 6,
         "quality": 2,
@@ -66543,7 +66420,7 @@
         ]
     },
     {
-        "id": 542,
+        "id": 495,
         "name": "强行捕猎",
         "zhenyin": 6,
         "quality": 2,
@@ -66666,7 +66543,7 @@
         ]
     },
     {
-        "id": 543,
+        "id": 496,
         "name": "旷野蛮族",
         "zhenyin": 6,
         "quality": 2,
@@ -66789,7 +66666,7 @@
         ]
     },
     {
-        "id": 544,
+        "id": 497,
         "name": "复仇噬人花",
         "zhenyin": 6,
         "quality": 2,
@@ -66912,7 +66789,7 @@
         ]
     },
     {
-        "id": 545,
+        "id": 498,
         "name": "雪原野人",
         "zhenyin": 6,
         "quality": 2,
@@ -67035,7 +66912,130 @@
         ]
     },
     {
-        "id": 547,
+        "id": 21,
+        "name": "符文·河马足迹",
+        "zhenyin": 6,
+        "quality": 2,
+        "cost": 4,
+        "type": 4,
+        "img": "/manshikuangye/fuwen_hemazuji.jpg",
+        "grade": "[2]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "登场：召唤30/80厚皮河马-lv22、回合开始：随机迟缓友军+9/+9，50%几率失去【迟缓】"
+            }
+        ]
+    },
+    {
+        "id": 499,
         "name": "鼓舞图腾",
         "zhenyin": 6,
         "quality": 2,
@@ -67158,7 +67158,7 @@
         ]
     },
     {
-        "id": 548,
+        "id": 500,
         "name": "迷茫巨人",
         "zhenyin": 6,
         "quality": 2,
@@ -67281,7 +67281,7 @@
         ]
     },
     {
-        "id": 549,
+        "id": 501,
         "name": "迟钝巨汉",
         "zhenyin": 6,
         "quality": 2,
@@ -67404,7 +67404,7 @@
         ]
     },
     {
-        "id": 550,
+        "id": 21,
         "name": "符文·野性守护",
         "zhenyin": 6,
         "quality": 2,
@@ -67412,7 +67412,7 @@
         "type": 4,
         "img": "/manshikuangye/fuwen_yexingshouhu.jpg",
         "grade": "[1]",
-        "tag": "[24,26]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -67527,7 +67527,7 @@
         ]
     },
     {
-        "id": 551,
+        "id": 502,
         "name": "疯狂祭师",
         "zhenyin": 6,
         "quality": 3,
@@ -67650,7 +67650,7 @@
         ]
     },
     {
-        "id": 552,
+        "id": 503,
         "name": "无畏猎户",
         "zhenyin": 6,
         "quality": 3,
@@ -67773,7 +67773,7 @@
         ]
     },
     {
-        "id": 553,
+        "id": 504,
         "name": "血蜥头领",
         "zhenyin": 6,
         "quality": 3,
@@ -67896,7 +67896,7 @@
         ]
     },
     {
-        "id": 554,
+        "id": 505,
         "name": "暴怒野人",
         "zhenyin": 6,
         "quality": 3,
@@ -68019,7 +68019,7 @@
         ]
     },
     {
-        "id": 555,
+        "id": 506,
         "name": "诱敌草人",
         "zhenyin": 6,
         "quality": 3,
@@ -68142,7 +68142,7 @@
         ]
     },
     {
-        "id": 556,
+        "id": 507,
         "name": "雪原狼女",
         "zhenyin": 6,
         "quality": 3,
@@ -68265,7 +68265,7 @@
         ]
     },
     {
-        "id": 557,
+        "id": 508,
         "name": "狼月祭师",
         "zhenyin": 6,
         "quality": 3,
@@ -68388,7 +68388,7 @@
         ]
     },
     {
-        "id": 558,
+        "id": 509,
         "name": "荒原智者",
         "zhenyin": 6,
         "quality": 3,
@@ -68511,7 +68511,7 @@
         ]
     },
     {
-        "id": 559,
+        "id": 510,
         "name": "地洞巨獾",
         "zhenyin": 6,
         "quality": 3,
@@ -68634,7 +68634,7 @@
         ]
     },
     {
-        "id": 560,
+        "id": 511,
         "name": "肥鼠晚宴",
         "zhenyin": 6,
         "quality": 3,
@@ -68757,7 +68757,7 @@
         ]
     },
     {
-        "id": 561,
+        "id": 512,
         "name": "活力仙人掌",
         "zhenyin": 6,
         "quality": 3,
@@ -68880,7 +68880,7 @@
         ]
     },
     {
-        "id": 562,
+        "id": 513,
         "name": "圣兽祭师",
         "zhenyin": 6,
         "quality": 3,
@@ -69003,7 +69003,7 @@
         ]
     },
     {
-        "id": 563,
+        "id": 514,
         "name": "高原保卫战",
         "zhenyin": 6,
         "quality": 3,
@@ -69126,7 +69126,7 @@
         ]
     },
     {
-        "id": 564,
+        "id": 21,
         "name": "符文·穿山魔灵",
         "zhenyin": 6,
         "quality": 3,
@@ -69134,7 +69134,7 @@
         "type": 4,
         "img": "/manshikuangye/fuwen_chuanshanmoling.jpg",
         "grade": "[2]",
-        "tag": "[1,2]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -69249,14 +69249,14 @@
         ]
     },
     {
-        "id": 565,
+        "id": 21,
         "name": "符文·噬人花田",
         "zhenyin": 6,
         "quality": 3,
         "cost": 3,
         "type": 4,
         "img": "/manshikuangye/fuwen_shirenhuatian.jpg",
-        "grade": "[1]",
+        "grade": "[0]",
         "tag": "[]",
         "data": [
             {
@@ -69372,7 +69372,7 @@
         ]
     },
     {
-        "id": 566,
+        "id": 21,
         "name": "符文·源力之石",
         "zhenyin": 6,
         "quality": 3,
@@ -69380,7 +69380,7 @@
         "type": 4,
         "img": "/manshikuangye/fuwen_yuanlizhishi.jpg",
         "grade": "[2]",
-        "tag": "[23]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -69495,7 +69495,7 @@
         ]
     },
     {
-        "id": 567,
+        "id": 515,
         "name": "象牙少女",
         "zhenyin": 6,
         "quality": 3,
@@ -69618,7 +69618,7 @@
         ]
     },
     {
-        "id": 568,
+        "id": 516,
         "name": "源力祭师",
         "zhenyin": 6,
         "quality": 3,
@@ -69741,7 +69741,7 @@
         ]
     },
     {
-        "id": 569,
+        "id": 517,
         "name": "饥蛮巨汉",
         "zhenyin": 6,
         "quality": 3,
@@ -69864,7 +69864,7 @@
         ]
     },
     {
-        "id": 570,
+        "id": 518,
         "name": "飞斧狂人",
         "zhenyin": 6,
         "quality": 3,
@@ -69987,7 +69987,7 @@
         ]
     },
     {
-        "id": 571,
+        "id": 519,
         "name": "霜矛骑士",
         "zhenyin": 6,
         "quality": 3,
@@ -70110,7 +70110,7 @@
         ]
     },
     {
-        "id": 572,
+        "id": 520,
         "name": "愤怒狂战士",
         "zhenyin": 6,
         "quality": 3,
@@ -70233,7 +70233,7 @@
         ]
     },
     {
-        "id": 573,
+        "id": 521,
         "name": "牛角图腾",
         "zhenyin": 6,
         "quality": 3,
@@ -70356,7 +70356,7 @@
         ]
     },
     {
-        "id": 574,
+        "id": 522,
         "name": "贪婪雪怪",
         "zhenyin": 6,
         "quality": 3,
@@ -70479,130 +70479,7 @@
         ]
     },
     {
-        "id": 546,
-        "name": "符文·河马足迹",
-        "zhenyin": 6,
-        "quality": 3,
-        "cost": 4,
-        "type": 4,
-        "img": "/manshikuangye/fuwen_hemazuji.jpg",
-        "grade": "[3]",
-        "tag": "[3,12]",
-        "data": [
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "登场：召唤30/80厚皮河马-lv22、回合开始：随机迟缓友军+9/+9，50%几率失去【迟缓】"
-            }
-        ]
-    },
-    {
-        "id": 575,
+        "id": 523,
         "name": "石斧头领",
         "zhenyin": 6,
         "quality": 3,
@@ -70725,7 +70602,7 @@
         ]
     },
     {
-        "id": 576,
+        "id": 524,
         "name": "飞斧女豪",
         "zhenyin": 6,
         "quality": 3,
@@ -70848,7 +70725,7 @@
         ]
     },
     {
-        "id": 577,
+        "id": 525,
         "name": "坚毅大祭司",
         "zhenyin": 6,
         "quality": 3,
@@ -70971,7 +70848,7 @@
         ]
     },
     {
-        "id": 578,
+        "id": 526,
         "name": "荒原牛头怪",
         "zhenyin": 6,
         "quality": 3,
@@ -71094,7 +70971,7 @@
         ]
     },
     {
-        "id": 579,
+        "id": 527,
         "name": "杂斑野猪王",
         "zhenyin": 6,
         "quality": 3,
@@ -71217,7 +71094,7 @@
         ]
     },
     {
-        "id": 580,
+        "id": 528,
         "name": "大嘴酋长",
         "zhenyin": 6,
         "quality": 3,
@@ -71340,7 +71217,7 @@
         ]
     },
     {
-        "id": 581,
+        "id": 529,
         "name": "源力苏醒",
         "zhenyin": 6,
         "quality": 3,
@@ -71463,7 +71340,7 @@
         ]
     },
     {
-        "id": 582,
+        "id": 530,
         "name": "驼岩长老",
         "zhenyin": 6,
         "quality": 3,
@@ -71586,7 +71463,7 @@
         ]
     },
     {
-        "id": 583,
+        "id": 21,
         "name": "符文·猛犸之歌",
         "zhenyin": 6,
         "quality": 3,
@@ -71594,7 +71471,7 @@
         "type": 4,
         "img": "/manshikuangye/fuwen_mengmazhige.jpg",
         "grade": "[3]",
-        "tag": "[24]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -71709,7 +71586,7 @@
         ]
     },
     {
-        "id": 584,
+        "id": 531,
         "name": "蛮石独眼巨人",
         "zhenyin": 6,
         "quality": 3,
@@ -71832,7 +71709,7 @@
         ]
     },
     {
-        "id": 585,
+        "id": 532,
         "name": "旷野的呼唤",
         "zhenyin": 6,
         "quality": 3,
@@ -71955,7 +71832,7 @@
         ]
     },
     {
-        "id": 586,
+        "id": 533,
         "name": "贪食白龙",
         "zhenyin": 6,
         "quality": 3,
@@ -72078,7 +71955,7 @@
         ]
     },
     {
-        "id": 587,
+        "id": 534,
         "name": "呼伴猎食兽",
         "zhenyin": 6,
         "quality": 3,
@@ -72201,7 +72078,7 @@
         ]
     },
     {
-        "id": 588,
+        "id": 535,
         "name": "传记·野蛮花园",
         "zhenyin": 6,
         "quality": 3,
@@ -72324,7 +72201,7 @@
         ]
     },
     {
-        "id": 589,
+        "id": 536,
         "name": "传记·伤痛记忆",
         "zhenyin": 6,
         "quality": 3,
@@ -72447,7 +72324,7 @@
         ]
     },
     {
-        "id": 590,
+        "id": 537,
         "name": "鸵鸟王·霍利",
         "zhenyin": 6,
         "quality": 4,
@@ -72570,7 +72447,7 @@
         ]
     },
     {
-        "id": 591,
+        "id": 538,
         "name": "旷野游侠·大羽",
         "zhenyin": 6,
         "quality": 4,
@@ -72693,7 +72570,7 @@
         ]
     },
     {
-        "id": 592,
+        "id": 539,
         "name": "比尔&比利",
         "zhenyin": 6,
         "quality": 4,
@@ -72816,7 +72693,7 @@
         ]
     },
     {
-        "id": 593,
+        "id": 21,
         "name": "符文·石破天惊",
         "zhenyin": 6,
         "quality": 4,
@@ -72824,7 +72701,7 @@
         "type": 4,
         "img": "/manshikuangye/fuwen_shipotianjing.jpg",
         "grade": "[7]",
-        "tag": "[3,5,14,21,26]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -72939,7 +72816,7 @@
         ]
     },
     {
-        "id": 594,
+        "id": 540,
         "name": "血饮烈斧·凯",
         "zhenyin": 6,
         "quality": 4,
@@ -73062,7 +72939,7 @@
         ]
     },
     {
-        "id": 595,
+        "id": 541,
         "name": "热血战歌！",
         "zhenyin": 6,
         "quality": 4,
@@ -73185,7 +73062,7 @@
         ]
     },
     {
-        "id": 596,
+        "id": 542,
         "name": "蛮古撼地兽",
         "zhenyin": 6,
         "quality": 4,
@@ -73308,7 +73185,7 @@
         ]
     },
     {
-        "id": 597,
+        "id": 543,
         "name": "原野大祭师·鲁玛",
         "zhenyin": 6,
         "quality": 4,
@@ -73431,7 +73308,7 @@
         ]
     },
     {
-        "id": 598,
+        "id": 544,
         "name": "荒原暴君·血眼",
         "zhenyin": 6,
         "quality": 4,
@@ -73554,7 +73431,7 @@
         ]
     },
     {
-        "id": 599,
+        "id": 545,
         "name": "炎阳巨龙",
         "zhenyin": 6,
         "quality": 4,
@@ -73677,7 +73554,7 @@
         ]
     },
     {
-        "id": 600,
+        "id": 546,
         "name": "骸骨战士",
         "zhenyin": 7,
         "quality": 1,
@@ -73800,7 +73677,7 @@
         ]
     },
     {
-        "id": 601,
+        "id": 547,
         "name": "冻尸",
         "zhenyin": 7,
         "quality": 1,
@@ -73923,7 +73800,7 @@
         ]
     },
     {
-        "id": 602,
+        "id": 548,
         "name": "荒芜藤蔓",
         "zhenyin": 7,
         "quality": 1,
@@ -74046,7 +73923,7 @@
         ]
     },
     {
-        "id": 603,
+        "id": 549,
         "name": "骷髅射手",
         "zhenyin": 7,
         "quality": 1,
@@ -74169,7 +74046,7 @@
         ]
     },
     {
-        "id": 604,
+        "id": 550,
         "name": "尸嵌",
         "zhenyin": 7,
         "quality": 1,
@@ -74292,7 +74169,7 @@
         ]
     },
     {
-        "id": 605,
+        "id": 551,
         "name": "复生邪骨",
         "zhenyin": 7,
         "quality": 1,
@@ -74415,7 +74292,7 @@
         ]
     },
     {
-        "id": 606,
+        "id": 552,
         "name": "骷髅犬",
         "zhenyin": 7,
         "quality": 2,
@@ -74538,7 +74415,7 @@
         ]
     },
     {
-        "id": 607,
+        "id": 553,
         "name": "冰原匍尸",
         "zhenyin": 7,
         "quality": 2,
@@ -74661,7 +74538,7 @@
         ]
     },
     {
-        "id": 608,
+        "id": 554,
         "name": "战场遗迹",
         "zhenyin": 7,
         "quality": 2,
@@ -74784,7 +74661,7 @@
         ]
     },
     {
-        "id": 609,
+        "id": 555,
         "name": "转化仪式",
         "zhenyin": 7,
         "quality": 2,
@@ -74907,7 +74784,7 @@
         ]
     },
     {
-        "id": 610,
+        "id": 556,
         "name": "骨爆",
         "zhenyin": 7,
         "quality": 2,
@@ -75030,7 +74907,7 @@
         ]
     },
     {
-        "id": 611,
+        "id": 557,
         "name": "复生尸骸",
         "zhenyin": 7,
         "quality": 2,
@@ -75153,7 +75030,7 @@
         ]
     },
     {
-        "id": 612,
+        "id": 558,
         "name": "冬神狂信者",
         "zhenyin": 7,
         "quality": 2,
@@ -75276,7 +75153,7 @@
         ]
     },
     {
-        "id": 613,
+        "id": 559,
         "name": "噬魂骨妖",
         "zhenyin": 7,
         "quality": 2,
@@ -75399,7 +75276,7 @@
         ]
     },
     {
-        "id": 614,
+        "id": 560,
         "name": "寒铁军士",
         "zhenyin": 7,
         "quality": 2,
@@ -75522,7 +75399,7 @@
         ]
     },
     {
-        "id": 615,
+        "id": 561,
         "name": "瘟疫冰虫",
         "zhenyin": 7,
         "quality": 2,
@@ -75645,7 +75522,7 @@
         ]
     },
     {
-        "id": 616,
+        "id": 562,
         "name": "寒冰魔墙",
         "zhenyin": 7,
         "quality": 2,
@@ -75768,7 +75645,7 @@
         ]
     },
     {
-        "id": 617,
+        "id": 563,
         "name": "寒冬将至",
         "zhenyin": 7,
         "quality": 2,
@@ -75891,7 +75768,7 @@
         ]
     },
     {
-        "id": 618,
+        "id": 564,
         "name": "骨墙",
         "zhenyin": 7,
         "quality": 2,
@@ -76014,7 +75891,7 @@
         ]
     },
     {
-        "id": 619,
+        "id": 565,
         "name": "阴冷墓穴",
         "zhenyin": 7,
         "quality": 2,
@@ -76137,7 +76014,7 @@
         ]
     },
     {
-        "id": 620,
+        "id": 566,
         "name": "寒风草人",
         "zhenyin": 7,
         "quality": 2,
@@ -76260,7 +76137,7 @@
         ]
     },
     {
-        "id": 621,
+        "id": 567,
         "name": "召唤阵·骷髅犬",
         "zhenyin": 7,
         "quality": 2,
@@ -76383,7 +76260,7 @@
         ]
     },
     {
-        "id": 622,
+        "id": 21,
         "name": "符文·无尽折磨",
         "zhenyin": 7,
         "quality": 2,
@@ -76391,7 +76268,7 @@
         "type": 4,
         "img": "/dongshenshitu/fuwen_wujinzhemo.jpg",
         "grade": "[5]",
-        "tag": "[19]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -76506,7 +76383,7 @@
         ]
     },
     {
-        "id": 623,
+        "id": 568,
         "name": "严冬苦行僧",
         "zhenyin": 7,
         "quality": 2,
@@ -76629,7 +76506,7 @@
         ]
     },
     {
-        "id": 624,
+        "id": 569,
         "name": "寒冰祭师",
         "zhenyin": 7,
         "quality": 2,
@@ -76752,7 +76629,7 @@
         ]
     },
     {
-        "id": 625,
+        "id": 570,
         "name": "极地狂信者",
         "zhenyin": 7,
         "quality": 2,
@@ -76875,7 +76752,7 @@
         ]
     },
     {
-        "id": 626,
+        "id": 571,
         "name": "神庙祭师",
         "zhenyin": 7,
         "quality": 2,
@@ -76998,7 +76875,7 @@
         ]
     },
     {
-        "id": 627,
+        "id": 572,
         "name": "使徒征召",
         "zhenyin": 7,
         "quality": 2,
@@ -77121,7 +76998,7 @@
         ]
     },
     {
-        "id": 628,
+        "id": 573,
         "name": "灵魂抽取",
         "zhenyin": 7,
         "quality": 2,
@@ -77244,7 +77121,7 @@
         ]
     },
     {
-        "id": 629,
+        "id": 574,
         "name": "神庙魔像",
         "zhenyin": 7,
         "quality": 2,
@@ -77367,7 +77244,7 @@
         ]
     },
     {
-        "id": 630,
+        "id": 575,
         "name": "盾甲骷髅妖",
         "zhenyin": 7,
         "quality": 2,
@@ -77490,7 +77367,7 @@
         ]
     },
     {
-        "id": 631,
+        "id": 576,
         "name": "绝望之地",
         "zhenyin": 7,
         "quality": 2,
@@ -77613,7 +77490,7 @@
         ]
     },
     {
-        "id": 632,
+        "id": 577,
         "name": "无声变异",
         "zhenyin": 7,
         "quality": 2,
@@ -77736,7 +77613,7 @@
         ]
     },
     {
-        "id": 633,
+        "id": 578,
         "name": "白骨咒",
         "zhenyin": 7,
         "quality": 2,
@@ -77859,7 +77736,130 @@
         ]
     },
     {
-        "id": 635,
+        "id": 21,
+        "name": "冷酷献祭",
+        "zhenyin": 7,
+        "quality": 2,
+        "cost": 3,
+        "type": 2,
+        "img": "/dongshenshitu/lengkuxianji.jpg",
+        "grade": "[5]",
+        "tag": "[]",
+        "data": [
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "/"
+            },
+            {
+                "attack": 0,
+                "life": 0,
+                "effect": "牺牲目标友军：随机敌军-35/-35，消灭敌方随机符文（等级<=25）"
+            }
+        ]
+    },
+    {
+        "id": 21,
         "name": "符文·冰冷进击",
         "zhenyin": 7,
         "quality": 2,
@@ -77867,7 +77867,7 @@
         "type": 4,
         "img": "/dongshenshitu/fuwen_binglengjinji.jpg",
         "grade": "[5]",
-        "tag": "[13]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -77982,7 +77982,7 @@
         ]
     },
     {
-        "id": 636,
+        "id": 579,
         "name": "死寒猎手",
         "zhenyin": 7,
         "quality": 2,
@@ -78105,7 +78105,7 @@
         ]
     },
     {
-        "id": 637,
+        "id": 580,
         "name": "骸骨前线",
         "zhenyin": 7,
         "quality": 2,
@@ -78228,7 +78228,7 @@
         ]
     },
     {
-        "id": 638,
+        "id": 581,
         "name": "蛮骨法师",
         "zhenyin": 7,
         "quality": 2,
@@ -78351,7 +78351,7 @@
         ]
     },
     {
-        "id": 639,
+        "id": 21,
         "name": "符文·寒灵禁锢",
         "zhenyin": 7,
         "quality": 2,
@@ -78359,7 +78359,7 @@
         "type": 4,
         "img": "/dongshenshitu/fuwen_hanlingjingu.jpg",
         "grade": "[3]",
-        "tag": "[2,11,19,22]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -78474,7 +78474,7 @@
         ]
     },
     {
-        "id": 640,
+        "id": 582,
         "name": "冰原咆哮者",
         "zhenyin": 7,
         "quality": 2,
@@ -78597,7 +78597,7 @@
         ]
     },
     {
-        "id": 641,
+        "id": 583,
         "name": "不眠雪鸦",
         "zhenyin": 7,
         "quality": 2,
@@ -78720,7 +78720,7 @@
         ]
     },
     {
-        "id": 642,
+        "id": 584,
         "name": "雪隐寺秘典",
         "zhenyin": 7,
         "quality": 2,
@@ -78843,7 +78843,7 @@
         ]
     },
     {
-        "id": 643,
+        "id": 585,
         "name": "传记·雪域猎踪",
         "zhenyin": 7,
         "quality": 2,
@@ -78966,7 +78966,7 @@
         ]
     },
     {
-        "id": 644,
+        "id": 586,
         "name": "传记·猛兽哮谷",
         "zhenyin": 7,
         "quality": 2,
@@ -79089,7 +79089,7 @@
         ]
     },
     {
-        "id": 645,
+        "id": 587,
         "name": "凛冬邪咒师",
         "zhenyin": 7,
         "quality": 3,
@@ -79212,7 +79212,7 @@
         ]
     },
     {
-        "id": 646,
+        "id": 588,
         "name": "冬夜使者",
         "zhenyin": 7,
         "quality": 3,
@@ -79335,7 +79335,7 @@
         ]
     },
     {
-        "id": 647,
+        "id": 589,
         "name": "墓园缝合师",
         "zhenyin": 7,
         "quality": 3,
@@ -79458,7 +79458,7 @@
         ]
     },
     {
-        "id": 648,
+        "id": 590,
         "name": "寒彻骨",
         "zhenyin": 7,
         "quality": 3,
@@ -79581,7 +79581,7 @@
         ]
     },
     {
-        "id": 649,
+        "id": 21,
         "name": "符文·天寒地冻",
         "zhenyin": 7,
         "quality": 3,
@@ -79589,7 +79589,7 @@
         "type": 4,
         "img": "/dongshenshitu/fuwen_tianhandidong.jpg",
         "grade": "[5]",
-        "tag": "[11,26]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -79704,7 +79704,7 @@
         ]
     },
     {
-        "id": 650,
+        "id": 591,
         "name": "残破神庙",
         "zhenyin": 7,
         "quality": 3,
@@ -79827,7 +79827,7 @@
         ]
     },
     {
-        "id": 651,
+        "id": 592,
         "name": "极地神庙",
         "zhenyin": 7,
         "quality": 3,
@@ -79950,7 +79950,7 @@
         ]
     },
     {
-        "id": 652,
+        "id": 593,
         "name": "王座神庙",
         "zhenyin": 7,
         "quality": 3,
@@ -80073,7 +80073,7 @@
         ]
     },
     {
-        "id": 653,
+        "id": 594,
         "name": "可怖刺髓者",
         "zhenyin": 7,
         "quality": 3,
@@ -80196,7 +80196,7 @@
         ]
     },
     {
-        "id": 654,
+        "id": 595,
         "name": "寒盲刀客",
         "zhenyin": 7,
         "quality": 3,
@@ -80319,7 +80319,7 @@
         ]
     },
     {
-        "id": 655,
+        "id": 596,
         "name": "极夜阴魂",
         "zhenyin": 7,
         "quality": 3,
@@ -80442,7 +80442,7 @@
         ]
     },
     {
-        "id": 656,
+        "id": 597,
         "name": "寒冰骨墙",
         "zhenyin": 7,
         "quality": 3,
@@ -80565,7 +80565,7 @@
         ]
     },
     {
-        "id": 657,
+        "id": 598,
         "name": "冬夜特使",
         "zhenyin": 7,
         "quality": 3,
@@ -80688,7 +80688,7 @@
         ]
     },
     {
-        "id": 658,
+        "id": 599,
         "name": "索命幽魂",
         "zhenyin": 7,
         "quality": 3,
@@ -80811,7 +80811,7 @@
         ]
     },
     {
-        "id": 659,
+        "id": 600,
         "name": "苦痛双生",
         "zhenyin": 7,
         "quality": 3,
@@ -80934,130 +80934,7 @@
         ]
     },
     {
-        "id": 634,
-        "name": "冷酷献祭",
-        "zhenyin": 7,
-        "quality": 3,
-        "cost": 3,
-        "type": 2,
-        "img": "/dongshenshitu/lengkuxianji.jpg",
-        "grade": "[5]",
-        "tag": "[26]",
-        "data": [
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "/"
-            },
-            {
-                "attack": 0,
-                "life": 0,
-                "effect": "牺牲目标友军：随机敌军-48/-48，消灭敌方随机符文（等级<=25）"
-            }
-        ]
-    },
-    {
-        "id": 660,
+        "id": 21,
         "name": "符文·灵魂收割",
         "zhenyin": 7,
         "quality": 3,
@@ -81065,7 +80942,7 @@
         "type": 4,
         "img": "/dongshenshitu/fuwen_linghunshouge.jpg",
         "grade": "[2]",
-        "tag": "[19,21]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -81180,7 +81057,7 @@
         ]
     },
     {
-        "id": 661,
+        "id": 21,
         "name": "符文·武装大军",
         "zhenyin": 7,
         "quality": 3,
@@ -81188,7 +81065,7 @@
         "type": 4,
         "img": "/dongshenshitu/fuwen_wuzhuangdajun.jpg",
         "grade": "[5]",
-        "tag": "[1,24]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -81303,7 +81180,7 @@
         ]
     },
     {
-        "id": 662,
+        "id": 601,
         "name": "冬幕骑士",
         "zhenyin": 7,
         "quality": 3,
@@ -81426,7 +81303,7 @@
         ]
     },
     {
-        "id": 663,
+        "id": 602,
         "name": "冷酷冲车",
         "zhenyin": 7,
         "quality": 3,
@@ -81549,7 +81426,7 @@
         ]
     },
     {
-        "id": 664,
+        "id": 603,
         "name": "冷血召唤师",
         "zhenyin": 7,
         "quality": 3,
@@ -81672,7 +81549,7 @@
         ]
     },
     {
-        "id": 665,
+        "id": 604,
         "name": "极地冰封者",
         "zhenyin": 7,
         "quality": 3,
@@ -81795,7 +81672,7 @@
         ]
     },
     {
-        "id": 666,
+        "id": 605,
         "name": "不朽霜剑士",
         "zhenyin": 7,
         "quality": 3,
@@ -81918,7 +81795,7 @@
         ]
     },
     {
-        "id": 667,
+        "id": 606,
         "name": "转化使徒",
         "zhenyin": 7,
         "quality": 3,
@@ -82041,7 +81918,7 @@
         ]
     },
     {
-        "id": 668,
+        "id": 607,
         "name": "雪隐长老灵",
         "zhenyin": 7,
         "quality": 3,
@@ -82164,7 +82041,7 @@
         ]
     },
     {
-        "id": 669,
+        "id": 608,
         "name": "冰峰甲虫",
         "zhenyin": 7,
         "quality": 3,
@@ -82287,7 +82164,7 @@
         ]
     },
     {
-        "id": 670,
+        "id": 609,
         "name": "邪恶化身",
         "zhenyin": 7,
         "quality": 3,
@@ -82410,7 +82287,7 @@
         ]
     },
     {
-        "id": 671,
+        "id": 610,
         "name": "永夜巫妖",
         "zhenyin": 7,
         "quality": 3,
@@ -82533,7 +82410,7 @@
         ]
     },
     {
-        "id": 672,
+        "id": 611,
         "name": "严冬修行",
         "zhenyin": 7,
         "quality": 3,
@@ -82656,7 +82533,7 @@
         ]
     },
     {
-        "id": 673,
+        "id": 21,
         "name": "符文·秘传冰镜",
         "zhenyin": 7,
         "quality": 3,
@@ -82664,7 +82541,7 @@
         "type": 4,
         "img": "/dongshenshitu/fuwen_michuanbingjing.jpg",
         "grade": "[5]",
-        "tag": "[4,26]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -82779,7 +82656,7 @@
         ]
     },
     {
-        "id": 674,
+        "id": 612,
         "name": "冬幕斗士",
         "zhenyin": 7,
         "quality": 3,
@@ -82902,7 +82779,7 @@
         ]
     },
     {
-        "id": 675,
+        "id": 613,
         "name": "骸骨督军",
         "zhenyin": 7,
         "quality": 3,
@@ -83025,7 +82902,7 @@
         ]
     },
     {
-        "id": 676,
+        "id": 614,
         "name": "冬神呼啸",
         "zhenyin": 7,
         "quality": 3,
@@ -83148,7 +83025,7 @@
         ]
     },
     {
-        "id": 677,
+        "id": 615,
         "name": "咒杀酷吏",
         "zhenyin": 7,
         "quality": 3,
@@ -83271,7 +83148,7 @@
         ]
     },
     {
-        "id": 678,
+        "id": 616,
         "name": "深山雪怪",
         "zhenyin": 7,
         "quality": 3,
@@ -83394,7 +83271,7 @@
         ]
     },
     {
-        "id": 679,
+        "id": 617,
         "name": "冰魔像",
         "zhenyin": 7,
         "quality": 3,
@@ -83517,7 +83394,7 @@
         ]
     },
     {
-        "id": 680,
+        "id": 618,
         "name": "使徒君王",
         "zhenyin": 7,
         "quality": 3,
@@ -83640,7 +83517,7 @@
         ]
     },
     {
-        "id": 681,
+        "id": 619,
         "name": "冰吼兽",
         "zhenyin": 7,
         "quality": 3,
@@ -83763,7 +83640,7 @@
         ]
     },
     {
-        "id": 682,
+        "id": 620,
         "name": "冰河世纪",
         "zhenyin": 7,
         "quality": 3,
@@ -83886,7 +83763,7 @@
         ]
     },
     {
-        "id": 683,
+        "id": 621,
         "name": "冰疫兽",
         "zhenyin": 7,
         "quality": 3,
@@ -84009,7 +83886,7 @@
         ]
     },
     {
-        "id": 684,
+        "id": 622,
         "name": "冬神邪使",
         "zhenyin": 7,
         "quality": 3,
@@ -84132,7 +84009,7 @@
         ]
     },
     {
-        "id": 685,
+        "id": 623,
         "name": "冰龙",
         "zhenyin": 7,
         "quality": 3,
@@ -84255,7 +84132,7 @@
         ]
     },
     {
-        "id": 686,
+        "id": 624,
         "name": "冰原攻城兽",
         "zhenyin": 7,
         "quality": 3,
@@ -84378,7 +84255,7 @@
         ]
     },
     {
-        "id": 687,
+        "id": 625,
         "name": "传记·荒芜之地",
         "zhenyin": 7,
         "quality": 3,
@@ -84501,7 +84378,7 @@
         ]
     },
     {
-        "id": 688,
+        "id": 626,
         "name": "传记·荒芜之师",
         "zhenyin": 7,
         "quality": 3,
@@ -84624,7 +84501,7 @@
         ]
     },
     {
-        "id": 689,
+        "id": 627,
         "name": "寒风血刃",
         "zhenyin": 7,
         "quality": 4,
@@ -84747,7 +84624,7 @@
         ]
     },
     {
-        "id": 690,
+        "id": 628,
         "name": "荒芜冰巫·野",
         "zhenyin": 7,
         "quality": 4,
@@ -84870,7 +84747,7 @@
         ]
     },
     {
-        "id": 691,
+        "id": 629,
         "name": "不息之灵",
         "zhenyin": 7,
         "quality": 4,
@@ -84993,7 +84870,7 @@
         ]
     },
     {
-        "id": 692,
+        "id": 630,
         "name": "冰野荒芜计划",
         "zhenyin": 7,
         "quality": 4,
@@ -85116,7 +84993,7 @@
         ]
     },
     {
-        "id": 693,
+        "id": 631,
         "name": "寒风魔将·塞古斯",
         "zhenyin": 7,
         "quality": 4,
@@ -85239,7 +85116,7 @@
         ]
     },
     {
-        "id": 694,
+        "id": 632,
         "name": "永夜女王",
         "zhenyin": 7,
         "quality": 4,
@@ -85362,7 +85239,7 @@
         ]
     },
     {
-        "id": 695,
+        "id": 21,
         "name": "符文·冰原丧钟",
         "zhenyin": 7,
         "quality": 4,
@@ -85370,7 +85247,7 @@
         "type": 4,
         "img": "/dongshenshitu/fuwen_bingyuansangzhong.jpg",
         "grade": "[6]",
-        "tag": "[11,24,26]",
+        "tag": "[]",
         "data": [
             {
                 "attack": 0,
@@ -85485,7 +85362,7 @@
         ]
     },
     {
-        "id": 696,
+        "id": 633,
         "name": "王座巫妖",
         "zhenyin": 7,
         "quality": 4,
@@ -85608,7 +85485,7 @@
         ]
     },
     {
-        "id": 697,
+        "id": 634,
         "name": "冬神化身",
         "zhenyin": 7,
         "quality": 4,
@@ -85731,7 +85608,7 @@
         ]
     },
     {
-        "id": 698,
+        "id": 635,
         "name": "冰山·亚特拉斯",
         "zhenyin": 7,
         "quality": 4,
