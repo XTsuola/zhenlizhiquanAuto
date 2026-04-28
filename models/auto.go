@@ -126,6 +126,15 @@ type SkinAddData struct {
 	Data []SkinBase `json:"data"`
 }
 
+type QuestionBase struct {
+	Info string `json:"info"`
+	Time string `json:"time"`
+}
+
+type QuestionAddData struct {
+	Data []QuestionBase `json:"data"`
+}
+
 type AnswerBase struct {
 	QuestionId int    `json:"questionId" gorm:"column:questionId"`
 	Name       string `json:"name"`

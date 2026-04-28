@@ -53,6 +53,7 @@ func cardAdd(url string) {
 		fmt.Println("读取失败：", loadErr)
 		return
 	}
+
 	var addData models.CardAddData
 	addData.Data = data
 	utils.AutoAddTableData[models.CardAddData]("card", url, addData)
@@ -106,6 +107,18 @@ func skinAdd(url string) {
 	utils.AutoAddTableData[models.SkinAddData]("skin", url, addData)
 }
 
+// 每日一题问题
+func questionAdd(url string) {
+	var data []models.QuestionBase
+	if loadErr := utils.LoadJSON("data/question.json", &data); loadErr != nil {
+		fmt.Println("读取失败：", loadErr)
+		return
+	}
+	var addData models.QuestionAddData
+	addData.Data = data
+	utils.AutoAddTableData[models.QuestionAddData]("question", url, addData)
+}
+
 // 每日一题答案
 func answerAdd(url string) {
 	var data []models.AnswerBase
@@ -145,6 +158,7 @@ func mysqlAuto(c *gin.Context) {
 		//heroAdd("/hero/add")
 		//shardAdd("/hero/shardAdd")
 		//skinAdd("/skin/add")
+		//questionAdd("/question/addAll")
 		//answerAdd("/answer/addAll")
 		//shijiesaiAdd("/shijiesai/addList")
 	}()
