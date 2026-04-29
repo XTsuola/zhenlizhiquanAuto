@@ -140,8 +140,19 @@ func shijiesaiAdd(url string) {
 	}
 	var addData models.ShijiesaiAddData
 	addData.Data = data
-	fmt.Println(addData.Data)
 	utils.AutoAddTableData[models.ShijiesaiAddData]("shijiesai", url, addData)
+}
+
+// 成员
+func memberAdd(url string) {
+	var data []models.MemberBase
+	if loadErr := utils.LoadJSON("data/member.json", &data); loadErr != nil {
+		fmt.Println("读取失败：", loadErr)
+		return
+	}
+	var addData models.MemberAddData
+	addData.Data = data
+	utils.AutoAddTableData[models.MemberAddData]("member", url, addData)
 }
 
 // 自动化更新数据
@@ -153,13 +164,14 @@ func mysqlAuto(c *gin.Context) {
 		//skinDiyAdd("/skinDiy/addAll")
 		//cardDiyAdd("/cardDiy/addAll")
 		//frequencyAdd("/frequency/cardsAddAll")
-		cardAdd("/card/add")
+		//cardAdd("/card/add")
 		//shenqiAdd("/shenqi/add")
 		//heroAdd("/hero/add")
 		//shardAdd("/hero/shardAdd")
 		//skinAdd("/skin/add")
-		//questionAdd("/question/addAll")
-		//answerAdd("/answer/addAll")
+		questionAdd("/question/addAll")
+		answerAdd("/answer/addAll")
 		//shijiesaiAdd("/shijiesai/addList")
+		//memberAdd("/member/addAll")
 	}()
 }

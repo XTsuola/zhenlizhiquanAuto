@@ -162,3 +162,14 @@ type ShijiesaiBase struct {
 type ShijiesaiAddData struct {
 	Data []ShijiesaiBase `json:"data"`
 }
+
+type MemberBase struct {
+	Name   string  `json:"name"`
+	Score  float64 `json:"score"`
+	Title  string  `json:"title"`
+	Remark string  `json:"remark"`
+}
+
+type MemberAddData struct {
+	Data []MemberBase `json:"data"`
+}
