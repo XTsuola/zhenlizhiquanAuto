@@ -169,9 +169,9 @@ func mysqlAuto(c *gin.Context) {
 		//heroAdd("/hero/add")
 		//shardAdd("/hero/shardAdd")
 		//skinAdd("/skin/add")
-		questionAdd("/question/addAll")
-		answerAdd("/answer/addAll")
+		//questionAdd("/question/addAll")
+		//answerAdd("/answer/addAll")
 		//shijiesaiAdd("/shijiesai/addList")
-		//memberAdd("/member/addAll")
+		memberAdd("/member/addAll")
 	}()
 }
