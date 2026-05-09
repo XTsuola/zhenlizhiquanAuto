@@ -164,7 +164,7 @@ func mysqlAuto(c *gin.Context) {
 		//skinDiyAdd("/skinDiy/addAll")
 		//cardDiyAdd("/cardDiy/addAll")
 		//frequencyAdd("/frequency/cardsAddAll")
-		//cardAdd("/card/add")
+		cardAdd("/card/add")
 		//shenqiAdd("/shenqi/add")
 		//heroAdd("/hero/add")
 		//shardAdd("/hero/shardAdd")
@@ -172,6 +172,6 @@ func mysqlAuto(c *gin.Context) {
 		//questionAdd("/question/addAll")
 		//answerAdd("/answer/addAll")
 		//shijiesaiAdd("/shijiesai/addList")
-		memberAdd("/member/addAll")
+		//memberAdd("/member/addAll")
 	}()
 }

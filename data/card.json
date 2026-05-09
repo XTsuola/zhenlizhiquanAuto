@@ -9102,7 +9102,7 @@
         ]
     },
     {
-        "id": 76,
+        "id": 75,
         "name": "符文·天使印记",
         "zhenyin": 1,
         "quality": 3,
@@ -9225,7 +9225,7 @@
         ]
     },
     {
-        "id": 77,
+        "id": 76,
         "name": "禁卫百夫长",
         "zhenyin": 1,
         "quality": 3,
@@ -9348,7 +9348,7 @@
         ]
     },
     {
-        "id": 78,
+        "id": 77,
         "name": "田园保卫战",
         "zhenyin": 1,
         "quality": 3,
@@ -9471,7 +9471,7 @@
         ]
     },
     {
-        "id": 79,
+        "id": 78,
         "name": "圣光主祭",
         "zhenyin": 1,
         "quality": 3,
@@ -9594,7 +9594,7 @@
         ]
     },
     {
-        "id": 80,
+        "id": 79,
         "name": "皇家射手",
         "zhenyin": 1,
         "quality": 3,
@@ -9717,7 +9717,7 @@
         ]
     },
     {
-        "id": 75,
+        "id": 80,
         "name": "击碎符文",
         "zhenyin": 1,
         "quality": 3,
@@ -23992,7 +23992,7 @@
         "cost": 4,
         "type": 4,
         "img": "/yinmizhe/fuwen_monengyinzhe.jpg",
-        "grade": "[4]",
+        "grade": "[2]",
         "tag": "[1,21,26]",
         "data": [
             {
@@ -24976,7 +24976,7 @@
         "cost": 1,
         "type": 2,
         "img": "/chanyigu/xiantao.jpg",
-        "grade": "[1]",
+        "grade": "[2]",
         "tag": "[21]",
         "data": [
             {
@@ -26452,7 +26452,7 @@
         "cost": 2,
         "type": 1,
         "img": "/chanyigu/baiyangyaoshi.jpg",
-        "grade": "[2]",
+        "grade": "[3]",
         "tag": "[2]",
         "data": [
             {
@@ -31249,7 +31249,7 @@
         "cost": 2,
         "type": 1,
         "img": "/chanyigu/pantaoyinshi.jpg",
-        "grade": "[3]",
+        "grade": "[5]",
         "tag": "[3,26]",
         "data": [
             {
@@ -32848,7 +32848,7 @@
         "cost": 4,
         "type": 1,
         "img": "/chanyigu/bailuxianshi.jpg",
-        "grade": "[4]",
+        "grade": "[5]",
         "tag": "[]",
         "data": [
             {
@@ -37768,7 +37768,7 @@
         "cost": 1,
         "type": 2,
         "img": "/tiantanggang/leilahuodan.jpg",
-        "grade": "[1]",
+        "grade": "[2]",
         "tag": "",
         "data": [
             {
@@ -40228,7 +40228,7 @@
         "cost": 2,
         "type": 1,
         "img": "/tiantanggang/anchaoshushi.jpg",
-        "grade": "[1]",
+        "grade": "[2]",
         "tag": "[2,26]",
         "data": [
             {
@@ -42442,7 +42442,7 @@
         "cost": 3,
         "type": 2,
         "img": "/tiantanggang/jierinangua.jpg",
-        "grade": "[1]",
+        "grade": "[2]",
         "tag": "[2]",
         "data": [
             {
@@ -45154,112 +45154,112 @@
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-1/-1，召唤2/1黑水快剑手-lv1"
+                "effect": "随机敌军-1/-1，召唤3/2黑水快剑手-lv1"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-1/-1，召唤2/2黑水快剑手-lv2"
+                "effect": "随机敌军-1/-1，召唤3/3黑水快剑手-lv2"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-2/-2，召唤3/2黑水快剑手-lv3"
+                "effect": "随机敌军-2/-2，召唤4/3黑水快剑手-lv3"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-2/-2，召唤3/3黑水快剑手-lv4"
+                "effect": "随机敌军-2/-2，召唤5/3黑水快剑手-lv4"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-3/-3，召唤4/3黑水快剑手-lv5"
+                "effect": "随机敌军-3/-3，召唤5/4黑水快剑手-lv5"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-3/-3，召唤5/3黑水快剑手-lv6"
+                "effect": "随机敌军-3/-3，召唤6/4黑水快剑手-lv6"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-3/-3（无视神佑、魔免）、召唤5/4黑水快剑手-lv7"
+                "effect": "随机敌军-3/-3（无视神佑、魔免）、召唤7/4黑水快剑手-lv7"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-4/-4（无视神佑、魔免）、召唤6/4黑水快剑手-lv8"
+                "effect": "随机敌军-4/-4（无视神佑、魔免）、召唤8/5黑水快剑手-lv8"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-5/-5（无视神佑、魔免）、召唤7/4黑水快剑手-lv9"
+                "effect": "随机敌军-5/-5（无视神佑、魔免）、召唤9/5黑水快剑手-lv9"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-6/-6（无视神佑、魔免）、召唤8/5黑水快剑手-lv10"
+                "effect": "随机敌军-6/-6（无视神佑、魔免）、召唤10/6黑水快剑手-lv10"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-7/-7（无视神佑、魔免）、召唤9/5黑水快剑手-lv11"
+                "effect": "随机敌军-7/-7（无视神佑、魔免）、召唤11/7黑水快剑手-lv11"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-8/-8（无视神佑、魔免）、召唤10/5黑水快剑手-lv12"
+                "effect": "随机敌军-8/-8（无视神佑、魔免）、召唤12/8黑水快剑手-lv12"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-9/-9（无视神佑、魔免）、召唤11/6黑水快剑手-lv13"
+                "effect": "随机敌军-9/-9（无视神佑、魔免）、召唤13/9黑水快剑手-lv13"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-10/-10（无视神佑、魔免）、召唤12/7黑水快剑手-lv14"
+                "effect": "随机敌军-10/-10（无视神佑、魔免）、召唤15/9黑水快剑手-lv14"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-12/-12（无视神佑、魔免）、召唤13/9黑水快剑手-lv15"
+                "effect": "随机敌军-12/-12（无视神佑、魔免）、召唤17/9黑水快剑手-lv15"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-14/-14（无视神佑、魔免）、召唤15/9黑水快剑手-lv16"
+                "effect": "随机敌军-14/-14（无视神佑、魔免）、召唤18/10黑水快剑手-lv16"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-15/-15（无视神佑、魔免）、召唤17/9黑水快剑手-lv17"
+                "effect": "随机敌军-15/-15（无视神佑、魔免）、召唤20/10黑水快剑手-lv17"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-17/-17（无视神佑、魔免）、召唤19/10黑水快剑手-lv18"
+                "effect": "随机敌军-17/-17（无视神佑、魔免）、召唤21/11黑水快剑手-lv18"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-19/-19（无视神佑、魔免）、召唤21/12黑水快剑手-lv19"
+                "effect": "随机敌军-19/-19（无视神佑、魔免）、召唤23/12黑水快剑手-lv19"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-21/-21（无视神佑、魔免）、召唤23/13黑水快剑手-lv20"
+                "effect": "随机敌军-21/-21（无视神佑、魔免）、召唤25/12黑水快剑手-lv20"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-24/-24（无视神佑、魔免）、召唤26/13黑水快剑手-lv21"
+                "effect": "随机敌军-24/-24（无视神佑、魔免）、召唤27/13黑水快剑手-lv21"
             },
             {
                 "attack": 0,
                 "life": 0,
-                "effect": "随机敌军-27/-27（无视神佑、魔免）、召唤29/13黑水快剑手-lv22"
+                "effect": "随机敌军-27/-27（无视神佑、魔免）、召唤30/13黑水快剑手-lv22"
             }
         ]
     },
@@ -48100,7 +48100,7 @@
         "cost": 5,
         "type": 1,
         "img": "/tiantanggang/wanshengjiemishu.jpg",
-        "grade": "[2]",
+        "grade": "[3]",
         "tag": "[8,23,26]",
         "data": [
             {
@@ -65320,7 +65320,7 @@
         "cost": 3,
         "type": 1,
         "img": "/manshikuangye/shirenhua.jpg",
-        "grade": "[3]",
+        "grade": "[2]",
         "tag": "",
         "data": [
             {
@@ -68641,7 +68641,7 @@
         "cost": 3,
         "type": 2,
         "img": "/manshikuangye/feishuwanyan.jpg",
-        "grade": "[6]",
+        "grade": "[5]",
         "tag": "[2,21,24]",
         "data": [
             {
@@ -69256,7 +69256,7 @@
         "cost": 3,
         "type": 4,
         "img": "/manshikuangye/fuwen_shirenhuatian.jpg",
-        "grade": "[2]",
+        "grade": "[3]",
         "tag": "[]",
         "data": [
             {
@@ -70486,7 +70486,7 @@
         "cost": 4,
         "type": 4,
         "img": "/manshikuangye/fuwen_hemazuji.jpg",
-        "grade": "[3]",
+        "grade": "[2]",
         "tag": "[3,12]",
         "data": [
             {
@@ -75407,7 +75407,7 @@
         "type": 1,
         "img": "/dongshenshitu/hantiejunshi.jpg",
         "grade": "[2]",
-        "tag": "[3,11]",
+        "tag": "[1,3,11]",
         "data": [
             {
                 "attack": 3,
@@ -76636,7 +76636,7 @@
         "cost": 3,
         "type": 1,
         "img": "/dongshenshitu/hanbingjishi.jpg",
-        "grade": "[2]",
+        "grade": "[3]",
         "tag": "[11]",
         "data": [
             {
@@ -79219,8 +79219,8 @@
         "cost": 2,
         "type": 1,
         "img": "/dongshenshitu/dongyeshizhe.jpg",
-        "grade": "[5]",
-        "tag": "[3,22]",
+        "grade": "[6]",
+        "tag": "[1,3,22]",
         "data": [
             {
                 "attack": 3,
@@ -81310,7 +81310,7 @@
         "cost": 4,
         "type": 1,
         "img": "/dongshenshitu/dongmuqishi.jpg",
-        "grade": "[3]",
+        "grade": "[5]",
         "tag": "[1,26]",
         "data": [
             {
@@ -85369,7 +85369,7 @@
         "cost": 5,
         "type": 4,
         "img": "/dongshenshitu/fuwen_bingyuansangzhong.jpg",
-        "grade": "[6]",
+        "grade": "[4]",
         "tag": "[11,24,26]",
         "data": [
             {
