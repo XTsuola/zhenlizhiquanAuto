@@ -162,9 +162,9 @@ func mysqlAuto(c *gin.Context) {
 	})
 	go func() {
 		//skinDiyAdd("/skinDiy/addAll")
-		//cardDiyAdd("/cardDiy/addAll")
-		//frequencyAdd("/frequency/cardsAddAll")
-		cardAdd("/card/add")
+		cardDiyAdd("/cardDiy/addAll")
+		frequencyAdd("/frequency/cardsAddAll")
+		//cardAdd("/card/add")
 		//shenqiAdd("/shenqi/add")
 		//heroAdd("/hero/add")
 		//shardAdd("/hero/shardAdd")
@@ -172,6 +172,6 @@ func mysqlAuto(c *gin.Context) {
 		//questionAdd("/question/addAll")
 		//answerAdd("/answer/addAll")
 		//shijiesaiAdd("/shijiesai/addList")
-		//memberAdd("/member/addAll")
+		memberAdd("/member/addAll")
 	}()
 }
