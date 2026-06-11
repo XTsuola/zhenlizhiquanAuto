@@ -1916,5 +1916,61 @@
         "img": "",
         "info": "",
         "remark": ""
+    },
+    {
+        "id": 138,
+        "name": "我心",
+        "zhenyin": 3,
+        "cost": 3,
+        "quality": 4,
+        "cardType": 3,
+        "att": 0,
+        "life": 0,
+        "effect": "获得回命、传承、一回合神佑 ，三个回合 内生命+60",
+        "img": "",
+        "info": "叶子的传记太垃了 ",
+        "remark": ""
+    },
+    {
+        "id": 139,
+        "name": "我意",
+        "zhenyin": 3,
+        "cost": 4,
+        "quality": 4,
+        "cardType": 3,
+        "att": 0,
+        "life": 0,
+        "effect": "『我心』使用后部下获得先攻、传承，一回合神佑 ，两个回合内攻击+18，获得『我情』",
+        "img": "",
+        "info": "",
+        "remark": ""
+    },
+    {
+        "id": 140,
+        "name": "我情",
+        "zhenyin": 3,
+        "cost": 5,
+        "quality": 4,
+        "cardType": 3,
+        "att": 0,
+        "life": 0,
+        "effect": "使用『我意』后获得二连击、神佑",
+        "img": "",
+        "info": "我心 我情 我意 皆为单个目标 ，上面两个忘标了",
+        "remark": ""
+    },
+    {
+        "id": 141,
+        "name": "万物传承.萨克林",
+        "zhenyin": 3,
+        "cost": 5,
+        "quality": 4,
+        "cardType": 1,
+        "att": 25,
+        "life": 40,
+        "effect": "获得传承时，随机获取除魔免、沉默、守军等效果，获得一回合神佑，+6+6",
+        "img": "",
+        "info": "",
+        "remark": ""
     }
 ]

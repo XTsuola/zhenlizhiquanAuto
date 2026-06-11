@@ -168,10 +168,10 @@ func mysqlAuto(c *gin.Context) {
 		//shenqiAdd("/shenqi/add")
 		//heroAdd("/hero/add")
 		//shardAdd("/hero/shardAdd")
-		//skinAdd("/skin/add")
+		skinAdd("/skin/add")
 		//questionAdd("/question/addAll")
 		//answerAdd("/answer/addAll")
 		//shijiesaiAdd("/shijiesai/addList")
-		memberAdd("/member/addAll")
+		//memberAdd("/member/addAll")
 	}()
 }
