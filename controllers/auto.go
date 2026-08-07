@@ -1,177 +1,84 @@
 package controllers
 
 import (
-	"fmt"
+	"log"
+	"net/http"
+
 	"go_project/models"
 	"go_project/utils"
-	"net/http"
 
 	"github.com/gin-gonic/gin"
 )
 
-// 新增皮肤diy
-func skinDiyAdd(url string) {
-	var data []models.SkinDiyBase
-	if loadErr := utils.LoadJSON("data/skinDiy.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-
-	var addData models.SkinDiyAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.SkinDiyAddData]("skin_diy", url, addData)
+type autoJob struct {
+	name    string
+	enabled bool
+	run     func()
 }
 
-// 新增卡牌diy
-func cardDiyAdd(url string) {
-	var data []models.CardDiyBase
-	if loadErr := utils.LoadJSON("data/cardDiy.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
+func loadAndAdd[T any](file, table, url string) {
+	var data []T
+	if err := utils.LoadJSON(file, &data); err != nil {
+		log.Printf("读取失败 %s: %v", file, err)
 		return
 	}
-	var addData models.CardDiyAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.CardDiyAddData]("card_diy", url, addData)
+	utils.AutoAddTableData(table, url, models.AddData[T]{Data: data})
+	log.Printf("同步完成: %s -> %s (%d 条)", file, table, len(data))
 }
 
-// 新增卡组diy
-func frequencyAdd(url string) {
-	var data []models.FrequencyBase
-	if loadErr := utils.LoadJSON("data/frequency.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.FrequencyAddAData
-	addData.Data = data
-	utils.AutoAddTableData[models.FrequencyAddAData]("frequency", url, addData)
+var autoJobs = []autoJob{
+	{name: "skinDiy", enabled: false, run: func() {
+		loadAndAdd[models.SkinDiyBase]("data/skinDiy.json", "skin_diy", "/skinDiy/addAll")
+	}},
+	{name: "cardDiy", enabled: false, run: func() {
+		loadAndAdd[models.CardDiyBase]("data/cardDiy.json", "card_diy", "/cardDiy/addAll")
+	}},
+	{name: "frequency", enabled: true, run: func() {
+		loadAndAdd[models.FrequencyBase]("data/frequency.json", "frequency", "/frequency/cardsAddAll")
+	}},
+	{name: "card", enabled: false, run: func() {
+		loadAndAdd[models.CardBase]("data/card.json", "card", "/card/add")
+	}},
+	{name: "shenqi", enabled: false, run: func() {
+		loadAndAdd[models.ShenqiBase]("data/shenqi.json", "shenqi", "/shenqi/add")
+	}},
+	{name: "hero", enabled: false, run: func() {
+		loadAndAdd[models.HeroBase]("data/hero.json", "hero", "/hero/add")
+	}},
+	{name: "shard", enabled: false, run: func() {
+		loadAndAdd[models.ShardBase]("data/shard.json", "shard", "/hero/shardAdd")
+	}},
+	{name: "skin", enabled: false, run: func() {
+		loadAndAdd[models.SkinBase]("data/skin.json", "skin", "/skin/add")
+	}},
+	{name: "question", enabled: false, run: func() {
+		loadAndAdd[models.QuestionBase]("data/question.json", "question", "/question/addAll")
+	}},
+	{name: "answer", enabled: false, run: func() {
+		loadAndAdd[models.AnswerBase]("data/answer.json", "answer", "/answer/addAll")
+	}},
+	{name: "shijiesai", enabled: false, run: func() {
+		loadAndAdd[models.ShijiesaiBase]("data/shijiesai.json", "shijiesai", "/shijiesai/addList")
+	}},
+	{name: "member", enabled: true, run: func() {
+		loadAndAdd[models.MemberBase]("data/member.json", "member", "/member/addAll")
+	}},
 }
 
-// 新增种族
-func cardAdd(url string) {
-	var data []models.CardBase
-	if loadErr := utils.LoadJSON("data/card.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-
-	var addData models.CardAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.CardAddData]("card", url, addData)
-}
-
-// 新增神器
-func shenqiAdd(url string) {
-	var data []models.ShenqiBase
-	if loadErr := utils.LoadJSON("data/shenqi.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.ShenqiAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.ShenqiAddData]("shenqi", url, addData)
-}
-
-// 英雄
-func heroAdd(url string) {
-	var data []models.HeroBase
-	if loadErr := utils.LoadJSON("data/hero.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.HeroddData
-	addData.Data = data
-	utils.AutoAddTableData[models.HeroddData]("hero", url, addData)
-}
-
-// 英雄碎片
-func shardAdd(url string) {
-	var data []models.ShardBase
-	if loadErr := utils.LoadJSON("data/shard.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.ShardAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.ShardAddData]("shard", url, addData)
-}
-
-// 皮肤
-func skinAdd(url string) {
-	var data []models.SkinBase
-	if loadErr := utils.LoadJSON("data/skin.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.SkinAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.SkinAddData]("skin", url, addData)
-}
-
-// 每日一题问题
-func questionAdd(url string) {
-	var data []models.QuestionBase
-	if loadErr := utils.LoadJSON("data/question.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.QuestionAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.QuestionAddData]("question", url, addData)
-}
-
-// 每日一题答案
-func answerAdd(url string) {
-	var data []models.AnswerBase
-	if loadErr := utils.LoadJSON("data/answer.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.AnswerAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.AnswerAddData]("answer", url, addData)
-}
-
-// 世界赛
-func shijiesaiAdd(url string) {
-	var data []models.ShijiesaiBase
-	if loadErr := utils.LoadJSON("data/shijiesai.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.ShijiesaiAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.ShijiesaiAddData]("shijiesai", url, addData)
-}
-
-// 成员
-func memberAdd(url string) {
-	var data []models.MemberBase
-	if loadErr := utils.LoadJSON("data/member.json", &data); loadErr != nil {
-		fmt.Println("读取失败：", loadErr)
-		return
-	}
-	var addData models.MemberAddData
-	addData.Data = data
-	utils.AutoAddTableData[models.MemberAddData]("member", url, addData)
-}
-
-// 自动化更新数据
+// mysqlAuto 按启用任务异步同步数据
 func mysqlAuto(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
-		"msg": "自动化已执行",
+		"code": 200,
+		"msg":  "自动化已执行",
 	})
 	go func() {
-		//skinDiyAdd("/skinDiy/addAll")
-		//cardDiyAdd("/cardDiy/addAll")
-		//frequencyAdd("/frequency/cardsAddAll")
-		cardAdd("/card/add")
-		//shenqiAdd("/shenqi/add")
-		//heroAdd("/hero/add")
-		//shardAdd("/hero/shardAdd")
-		//skinAdd("/skin/add")
-		//questionAdd("/question/addAll")
-		//answerAdd("/answer/addAll")
-		//shijiesaiAdd("/shijiesai/addList")
-		//memberAdd("/member/addAll")
+		for _, job := range autoJobs {
+			if !job.enabled {
+				continue
+			}
+			log.Printf("开始同步: %s", job.name)
+			job.run()
+		}
+		log.Println("全部同步任务结束")
 	}()
 }

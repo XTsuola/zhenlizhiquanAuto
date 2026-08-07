@@ -1,5 +1,10 @@
 package models
 
+// AddData 通用批量新增请求体
+type AddData[T any] struct {
+	Data []T `json:"data"`
+}
+
 type SkinDiyBase struct {
 	CardId string `json:"cardId" gorm:"column:cardId"`
 	Name   string `json:"name"`
@@ -7,9 +12,6 @@ type SkinDiyBase struct {
 	Effect string `json:"effect"`
 	Reason string `json:"reason"`
 	Remark string `json:"remark"`
-}
-type SkinDiyAddData struct {
-	Data []SkinDiyBase `json:"data"`
 }
 
 type CardDiyBase struct {
@@ -25,9 +27,6 @@ type CardDiyBase struct {
 	Info     string `json:"info"`
 	Remark   string `json:"remark"`
 }
-type CardDiyAddData struct {
-	Data []CardDiyBase `json:"data"`
-}
 
 type FrequencyBase struct {
 	Name     string `json:"name"`
@@ -36,9 +35,6 @@ type FrequencyBase struct {
 	HeroLife int    `json:"heroLife" gorm:"column:heroLife"`
 	Cards    string `json:"cards"`
 	Time     string `json:"time"`
-}
-type FrequencyAddAData struct {
-	Data []FrequencyBase `json:"data"`
 }
 
 type CardData struct {
@@ -59,10 +55,6 @@ type CardBase struct {
 	Data    []CardData `json:"data"`
 }
 
-type CardAddData struct {
-	Data []CardBase `json:"data"`
-}
-
 type ShenqiData struct {
 	Effect string `json:"effect"`
 }
@@ -77,10 +69,6 @@ type ShenqiBase struct {
 	Data    []ShenqiData `json:"data"`
 }
 
-type ShenqiAddData struct {
-	Data []ShenqiBase `json:"data"`
-}
-
 type HeroData struct {
 	Effect string `json:"effect"`
 }
@@ -92,21 +80,14 @@ type HeroBase struct {
 	Fu        int        `json:"fu"`
 	SkillName string     `json:"skillName" gorm:"column:skillName"`
 	Img       string     `json:"img"`
+	Agent     []string   `json:"agent"`
 	Data      []HeroData `json:"data"`
-}
-
-type HeroddData struct {
-	Data []HeroBase `json:"data"`
 }
 
 type ShardBase struct {
 	Quality   int    `json:"quality"`
 	LevelData string `json:"levelData" gorm:"column:levelData"`
 	SkillData string `json:"skillData" gorm:"column:skillData"`
-}
-
-type ShardAddData struct {
-	Data []ShardBase `json:"data"`
 }
 
 type SkinBase struct {
@@ -122,17 +103,9 @@ type SkinBase struct {
 	Effect  []string `json:"effect"`
 }
 
-type SkinAddData struct {
-	Data []SkinBase `json:"data"`
-}
-
 type QuestionBase struct {
 	Info string `json:"info"`
 	Time string `json:"time"`
-}
-
-type QuestionAddData struct {
-	Data []QuestionBase `json:"data"`
 }
 
 type AnswerBase struct {
@@ -140,10 +113,6 @@ type AnswerBase struct {
 	Name       string `json:"name"`
 	Content    string `json:"content"`
 	Time       string `json:"time"`
-}
-
-type AnswerAddData struct {
-	Data []AnswerBase `json:"data"`
 }
 
 type XuanshouInfo struct {
@@ -159,18 +128,10 @@ type ShijiesaiBase struct {
 	ShengfuList []int `json:"shengfuList" gorm:"column:shengfuList"`
 }
 
-type ShijiesaiAddData struct {
-	Data []ShijiesaiBase `json:"data"`
-}
-
 type MemberBase struct {
 	Name     string  `json:"name"`
 	Score    float64 `json:"score"`
 	Donation float64 `json:"donation"`
 	Title    string  `json:"title"`
 	Remark   string  `json:"remark"`
-}
-
-type MemberAddData struct {
-	Data []MemberBase `json:"data"`
 }

@@ -1,28 +1,24 @@
 package router
 
 import (
-	"go_project/config"
-	"go_project/controllers"
 	"time"
 
+	"go_project/controllers"
+
 	"github.com/gin-contrib/cors"
+	"github.com/gin-gonic/gin"
 )
 
-func InitRouter() {
-	controllers.R.Use(cors.New(cors.Config{
-		AllowOrigins:     []string{"*"}, // 允许所有域，生产环境建议改为具体域名
-		AllowMethods:     []string{"GET", "POST", "PUT", "DELETE", "OPTIONS"},
-		AllowHeaders:     []string{"Origin", "Content-Type", "Authorization", "Token"},
-		ExposeHeaders:    []string{"Content-Length"},
-		AllowCredentials: true,
-		MaxAge:           12 * time.Hour,
+// New 创建并配置 HTTP 路由
+func New() *gin.Engine {
+	r := gin.Default()
+	r.Use(cors.New(cors.Config{
+		AllowAllOrigins: true,
+		AllowMethods:    []string{"GET", "POST", "PUT", "DELETE", "OPTIONS"},
+		AllowHeaders:    []string{"Origin", "Content-Type", "Authorization", "Token"},
+		ExposeHeaders:   []string{"Content-Length"},
+		MaxAge:          12 * time.Hour,
 	}))
-	config.InitDB()
-	controllers.InitController()
-	err := controllers.R.Run(":8008")
-	if err != nil {
-		return
-	}
-
-	//StartHTTPS()
+	controllers.RegisterRoutes(r)
+	return r
 }

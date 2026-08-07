@@ -38,12 +38,18 @@ func POST[T any](url string, addData T) error {
 	client := http.Client{
 		Timeout: Timeout,
 	}
-	data, _ := json.Marshal(addData)
-	resp, resErr := client.Post(
+	data, err := json.Marshal(addData)
+	if err != nil {
+		return err
+	}
+	resp, err := client.Post(
 		BaseUrl+url,
 		"application/json; charset=utf-8",
 		bytes.NewBuffer(data),
 	)
+	if err != nil {
+		return err
+	}
 	defer resp.Body.Close()
-	return resErr
+	return nil
 }
