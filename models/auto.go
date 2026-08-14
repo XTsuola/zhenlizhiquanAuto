@@ -132,6 +132,7 @@ type MemberBase struct {
 	Name     string  `json:"name"`
 	Score    float64 `json:"score"`
 	Donation float64 `json:"donation"`
+	Reward   float64 `json:"reward"`
 	Title    string  `json:"title"`
 	Remark   string  `json:"remark"`
 }
