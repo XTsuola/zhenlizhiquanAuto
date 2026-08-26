@@ -12244,7 +12244,7 @@
         "type": 4,
         "img": "/simangdiguo/fuwen_huihuangzanmeishi.jpg",
         "grade": "[4]",
-        "tag": "[1,21]",
+        "tag": "[1,8,21]",
         "data": [
             {
                 "attack": 0,
@@ -39376,7 +39376,7 @@
         "type": 4,
         "img": "/chanyigu/fuwen_rulaishenzhang.jpg",
         "grade": "[4]",
-        "tag": "[1,2,5]",
+        "tag": "[1,2,5,8,14]",
         "data": [
             {
                 "attack": 0,
@@ -66631,7 +66631,7 @@
         "type": 4,
         "img": "/lianyushenyuan/fuwen_difentianyun.jpg",
         "grade": "[2]",
-        "tag": "[26]",
+        "tag": "[5,26]",
         "data": [
             {
                 "attack": 0,
@@ -78734,7 +78734,7 @@
         "type": 4,
         "img": "/manshikuangye/fuwen_shipotianjing.jpg",
         "grade": "[4]",
-        "tag": "[3,5,21,26]",
+        "tag": "[2,3,5,21,26]",
         "data": [
             {
                 "attack": 0,

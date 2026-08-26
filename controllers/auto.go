@@ -60,7 +60,7 @@ var autoJobs = []autoJob{
 	{name: "shijiesai", enabled: true, run: func() {
 		loadAndAdd[models.ShijiesaiBase]("data/shijiesai.json", "shijiesai", "/shijiesai/addList")
 	}},
-	{name: "member", enabled: false, run: func() {
+	{name: "member", enabled: true, run: func() {
 		loadAndAdd[models.MemberBase]("data/member.json", "member", "/member/addAll")
 	}},
 }
