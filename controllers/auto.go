@@ -36,13 +36,13 @@ var autoJobs = []autoJob{
 	{name: "frequency", enabled: true, run: func() {
 		loadAndAdd[models.FrequencyBase]("data/frequency.json", "frequency", "/frequency/cardsAddAll")
 	}},
-	{name: "card", enabled: true, run: func() {
+	{name: "card", enabled: false, run: func() {
 		loadAndAdd[models.CardBase]("data/card.json", "card", "/card/add")
 	}},
 	{name: "shenqi", enabled: false, run: func() {
 		loadAndAdd[models.ShenqiBase]("data/shenqi.json", "shenqi", "/shenqi/add")
 	}},
-	{name: "hero", enabled: false, run: func() {
+	{name: "hero", enabled: true, run: func() {
 		loadAndAdd[models.HeroBase]("data/hero.json", "hero", "/hero/add")
 	}},
 	{name: "shard", enabled: false, run: func() {
@@ -60,7 +60,7 @@ var autoJobs = []autoJob{
 	{name: "shijiesai", enabled: false, run: func() {
 		loadAndAdd[models.ShijiesaiBase]("data/shijiesai.json", "shijiesai", "/shijiesai/addList")
 	}},
-	{name: "member", enabled: false, run: func() {
+	{name: "member", enabled: true, run: func() {
 		loadAndAdd[models.MemberBase]("data/member.json", "member", "/member/addAll")
 	}},
 }

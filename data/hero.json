@@ -7,7 +7,10 @@
         "fu": 5,
         "skillName": "魔音风暴",
         "img": "/xi.jpg",
-        "agent": ["旧城", "企鹅"],
+        "agent": [
+            "sky",
+            "逆天"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：吹回随机敌军生物，对敌方英雄造成7点伤害"
@@ -64,7 +67,10 @@
         "fu": 3,
         "skillName": "狮王之力",
         "img": "/chacha.jpg",
-        "agent": ["理解力", "小黑"],
+        "agent": [
+            "暗影",
+            "SHEN"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：随机友军生物+1/+1，获得1回合【践踏】"
@@ -121,7 +127,10 @@
         "fu": 2,
         "skillName": "真理审判",
         "img": "/yiluolian.jpg",
-        "agent": ["律师", "大土"],
+        "agent": [
+            "一轮明月",
+            "陈炜鹏"
+        ],
         "data": [
             {
                 "effect": "【第6回合开始】：雷击随机敌军生命10点，回复10点英雄生命"
@@ -178,7 +187,10 @@
         "fu": 4,
         "skillName": "冬神启示",
         "img": "/kouweikesi.jpg",
-        "agent": ["余月", "律师"],
+        "agent": [
+            "余月",
+            "律师"
+        ],
         "data": [
             {
                 "effect": "【第3回合开始】：中排召唤【残破神庙-lv3】"
@@ -235,7 +247,10 @@
         "fu": 5,
         "skillName": "唤魔仪式",
         "img": "/shaerma.jpg",
-        "agent": ["豹米花", "余月"],
+        "agent": [
+            "律师",
+            "余月"
+        ],
         "data": [
             {
                 "effect": "【第1回合开始】：吸取敌方英雄4点生命，获得【红海使魔-lv2】"
@@ -292,7 +307,10 @@
         "fu": 6,
         "skillName": "蛮荒献祭",
         "img": "/gelatana.jpg",
-        "agent": ["理解力", "焦点"],
+        "agent": [
+            "逆天",
+            "李果"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：召唤【蛮荒魔神-lv1】"
@@ -349,7 +367,10 @@
         "fu": 7,
         "skillName": "归于虚无",
         "img": "/kongwu.jpg",
-        "agent": ["zcy", "小空无"],
+        "agent": [
+            "zcy",
+            "伴宫"
+        ],
         "data": [
             {
                 "effect": "【第2回合开始】：荒芜一个敌方区域，获得【传记·荒芜挽歌·序-lv1】"
@@ -406,7 +427,9 @@
         "fu": 4,
         "skillName": "传承之道",
         "img": "/yu.jpg",
-        "agent": ["清风", "五五开"],
+        "agent": [
+            "五五开"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：随机友军生物获得【传承1】"
@@ -463,7 +486,10 @@
         "fu": 3,
         "skillName": "莲华守护",
         "img": "/baichuzun.jpg",
-        "agent": ["龟龟", "零六"],
+        "agent": [
+            "龟龟",
+            "姜岩"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：全体友军生物+1/+1"
@@ -520,7 +546,9 @@
         "fu": 3,
         "skillName": "暗影突袭",
         "img": "/xinkesi.jpg",
-        "agent": ["阿白", "清风"],
+        "agent": [
+            "姜岩"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：突袭随机敌军生物3点伤害"
@@ -577,7 +605,10 @@
         "fu": 4,
         "skillName": "术法研究",
         "img": "/genaluoer.jpg",
-        "agent": ["风尘", "QQ"],
+        "agent": [
+            "风尘",
+            "余月"
+        ],
         "data": [
             {
                 "effect": "【第4回合结束】：获得手牌【沉默术-lv3】和【蕾拉火弹-lv3】"
@@ -634,7 +665,9 @@
         "fu": 2,
         "skillName": "烈焰折磨",
         "img": "/youruiaili.jpg",
-        "agent": [],
+        "agent": [
+            "KB"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：敌方弃一张牌，若无手牌随机友军生物+2/+2"
@@ -691,7 +724,10 @@
         "fu": 5,
         "skillName": "百兽加护",
         "img": "/geluolande.jpg",
-        "agent": ["理解力", "逆天"],
+        "agent": [
+            "逆天",
+            "李果"
+        ],
         "data": [
             {
                 "effect": "【第1回合结束】：获得手牌【生命源力-lv3】"
@@ -748,7 +784,10 @@
         "fu": 1,
         "skillName": "女妖之嚎",
         "img": "/seruilei.jpg",
-        "agent": ["啾啾"],
+        "agent": [
+            "啾啾",
+            "苏幕"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：随机敌军生物本回合不能攻击，并冰封随机区域"
@@ -805,7 +844,9 @@
         "fu": 5,
         "skillName": "烈焰之盾",
         "img": "/akade.jpg",
-        "agent": ["理解力", "余月"],
+        "agent": [
+            "旧城之下"
+        ],
         "data": [
             {
                 "effect": "【第3回合开始】：随机友军攻击+1，护甲+1"
@@ -862,7 +903,10 @@
         "fu": 2,
         "skillName": "混元八卦掌",
         "img": "/luo.jpg",
-        "agent": ["suola", "风尘"],
+        "agent": [
+            "KB",
+            "风尘"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：随机友军获得【连击】2回合"
@@ -919,7 +963,10 @@
         "fu": 2,
         "skillName": "快刀封喉",
         "img": "/mogen.jpg",
-        "agent": ["风尘", "zcy"],
+        "agent": [
+            "风尘",
+            "zcy"
+        ],
         "data": [
             {
                 "effect": "【第3回合开始】：所有先攻友军攻击+1"
@@ -976,7 +1023,9 @@
         "fu": 7,
         "skillName": "冰雪盟友",
         "img": "/saike.jpg",
-        "agent": ["苏幕"],
+        "agent": [
+            "苏幕"
+        ],
         "data": [
             {
                 "effect": "【第3回合开始】：召唤【深山雪怪-lv1】"
@@ -1033,7 +1082,9 @@
         "fu": 3,
         "skillName": "烈风箭",
         "img": "/xila.jpg",
-        "agent": ["#", "企鹅"],
+        "agent": [
+            "#"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：射击随机区域10点伤害，随机友军攻击+2"
@@ -1090,7 +1141,9 @@
         "fu": 5,
         "skillName": "鲜血盛宴",
         "img": "/fuladesanshi.jpg",
-        "agent": ["不过须臾"],
+        "agent": [
+            "不过须臾"
+        ],
         "data": [
             {
                 "effect": "【第1回合开始】：后排位置召唤【饮血圣者-lv1】"
@@ -1147,7 +1200,9 @@
         "fu": 5,
         "skillName": "火寒毒种",
         "img": "/daimeng.jpg",
-        "agent": ["理解力", "焦点"],
+        "agent": [
+            "焦点"
+        ],
         "data": [
             {
                 "effect": "【第1回合结束】：敌方区域召唤【火寒毒种-lv1】"
@@ -1204,7 +1259,9 @@
         "fu": 6,
         "skillName": "剑十三·破",
         "img": "/xun.jpg",
-        "agent": ["大核桃", "理解力"],
+        "agent": [
+            "大核桃"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：随机友军生物+1/+2，获得【回命】"
@@ -1261,7 +1318,9 @@
         "fu": 7,
         "skillName": "陷入绝望",
         "img": "/lielajin.jpg",
-        "agent": ["余月", "教主"],
+        "agent": [
+            "余月"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：召唤【绝望镰魔-lv2】"
@@ -1318,7 +1377,9 @@
         "fu": 3,
         "skillName": "邪月当空",
         "img": "/zhubei.jpg",
-        "agent": ["suola"],
+        "agent": [
+            "风尘"
+        ],
         "data": [
             {
                 "effect": "【第3回合开始】：召唤【邪月妖猫-lv2】"
@@ -1375,7 +1436,10 @@
         "fu": 1,
         "skillName": "汲取生命",
         "img": "/yigena.jpg",
-        "agent": ["旧城", "电量不足"],
+        "agent": [
+            "不过须臾",
+            "旧城之下"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：随机敌军生物生命-2，随机友军生物生命+2"
@@ -1432,7 +1496,9 @@
         "fu": 6,
         "skillName": "寒冬赐福",
         "img": "/haifolieke.jpg",
-        "agent": ["苏幕", "教主"],
+        "agent": [
+            "苏幕"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：己方战场每有一块冰封区域英雄生命+1，随机友军生物攻击+1"
@@ -1489,7 +1555,9 @@
         "fu": 2,
         "skillName": "灵魂吸收",
         "img": "/sakasite.jpg",
-        "agent": ["教主", "果冻"],
+        "agent": [
+            "教主"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：敌方战场每有一格冰封区域，随机敌军生物-1/-1"
@@ -1546,7 +1614,9 @@
         "fu": 4,
         "skillName": "巨兽出击",
         "img": "/bulong.jpg",
-        "agent": ["教主", "苏幕"],
+        "agent": [
+            "独眼King"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：全体迟缓友军生物攻击+1"
@@ -1603,7 +1673,10 @@
         "fu": 1,
         "skillName": "扬起黑旗",
         "img": "/yafendaikesi.jpg",
-        "agent": ["蛙神", "永恒"],
+        "agent": [
+            "蛙神",
+            "陈炜鹏"
+        ],
         "data": [
             {
                 "effect": "【第3回合开始】：吸取敌方英雄4点生命"
@@ -1660,7 +1733,10 @@
         "fu": 6,
         "skillName": "回生药水",
         "img": "/bulangmengduo.jpg",
-        "agent": ["夜风"],
+        "agent": [
+            "暗影",
+            "SHEN"
+        ],
         "data": [
             {
                 "effect": "【第3回合开始】：回复英雄6点生命"
@@ -1717,7 +1793,9 @@
         "fu": 7,
         "skillName": "反击时刻",
         "img": "/andaiyin.jpg",
-        "agent": ["啾啾"],
+        "agent": [
+            "苏幕"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：随机友军+1/+1，失去【守军】和【迟缓】"
@@ -1774,7 +1852,10 @@
         "fu": 2,
         "skillName": "利爪赐福",
         "img": "/miaomiao.jpg",
-        "agent": ["教主", "大核桃"],
+        "agent": [
+            "大核桃",
+            "教主"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：全体生物受到1点伤害，随机友军+1/+3"
@@ -1831,7 +1912,10 @@
         "fu": 7,
         "skillName": "雪域传承",
         "img": "/lie.jpg",
-        "agent": ["zcy", "五五开"],
+        "agent": [
+            "zcy",
+            "五五开"
+        ],
         "data": [
             {
                 "effect": "【第3回合结束】：获得【熊大-lv1】"
@@ -1888,7 +1972,10 @@
         "fu": 1,
         "skillName": "揭示未来",
         "img": "/asitala.jpg",
-        "agent": ["suola", "教主"],
+        "agent": [
+            "教主",
+            "一轮明月"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：2个友军生命+1、【洞察1】"
@@ -1945,7 +2032,10 @@
         "fu": 7,
         "skillName": "黑夜与黎明",
         "img": "/youke.jpg",
-        "agent": ["律师", "余月"],
+        "agent": [
+            "段",
+            "啾啾"
+        ],
         "data": [
             {
                 "effect": "【第3回合结束】：敌方英雄法力永久-1，后排召唤【晨光魔宠-lv3】"
@@ -2002,7 +2092,10 @@
         "fu": 1,
         "skillName": "金钟罩",
         "img": "/mei.jpg",
-        "agent": ["阿白", "不过须臾"],
+        "agent": [
+            "陈炜鹏",
+            "姜岩"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：随机友军生命+3"
@@ -2059,7 +2152,10 @@
         "fu": 6,
         "skillName": "组装学仆",
         "img": "/sailaisita.jpg",
-        "agent": ["大核桃", "理解力"],
+        "agent": [
+            "大核桃",
+            "李果"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：召唤【隐秘核心-lv1】"
@@ -2116,7 +2212,10 @@
         "fu": 4,
         "skillName": "重炮阵地",
         "img": "/saweiliya.jpg",
-        "agent": ["星空", "吾魂"],
+        "agent": [
+            "星空",
+            "吾魂"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：召唤【帝国重炮-lv1】"
@@ -2173,7 +2272,7 @@
         "fu": 6,
         "skillName": "水手增援",
         "img": "/baoweiwusi.jpg",
-        "agent": [],
+        "agent": ["顾圆"],
         "data": [
             {
                 "effect": "【第4回合结束】：召唤【水手-lv1】"
@@ -2230,7 +2329,9 @@
         "fu": 1,
         "skillName": "狂野爆发",
         "img": "/danbawaer.jpg",
-        "agent": ["教主", "污鸦"],
+        "agent": [
+            "教主"
+        ],
         "data": [
             {
                 "effect": "【第4回合开始】：随机友军生物攻击+2"
@@ -2287,7 +2388,10 @@
         "fu": 4,
         "skillName": "流星火雨",
         "img": "/wasilan.jpg",
-        "agent": ["企鹅", "#"],
+        "agent": [
+            "企鹅",
+            "sky"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：坠落2个2点伤害的火球"
@@ -2344,7 +2448,10 @@
         "fu": 3,
         "skillName": "刺骨冰封",
         "img": "/saina.jpg",
-        "agent": ["清风", "五五开"],
+        "agent": [
+            "古月星辰",
+            "五五开"
+        ],
         "data": [
             {
                 "effect": "【第5回合开始】：随机敌军生物-2/-2"
